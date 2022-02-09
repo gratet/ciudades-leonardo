@@ -8,39 +8,27 @@
   dropdown:
   - title: "Who we are"
     url: "/project/team/"
-  - title: "Typography"
-    url: "/project/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Objectives"
+    url: "/project/objectives/"
+  - title: "Hypothesis and background"
+    url: "/project/background/"
+  - title: "Foremer projects"
+    url: "/project/former/"
     
 - title: Publications
-  url: "/getting-started/"
+  url: "/publications/"
   side: left
   
 - title: Conference papers
-  url: "/getting-started/"
+  url: "/conferences/"
   side: left
 
 - title: PhD Theses
-  url: "/getting-started/"
+  url: "/phd-theses/"
   side: left
 
 - title: Adaptour Webinar
-  url: "/getting-started/"
+  url: "/webinar/"
   side: left
 
 
