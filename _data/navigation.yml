@@ -2,14 +2,14 @@
   url: "/"
   side: left
   
-- title: "Projects"
-  url: "/design/"
+- title: "Project"
+  url: "/project/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
+  - title: "Who we are"
+    url: "/project/team/"
   - title: "Typography"
-    url: "/design/typography/typography/"
+    url: "/project/typography/"
   - title: "Page/Post"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
@@ -27,10 +27,6 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
     
-- title: Team
-  url: "/getting-started/"
-  side: left
-    
 - title: Publications
   url: "/getting-started/"
   side: left
@@ -43,7 +39,7 @@
   url: "/getting-started/"
   side: left
 
-- title: Politur Webinar
+- title: Adaptour Webinar
   url: "/getting-started/"
   side: left
 
