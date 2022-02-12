@@ -16,25 +16,18 @@ header:
     caption: 
 ---
 
-<!--more
-
-<div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-
-</div><!-- /.medium-4.columns -->
- 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" style= "text-align: center;">
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 
 
 {% for member in site.data.team %}
 
 
 <li>
-<div itemscope itemtype="http://schema.org/Person">
+<div itemscope itemtype="http://schema.org/Person" style= "text-align: center;">
 
 <h5>
 {% if member.name %}
