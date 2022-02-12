@@ -1,0 +1,67 @@
+
+- name: Salvador
+  lastname: Antón-Clavé
+  position: Principal Investigator
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Geography
+  pic: user-placeholder.png
+  keywords:
+    - tourism
+    - geography
+  email: 
+    - title: E-mail
+      url: salvador.anton@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.researchgate.net/profile/
+      class: icon-home
+    - title: ORCID
+      url:  https://orcid.org/0000-0001-9818-2778
+      class: "ai ai-orcid"
+
+- name: Jordi
+  lastname: Andreu-Beltran
+  position: Technician
+  organization: Universitat Rovira i Virgili
+  department:  Dpt. of Geography
+  pic: user-placeholder.png
+  keywords:
+    - gis
+    - cartography
+    - tourism
+  email: 
+    - title: E-mail
+      url: jordi.andreu@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://www.urv.cat/html/grupsrecerca/investigadors/general-I2369.php
+      class: icon-home
+
+- name: Benito
+  lastname: Zaragozí
+  position: Lecturer
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Geography
+  pic: benito-zaragozi.png
+  keywords:
+    - gis
+    - geodatabases
+    - data mining
+    - giscience
+  email: 
+    - title: E-mail
+      url: benito.zaragozi@urv.cat
+      class: icon-mail
+  social:
+    - title: home
+      url: https://benito-zaragozi.com
+      class: icon-home
+    - title: linkedin
+      url: https://es.linkedin.com/in/benito-m-zaragozí-295b6940
+      class: icon-linkedin
+    - title: github
+      url: https://github.com/benizar
+      class: icon-github
+

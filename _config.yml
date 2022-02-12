@@ -17,7 +17,7 @@ slogan: 'Tourism after global changes'
 description: 'A short description for web searches'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -78,6 +78,8 @@ exclude:
     - INSTALL.md
     - vendor
     - node_modules
+    - Makefile
+    - docker-compose.yml
 
 
 
@@ -194,8 +196,8 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    twitter   : gratetURV
+    facebook  : 
 
 
 #        ____  _

@@ -12,7 +12,7 @@
     url: "/project/objectives/"
   - title: "Hypothesis and background"
     url: "/project/background/"
-  - title: "Foremer projects"
+  - title: "Former projects"
     url: "/project/former/"
     
 - title: Publications
@@ -27,7 +27,7 @@
   url: "/phd-theses/"
   side: left
 
-- title: Adaptour Webinar
+- title: Webinars
   url: "/webinar/"
   side: left
 

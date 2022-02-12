@@ -1,6 +1,7 @@
 ---
 permalink: "/webinar/"
-layout: page-fullwidth
+layout: page
+sidebar: right
 title: "Adaptour webinar"
 meta_title: "Adaptour webinar"
 subheadline: "Adaptour webinar"

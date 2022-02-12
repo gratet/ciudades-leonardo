@@ -3,7 +3,7 @@ permalink: "/project/former/"
 layout: page-fullwidth
 title: "Former projects"
 meta_title: "Former projects"
-subheadline: "Former projects"
+subheadline: "Project"
 
 teaser: "Some important info about the project precedents." 
 
