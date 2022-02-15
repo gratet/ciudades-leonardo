@@ -1,6 +1,6 @@
 
 - name: Salvador
-  lastname: Antón-Clavé
+  lastname: Anton-Clavé
   position: Principal Investigator
   organization: Universitat Rovira i Virgili
   department: Dept. of Geography
@@ -21,7 +21,7 @@
       class: "ai ai-orcid"
 
 - name: Jordi
-  lastname: Andreu-Beltran
+  lastname: Andreu-Bertran
   position: Technician
   organization: Universitat Rovira i Virgili
   department:  Dpt. of Geography
@@ -64,4 +64,10 @@
     - title: github
       url: https://github.com/benizar
       class: icon-github
+    - title: ResearchGate
+      url: https://www.researchgate.net/profile/Benito-Zaragozi
+      class: "ai ai-researchgate"
+      
+      
+      
 
