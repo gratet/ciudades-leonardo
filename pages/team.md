@@ -1,23 +1,20 @@
 ---
 permalink: "/project/team/"
 layout: page-fullwidth
+breadcrumb: true
 title: "Who we are"
 meta_title: "Who we are"
 subheadline: "Meet the team"
 
-teaser: "Some important info about the project Adaptour team." 
+teaser: "The ADAPTOUR project team is composed of 10 doctors in the Research Team and six doctors, seven doctoral students and one research assistant in the Working Team. The project will be coordinated by a senior and a junior Principal Investigator, both with experience in leading projects and a significant track of international research outputs. Members of the two teams belong to seven different research groups from five different research institutions which have previously collaborated. Fifty per cent of the whole team is composed of geographers (12) but it also includes researchers with background in political science (1), computer science (1), economics (2), sociology (2) and tourism studies (6)." 
 
 meta_teaser: "Metadata about..."
-
 
 header:
     image_fullwidth: header_homepage_13.jpg
     background-color: "#262930"
     caption: 
 ---
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">

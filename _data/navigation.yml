@@ -1,4 +1,4 @@
-- title: Home
+- title: "Home"
   url: "/"
   side: left
   
@@ -13,30 +13,32 @@
   - title: "Hypothesis and background"
     url: "/project/background/"
   - title: "Former projects"
-    url: "/project/former/"
-    
-- title: Publications
+    url: "/project/related-projects/"
+
+- title: "Publications"
   url: "/publications/"
   side: left
-  
-- title: Conference papers
-  url: "/conferences/"
-  side: left
+  dropdown:
+  - title: "Journal articles"
+    url: "/publications/journal-articles/"
+  - title: "Book chapters"
+    url: "/publications/book-chapters/"
+  - title: "Conference papers"
+    url: "/publications/conference-papers/"
 
-- title: PhD Theses
+- title: "PhD Theses"
   url: "/phd-theses/"
   side: left
 
-- title: Webinars
-  url: "/webinar/"
+- title: "Meetings"
+  url: "/meetings/"
   side: left
-
 
 
 - title: "Search"
   url: "/search/"
-  side: right
+  side: left
 
 - title: "Contact"
   url: "/contact/"
-  side: right
+  side: left

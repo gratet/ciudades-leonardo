@@ -1,6 +1,7 @@
 ---
 permalink: "/publications/"
 layout: page-fullwidth
+breadcrumb: true
 title: "Publications"
 meta_title: "Publications"
 subheadline: "Publications"

@@ -5,6 +5,7 @@ meta_title          : "Contact"
 subheadline         : "Contact"
 teaser              : "Use the e-mail to contact the project's team."
 permalink           : "/contact/"
+breadcrumb: true
 ---
 <div class="row">
 

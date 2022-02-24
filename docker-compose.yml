@@ -2,14 +2,14 @@ version: "3.7"
 
 services:
   jekyll_site:
-    image: jekyll/jekyll:4.0
+    image: jekyll:21.04
     #command: ["jekyll", "serve", "--watch", "--draft"]
-    command: jekyll serve --watch --draft --incremental --config _config.yml,_config_dev.yml --host 0.0.0.0
+    command: jekyll serve --watch --draft --incremental --config _config.yml,_config_dev.yml --host 0.0.0.0 --verbose
     
     ports:
       - "4000:4000"
     volumes:
      - type: bind
        source: .
-       target: /srv/jekyll
+       target: /source
 
