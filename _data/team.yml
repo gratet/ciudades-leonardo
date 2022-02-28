@@ -11,11 +11,11 @@
   email: 
     - title: E-mail
       url: salvador.anton@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
     - title: home
       url: https://www.researchgate.net/profile/
-      class: icon-home
+      class: "fa-solid fa-house-user fa-2x"
     - title: ORCID
       url:  https://orcid.org/0000-0001-9818-2778
       class: "ai ai-orcid ai-2x"
@@ -35,17 +35,17 @@
   email: 
     - title: E-mail
       url: aaron.gutierrez@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0003-0557-6319
+      class: "ai ai-orcid ai-2x"
     - title: ResearchGate
       url: https://www.researchgate.net/profile/Aaron-Gutierrez-5
       class: "ai ai-researchgate ai-2x"
     - title: Google Scholar
       url: https://scholar.google.com/citations?user=yrywqJ8AAAAJ&hl=en
       class: "ai ai-google-scholar ai-2x"
-    - title: ORCID
-      url:  https://orcid.org/0000-0003-0557-6319
-      class: "ai ai-orcid ai-2x"
       
 - name: Jules
   lastname: Wilson
@@ -61,37 +61,49 @@
   email: 
     - title: E-mail
       url: jwilson2@uoc.edu
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
-    - title: ResearchGate
-      url: https://www.researchgate.net/profile/Benito-Zaragozi
-      class: "ai ai-researchgate ai-2x"
-    - title: Google Scholar
-      url: https://scholar.google.com/citations?hl=en&user=FpEeJ3kAAAAJ&view_op=list_works&sortby=pubdate
-      class: "ai ai-google-scholar ai-2x"
     - title: ORCID
       url:  https://orcid.org/0000-0003-2802-7275
       class: "ai ai-orcid ai-2x"
+    - title: Academia.edu
+      url: https://uoc.academia.edu/jules
+      class: "ai ai-academia ai-2x"
+    - title: SCOPUS
+      url: https://www.scopus.com/authid/detail.uri?authorId=56073346800
+      class: "ai ai-scopus ai-2x"
+    - title: Publons
+      url: https://publons.com/researcher/2105211/julie-c-wilson/
+      class: "ai ai-publons ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?hl=en&user=FpEeJ3kAAAAJ&view_op=list_works&sortby=pubdate
+      class: "ai ai-google-scholar ai-2x"
     - title: linkedin
       url: https://www.linkedin.com/in/jules-wilson-55623793
-      class: icon-linkedin
+      class: "fa-brands fa-linkedin fa-2x"
       
 - name: Antonio Paolo
   lastname: Russo
   position: Coord. H2020 - <a href="http://smartdest.eu/" target="_blank">SMARTDEST Project</a>
   organization: Universitat Rovira i Virgili
-  department: Faculty of Economics and Business Studies
+  department: Dept. of Geography
   pic: paolo-russo.png
   keywords:
     - "..."
   email: 
     - title: E-mail
       url: antonio.russo@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
     - title: ORCID
       url:  https://orcid.org/0000-0001-8768-246X
       class: "ai ai-orcid ai-2x"
+    - title: SCOPUS
+      url: https://www.scopus.com/authid/detail.uri?authorId=54790606100
+      class: "ai ai-scopus ai-2x"
+    - title: WoS Researcher ID
+      url: https://publons.com/researcher/A-9456-2014/
+      class: "ai ai-researcherid ai-2x"
       
 - name: Cinta
   lastname: Sanz-Ibáñez
@@ -106,18 +118,18 @@
   email: 
     - title: E-mail
       url: cinta.sanzi@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
-    - title: Google Scholar
-      url: https://scholar.google.es/citations?user=Xb2pW5YAAAAJ&hl=ca
-      class: "ai ai-google-scholar-square"
     - title: ORCID
       url:  http://orcid.org/0000-0001-9552-4285
       class: "ai ai-orcid ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.es/citations?user=Xb2pW5YAAAAJ&hl=ca
+      class: "ai ai-google-scholar ai-2x"
 
 - name: Maria Assumpció
   lastname: Huertas Roig
-  position: Professora dels Estudis de Comunicació
+  position: Associate professor
   organization: Universitat Rovira i Virgili
   department: Dept. of Geography
   pic: sunsi-huertas.png
@@ -126,7 +138,7 @@
   email: 
     - title: E-mail
       url: sunsi.huertas@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
     - title: ORCID
       url:  http://orcid.org/0000-0001-6684-4220
@@ -145,11 +157,11 @@
   email: 
     - title: E-mail
       url: jordi.andreu@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
     - title: home
       url: https://www.urv.cat/html/grupsrecerca/investigadors/general-I2369.php
-      class: icon-home
+      class: "fa-solid fa-house-user fa-2x"
 
 
 - name: Wilbert
@@ -167,14 +179,17 @@
   email: 
     - title: E-mail
       url: wilbert.denhoed@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/wilbert-den-hoed-05b2b344
-      class: icon-linkedin
+      class: "fa-brands fa-linkedin fa-2x"
     - title: Google Scholar
       url: https://scholar.google.es/citations?user=n49TSDYAAAAJ&hl=en&oi=sra
-      class: "ai ai-google-scholar-square"
+      class: "ai ai-google-scholar ai-2x"
+    - title: Twitter
+      url: https://twitter.com/wilbert_dh
+      class: "fa-brands fa-twitter fa-2x"
       
 - name: Xavier
   lastname: Delclòs-Alió
@@ -189,17 +204,23 @@
   email: 
     - title: E-mail
       url: xavier.delclos@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/wilbert-den-hoed-05b2b344
-      class: icon-linkedin
-    - title: Google Scholar
-      url: https://scholar.google.com/citations?user=YZRxfjgAAAAJ&hl=ca&oi=ao
-      class: "ai ai-google-scholar-square"
     - title: ORCID
       url:  https://orcid.org/0000-0002-7206-2310
       class: "ai ai-orcid ai-2x"
+    - title: SCOPUS
+      url: https://www.scopus.com/authid/detail.uri?authorId=57194897977
+      class: "ai ai-scopus ai-2x"
+    - title: WoS Researcher ID
+      url: https://publons.com/researcher/X-7513-2019/
+      class: "ai ai-researcherid ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=YZRxfjgAAAAJ&hl=ca&oi=ao
+      class: "ai ai-google-scholar ai-2x"
+    - title: Twitter
+      url: https://twitter.com/xavidelclos
+      class: "fa-brands fa-twitter fa-2x"
 
 
 - name: Benito
@@ -216,26 +237,26 @@
   email: 
     - title: E-mail
       url: benito.zaragozi@urv.cat
-      class: icon-mail
+      class: "fa-solid fa-envelope fa-2x"
   social:
     - title: home
       url: https://benito-zaragozi.com
-      class: icon-home
+      class: "fa-solid fa-house-user fa-2x"
+    - title: ORCID
+      url:  https://orcid.org/0000-0003-2501-484X
+      class: "ai ai-orcid ai-2x"
     - title: ResearchGate
       url: https://www.researchgate.net/profile/Benito-Zaragozi
       class: "ai ai-researchgate ai-2x"
     - title: Google Scholar
       url: https://scholar.google.es/citations?user=sO9xAc8AAAAJ
-      class: "ai ai-google-scholar-square"
-    - title: ORCID
-      url:  https://orcid.org/0000-0003-2501-484X
-      class: "ai ai-orcid ai-2x"
+      class: "ai ai-google-scholar ai-2x"
     - title: linkedin
       url: https://es.linkedin.com/in/benito-m-zaragozí-295b6940
-      class: icon-linkedin
+      class: "fa-brands fa-linkedin fa-2x"
     - title: github
       url: https://github.com/benizar
-      class: icon-github
+      class: "fa-brands fa-github fa-2x"
       
       
 

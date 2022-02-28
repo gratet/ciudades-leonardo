@@ -7,14 +7,14 @@
 @font-face {
     font-family: 'Academicons';
     font-style: normal;
-    font-weight: 700;
-    line-height: 25.6px;
+    font-weight: 900;
+    line-height: 32px;
     font-display: block;
-    src:url('../fonts/academicons.eot');
-    src:url('../fonts/academicons.eot') format('embedded-opentype'),
-        url('../fonts/academicons.ttf') format('truetype'),
-        url('../fonts/academicons.woff') format('woff'),
-        url('../fonts/academicons.svg') format('svg');
+    src:url('../fonts/academicons/academicons.eot');
+    src:url('../fonts/academicons/academicons.eot') format('embedded-opentype'),
+        url('../fonts/academicons/academicons.ttf') format('truetype'),
+        url('../fonts/academicons/academicons.woff') format('woff'),
+        url('../fonts/academicons/academicons.svg') format('svg');
 }
 .ai {
   font-family: 'Academicons';
@@ -25,7 +25,7 @@
   font-style: normal;
   font-variant: normal;
   text-rendering: auto;
-  line-height: 25.6px;
+  line-height: 32px;
 }
 .ai-academia:before {
   content: "\e9af";
