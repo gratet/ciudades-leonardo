@@ -131,7 +131,7 @@
   lastname: Huertas Roig
   position: Associate professor
   organization: Universitat Rovira i Virgili
-  department: Dept. of Geography
+  department: Dept. of Communication Studies
   pic: sunsi-huertas.png
   keywords:
     - ...
@@ -143,6 +143,29 @@
     - title: ORCID
       url:  http://orcid.org/0000-0001-6684-4220
       class: "ai ai-orcid ai-2x"
+      
+- name: Joan
+  lastname: Borràs-Nogués
+  position: Data Scientist
+  organization: Eurecat. Technology Centre of Catalonia
+  department:  Dept. of Geography
+  pic: joan-borras.png
+  keywords:
+    - data science
+    - artificial intelligence
+    - smart destinations
+    - tourism
+  email: 
+    - title: E-mail
+      url: joan.borras@eurecat.org
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0002-3894-4010
+      class: "ai ai-orcid ai-2x"
+    - title: linkedin
+      url: https://www.linkedin.com/in/wilbert-den-hoed-05b2b344
+      class: "fa-brands fa-linkedin fa-2x"
       
 - name: Jordi
   lastname: Andreu-Bertran

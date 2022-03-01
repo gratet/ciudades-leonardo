@@ -12,7 +12,14 @@ breadcrumb: true
 <div class="small-12 large-4 columns">
 
 <h4>E-mail:</h4>
-<a href="mailto: adaptour.project@urv.cat?subject=[ADAPTOUR] " title="adaptour.project@urv.cat">adaptour.project@urv.cat</a>
+<a href="mailto: salvador.anton@urv.cat?subject=[ADAPTOUR] " title="salvador.anton@urv.cat">Dr. Salvador Anton-Clavé</a><br>
+<a href="mailto: jordi.andreu@urv.cat?subject=[ADAPTOUR] " title="jordi.andreu@urv.cat">Jordi Andreu-Bertran</a>
+
+
+
+
+
+
 
 <h4>Dirección postal:</h4>
 <a href="https://www.geografia.urv.cat/ca/">Departament de Geografia</a><br>

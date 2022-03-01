@@ -17,7 +17,7 @@ header:
 ---
 
 
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 
 
 {% for member in site.data.team %}
@@ -48,14 +48,14 @@ header:
 <!--</a>-->
 
 <!-- social media icons -->
-<ul class="inline-list" style="padding:10px">
+<ul style="padding:10px;text-align: center;list-style-type: none">
 	{% for email in member.email %}
-              <li><a href="mailto:{{ email.url }}?subject=[ADAPTOUR] " class="{{ email.class }}" title="{{ email.title }}"></a></li>
+              <li style="display: inline;padding:10px"><a href="mailto:{{ email.url }}?subject=[ADAPTOUR] " class="{{ email.class }}" title="{{ email.title }}"></a></li>
 	{% endfor %}
 
 
 	{% for social in member.social %}
-              <li><a href="{{ social.url }}" target="_blank" class="{{ social.class }}" title="{{ social.title }}"></a></li>
+              <li style="display: inline;padding:10px"><a href="{{ social.url }}" target="_blank" class="{{ social.class }}" title="{{ social.title }}"></a></li>
 	{% endfor %}
 </ul><!-- /.inline-list -->
 
