@@ -18,7 +18,7 @@ include contrib/*.mk
 ## Close the jekyll server
 3-stop-server:
 	@docker-compose -f contrib/jekyll-serve.yml down
-	@rm -rf _site Gemfile.lock
+	@sudo rm -rf _site Gemfile.lock
 
 .PHONY: 4-push-source
 ## Push to source branch

@@ -3,7 +3,7 @@
   side: left
   
 - title: "Project"
-  url: "/project/"
+  url: "/"
   side: left
   dropdown:
   - title: "Who we are"
@@ -16,7 +16,7 @@
     url: "/project/related-projects/"
 
 - title: "Publications"
-  url: "/publications/"
+  url: "/"
   side: left
   dropdown:
   - title: "Journal articles"

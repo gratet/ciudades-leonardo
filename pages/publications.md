@@ -1,5 +1,5 @@
 ---
-permalink: "/Publications/"
+permalink: "/publications/"
 layout: page-fullwidth
 breadcrumb: true
 title: "Project"

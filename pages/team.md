@@ -72,7 +72,7 @@ header:
 <strong>Palabras clave:</strong>
 <ul>
 {% for keyword in member.keywords %}
-	<li style="display:inline;"><code class="highlighter-rouge">{{ keyword }}</code></li>
+	<li style="display:inline"><code class="highlighter-rouge">{{ keyword }}</code></li>
 {% endfor %}
 </ul>
 
