@@ -6,6 +6,11 @@ subheadline         : "Contact"
 teaser              : "Use the e-mail to contact the project's team."
 permalink           : "/contact/"
 breadcrumb: true
+
+header:
+    image_fullwidth: headers/ftg.jpg
+    background-color: "#262930"
+    caption: 
 ---
 <div class="row">
 

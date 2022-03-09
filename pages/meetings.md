@@ -13,7 +13,7 @@ meta_teaser: "Metadata about..."
 
 
 header:
-    image_fullwidth: header_homepage_13.jpg
+    image_fullwidth: headers/golf-portaventura.jpg
     background-color: "#262930"
     caption: 
 ---

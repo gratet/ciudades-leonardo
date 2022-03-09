@@ -11,9 +11,9 @@ meta_teaser: "Metadata about..."
 
 
 header:
-    image_fullwidth: header_homepage_13.jpg
+    image_fullwidth: headers/platja-turistes.jpg
     background-color: "#262930"
-    caption: 
+    caption: Crowded beach before the COVID-19 (Tarragona, Spain)
     
 breadcrumb: true
 ---

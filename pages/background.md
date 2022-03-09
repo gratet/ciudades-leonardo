@@ -11,9 +11,9 @@ meta_teaser: "Metadata about..."
 
 
 header:
-    image_fullwidth: header_homepage_13.jpg
+    image_fullwidth: headers/tarragona.jpg
     background-color: "#262930"
-    caption: 
+    caption: Aerial view of Tarragona (Spain)
     
 breadcrumb: true
 ---

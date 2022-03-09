@@ -282,4 +282,93 @@
       class: "fa-brands fa-github fa-2x"
       
       
+- name: Francesc
+  lastname: González-Reverté
+  position: Associate Professor
+  organization: Universitat Oberta de Catalunya
+  department: Dept. of Economy and Bussiness
+  pic: francesc-gonzalez.png
+  keywords:
+    - mass tourism
+    - smart destinations
+    - technology and tourism
+    - residents attitude towards tourism
+  email: 
+    - title: E-mail
+      url: fgonzalezre@uoc.edu
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0002-9554-3934
+      class: "ai ai-orcid ai-2x"
+    - title: ResearchGate
+      url: https://www.researchgate.net/profile/Francesc-Gonzalez
+      class: "ai ai-researchgate ai-2x"
+
+
+- name: Alejandro
+  lastname: González-Domingo
+  position: PhD candidate
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Geography
+  pic: alejandro-gonzalez.png
+  keywords:
+    - human geography
+    - tourism
+    - labour
+  email: 
+    - title: E-mail
+      url: alejandro.gonzalez@urv.cat
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0002-8515-7140
+      class: "ai ai-orcid ai-2x"
+
+
+- name: María E.
+  lastname: Medina-Chavarría
+  position: PhD candidate
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Geography
+  pic: maria-medina.png
+  keywords:
+    - tourism
+    - sustainability
+    - mobility
+  email: 
+    - title: E-mail
+      url: mariaesperanza.medina@urv.cat
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0002-6580-3408
+      class: "ai ai-orcid ai-2x"
+    - title: ResearchGate
+      url: https://www.researchgate.net/profile/Maria-Medina-Chavarria
+      class: "ai ai-researchgate ai-2x"
+    - title: linkedin
+      url: https://www.linkedin.com/in/maria-e-medina-chavarria
+      class: "fa-brands fa-linkedin fa-2x"
+
+
+- name: Ana
+  lastname: Pastor-Alcaraz
+  position: PhD candidate
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Geography
+  pic: ana-pastor.png
+  keywords:
+    - ...
+  email: 
+    - title: E-mail
+      url: ana.pastor@urv.cat
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0002-0085-0959
+      class: "ai ai-orcid ai-2x"
+    - title: ResearchGate
+      url: https://www.researchgate.net/profile/Ana-Pastor-8
+      class: "ai ai-researchgate ai-2x"
 

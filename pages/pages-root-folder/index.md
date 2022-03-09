@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_homepage_13.jpg
+  image_fullwidth: headers/rambla-barcelona.jpg
 
 widget1:
   title: "Blog & Portfolio"

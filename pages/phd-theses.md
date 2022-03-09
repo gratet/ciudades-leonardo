@@ -12,7 +12,7 @@ meta_teaser: "Metadata about..."
 
 
 header:
-    image_fullwidth: header_homepage_13.jpg
+    image_fullwidth: headers/coastal-cambrils.jpg
     background-color: "#262930"
     caption: 
 ---

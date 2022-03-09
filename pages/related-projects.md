@@ -12,9 +12,11 @@ meta_teaser: "Metadata about..."
 
 
 header:
-    image_fullwidth: header_homepage_13.jpg
+    image_fullwidth: headers/tarragona.jpg
     background-color: "#262930"
-    caption: 
+    caption: Aerial view of Tarragona (Spain)
+    
+breadcrumb: true
 ---
  
 The main project previously funded by the Spanish Research Plan developed by several current research team members is POLITUR CSO2017-82156-R). It enabled identification, understanding and evaluation of the role of mobility in the configuration of tourism destinations (Gutiérrez et al 2019, 2020), the need to incorporate a renewed spatial vision in the management of the multiple mobilities acting within them (López Gay et al 2020, Rovira & Anton Clavé, 2018) and the effects of policy design (Santos and Velasco, 2018; Santos et al, 2019), institutional dynamics (Restrepo et al, 2021) and human agency (Sanz Ibáñez et al 2019) within their evolutionary dynamics. It also analysed how, with the support of the digital fingerprint associated with the current culture of tourism consumption (Brandajs & Russo, 2019) (public and private) stakeholder decision-making mechanisms are guided and how effective regulatory mechanisms can be implemented in relation to tourists’ use of space (Domènech et al, 2020). This project made also progress towards the analysis of the social impact of the research itself (Viana & Nel·lo, 2020).
