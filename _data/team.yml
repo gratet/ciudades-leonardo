@@ -4,7 +4,7 @@
   position: Principal Investigator
   organization: Universitat Rovira i Virgili
   department: Dept. of Geography
-  pic: user-placeholder.png
+  pic: salvador-anton.png
   keywords:
     - tourism
     - geography
@@ -281,6 +281,74 @@
       url: https://github.com/benizar
       class: "fa-brands fa-github fa-2x"
       
+      
+- name: Antoni
+  lastname: Domènech-Montaña
+  position: Associate Lecturer
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Geography
+  pic: antoni-domenech.png
+  keywords:
+    - gis
+    - geodatabases
+    - data mining
+    - giscience
+  email: 
+    - title: E-mail
+      url: antoni.domenech@urv.cat 
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0002-1881-6679 
+      class: "ai ai-orcid ai-2x"
+    - title: ResearchGate
+      url: https://www.researchgate.net/profile/Antoni-Domenech
+      class: "ai ai-researchgate ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.es/citations?user=bpiYG5UAAAAJ&hl=es
+      class: "ai ai-google-scholar ai-2x"
+    - title: linkedin
+      url: https://es.linkedin.com/in/antoni-domenech
+      class: "fa-brands fa-linkedin fa-2x"
+      
+- name: Daniel
+  lastname: Miravet-Arnau
+  position: Associate Lecturer
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Economy
+  pic: daniel-miravet.png
+  keywords:
+    - public transportation
+    - tourism
+    - education ecnonomics
+  email: 
+    - title: E-mail
+      url: daniel.miravet@urv.cat
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0001-7830-5515
+      class: "ai ai-orcid ai-2x"
+      
+      
+- name: Fiammetta
+  lastname: Brandajs Di Martino
+  position: Postdoctoral researher
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Geography
+  pic: fiammetta-brandajs.png
+  keywords:
+    - gis
+    - mobilities
+    - human and digital flows
+  email: 
+    - title: E-mail
+      url: fiammetta.brandajs@urv.cat
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url:  https://orcid.org/0000-0002-1600-1089
+      class: "ai ai-orcid ai-2x"
       
 - name: Francesc
   lastname: González-Reverté

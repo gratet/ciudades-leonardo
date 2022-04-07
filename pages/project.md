@@ -1,7 +1,8 @@
 ---
 permalink: "/project/"
-layout: page-fullwidth
+layout: page
 breadcrumb: true
+sidebar: right
 title: "Project"
 meta_title: "Project"
 subheadline: "Project"

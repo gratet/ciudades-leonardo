@@ -1,6 +1,8 @@
 ---
 permalink: "/project/background/"
-layout: page-fullwidth
+layout: page
+breadcrumb: true
+sidebar: right
 title: "Hypothesis and background"
 meta_title: "Background"
 subheadline: "Background"
@@ -15,7 +17,6 @@ header:
     background-color: "#262930"
     caption: Aerial view of Tarragona (Spain)
     
-breadcrumb: true
 ---
 
 As the world enters the second decade of the twenty-first century, tourism destinations are, perhaps more than ever before, in flux. Global dynamics of economic, social and environmental transformation caused

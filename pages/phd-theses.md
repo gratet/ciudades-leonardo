@@ -1,7 +1,8 @@
 ---
 permalink: "/phd-theses/"
-layout: page-fullwidth
+layout: page
 breadcrumb: true
+sidebar: right
 title: "PhD Theses"
 meta_title: "PhD Theses"
 subheadline: "PhD Theses"

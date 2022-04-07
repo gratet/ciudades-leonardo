@@ -1,7 +1,8 @@
 ---
 permalink: "/project/objectives/"
-layout: page-fullwidth
+layout: page
 breadcrumb: true
+sidebar: right
 title: "Objectives"
 meta_title: "Objectives"
 subheadline: "Objectives"
@@ -15,8 +16,6 @@ header:
     image_fullwidth: headers/tarragona.jpg
     background-color: "#262930"
     caption: Aerial view of Tarragona (Spain)
-    
-breadcrumb: true
 ---
 
 
