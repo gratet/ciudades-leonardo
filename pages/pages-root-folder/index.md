@@ -46,11 +46,3 @@ homepage: true
 breadcrumb: true
 ---
 
-# Titol del que sigui
-
-## Segon nivell
-
-### Tercer...
-
-**Negreta**
-*Cursiva*
