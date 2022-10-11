@@ -72,9 +72,9 @@
     - title: SCOPUS
       url: https://www.scopus.com/authid/detail.uri?authorId=56073346800
       class: "ai ai-scopus ai-2x"
-    - title: Publons
-      url: https://publons.com/researcher/2105211/julie-c-wilson/
-      class: "ai ai-publons ai-2x"
+#    - title: Publons
+#      url: https://publons.com/researcher/2105211/julie-c-wilson/
+#      class: "ai ai-publons ai-2x"
     - title: Google Scholar
       url: https://scholar.google.com/citations?hl=en&user=FpEeJ3kAAAAJ&view_op=list_works&sortby=pubdate
       class: "ai ai-google-scholar ai-2x"
