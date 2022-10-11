@@ -14,8 +14,18 @@ meta_teaser: "List of articles published in academic journals."
 header:
     image_fullwidth: headers/platja-turistes.jpg
     background-color: "#262930"
-    caption: Crowded beach before the COVID-19 (Tarragona, Spain)
+    caption: "Crowded beach before the COVID-19 (Tarragona, Spain)"
 ---
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# 2022
 
+1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
+1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
+1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
+
+
+# 2021
+
+1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
+1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
+1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
