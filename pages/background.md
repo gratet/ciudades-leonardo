@@ -5,7 +5,7 @@ breadcrumb: true
 sidebar: right
 title: "Hypothesis and background"
 meta_title: "Background"
-subheadline: "Background"
+#subheadline: "Background"
 
 teaser: "Some important info about the project background." 
 
