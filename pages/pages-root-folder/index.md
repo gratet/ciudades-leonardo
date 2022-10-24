@@ -48,8 +48,8 @@ Reference: PID2020-112525RB-I00. Ministerio de Ciencia e Innovación. Agencia Es
 
 ---
 
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
+# #This is a nasty hack to make the navigation highlight
+# #this page as active in the topbar navigation
 #
 homepage: true
 breadcrumb: true
