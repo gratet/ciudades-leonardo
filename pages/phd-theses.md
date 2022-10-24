@@ -3,7 +3,7 @@ permalink: "/phd-theses/"
 layout: page
 breadcrumb: true
 sidebar: right
-title: "PhD Theses"
+title: "PhD Theses in progress"
 meta_title: "PhD Theses"
 subheadline: "PhD Theses"
 
