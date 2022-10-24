@@ -19,7 +19,7 @@ header:
 
 # 2022
 
-1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
+1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218. [https://doi.org/10.20868/ciur.2022.142.4887](https://doi.org/10.20868/ciur.2022.142.4887)
 1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
 1. **Saladié, Ò., Bustamante, E., & Gutiérrez, A.** (2020). COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain. *Transportation research interdisciplinary perspectives*, 8, 100218.
 
