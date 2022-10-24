@@ -40,6 +40,14 @@ This doctoral thesis aims to analyse the role of tourism practices and performan
 
 La evaluación del impacto social de la investigación es cada vez más reclamada por las entidades financiadoras y merece especial atención en la actualidad. El objetivo de esta tesis es analizar el impacto social de la investigación en turismo. Para ello, se estudian las herramientas de evaluación disponibles a fin de realizar una comparativa y extraer ideas para el diseño de un sistema de indicadores aplicable a proyectos de planificación turística. 
 
+##### **_Alajendro González Domingo_**
+
+***Tourism Mobilities and social exclusion in smart cities: regimes, processes of exclusion and the politics of transitions.***
+
+*Director: Dr. Antonio Russo*
+
+Aquesta tesi doctoral s'emmarca dins del projecte H2020-SMARTDEST i té com a objectiu analitzar com es produeix la precarietat social, quines conseqüències té sobre les trajectòries laborals i residencials dels treballadors/es, i quines formes d'afrontament emergeixen des de diferents posicions socials per a construir espais de solidaritat i resiliència. Des d'un enfocament feminista i relacional, s'analitzen a través d'entrevistes i de dades de panel les formes de precarització social de diverses trajectòries, els processos socioespacials i l'agència dels treballadors/res formals i informals, durant el període de 2008 fins a la crisi de la COVID-19. Els principis de la teoria de cursos de vida s'implementen per a comprendre millor les diferències entre diferents etapes de vida, les transicions i els esdeveniments clau que influeixen a les seves trajectòries. Aquesta recerca pretén entendre les desigualtats de la ciutat turística des de l'anàlisi de la geografia laboral i social, les imbricacions amb els règims de mobilitat turística i les formes d'extractivisme del capitalisme sobre la configuració de vides precàries.
+
 ##### **_Maria Esperanza Medina Chavarria_**
 
 ***Movilidad sostenible en destinos turísticos: patrones de movilidad y políticas públicas.***
