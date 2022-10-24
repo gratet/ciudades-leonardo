@@ -3,7 +3,7 @@ permalink: "/project/objectives/"
 layout: page
 breadcrumb: true
 sidebar: right
-title: "Work Pakages and Objectives"
+title: "Work Packages and Objectives"
 meta_title: "Objectives"
 subheadline: "Objectives"
 
