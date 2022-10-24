@@ -18,7 +18,7 @@ header:
     caption: 
 ---
  
-**_Maria Eugenia Altamirano_**
+###**_Maria Eugenia Altamirano_**
 
 ***Placing favelas on the tourist city map: Between commodification and representation.***
 
