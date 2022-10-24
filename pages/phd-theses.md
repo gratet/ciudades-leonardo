@@ -5,7 +5,7 @@ breadcrumb: true
 sidebar: right
 title: "PhD Theses"
 meta_title: "PhD Theses"
-#subheadline: "PhD Theses"
+subheadline: "PhD Theses"
 
 teaser: "Some important info about the project PhD Theses." 
 
