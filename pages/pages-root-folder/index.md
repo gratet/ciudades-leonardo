@@ -34,11 +34,15 @@ header:
 # To change colors see sass/_01_settings_colors.scss
 #
 #callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Inform me about new updates and features ›
+#  style: alert
 permalink: /index.html
-
+# This is a nasty hack to make the navigation highlight
+# this page as active in the topbar navigation
+#
+homepage: true
+breadcrumb: true
 ---
 
 The project “The adaptability of complex tourist destinations in the present era of social, economic and environmental transformations: innovative paths towards destination resilience” (ADAPTOUR).aims to examine and understand the processes through tourism destinations are responding to the challenges of global change, in terms of mitigating its effects, transforming sociospatial dynamics, changing mobility regimes, and the enhancing of social justice with the aim of increasing resilience.
@@ -47,10 +51,6 @@ The project presented addresses the Challenge Six of the Spanish Research Plan o
 Reference: PID2020-112525RB-I00. Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.
 
 
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
-homepage: true
-breadcrumb: true
----
+
+
 
