@@ -3,8 +3,8 @@ permalink: "/project/objectives/"
 layout: page
 breadcrumb: true
 sidebar: right
-#title: "Objectives"
-meta_title: "Objectives"
+title: "Objectives"
+#meta_title: "Objectives"
 subheadline: "Objectives"
 
 teaser: "The general research objective of the project is to examine, understand and translate into theoretical approaches, empirical observations and practical conversations, the processes through which destinations are responding to the challenges of global change (and in particular to climate change and the de-carbonization of the productive system), in terms of mitigating its effects, transforming socio-spatial dynamics, changing mobility regimes, and the enhancing of social justice with the aim of increasing resilience." 
