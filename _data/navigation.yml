@@ -6,12 +6,14 @@
   url: "/"
   side: left
   dropdown:
-  - title: "Who we are"
-    url: "/project/team/"
-  - title: "Objectives"
-    url: "/project/objectives/"
+  - title: "The project"
+    url: "/project/the-project/"
   - title: "Hypothesis and background"
     url: "/project/background/"
+  - title: "Work packages and objectives"
+    url: "/project/objectives/"
+  - title: "Who we are"
+    url: "/project/team/"
   - title: "Former projects"
     url: "/project/related-projects/"
 
@@ -19,10 +21,8 @@
   url: "/"
   side: left
   dropdown:
-  - title: "Journal articles"
-    url: "/publications/journal-articles/"
-  - title: "Book chapters"
-    url: "/publications/book-chapters/"
+  - title: "Papers"
+    url: "/publications/journal-papers/"
   - title: "Conference papers"
     url: "/publications/conference-papers/"
 
