@@ -30,14 +30,14 @@
   url: "/phd-theses/"
   side: left
 
-- title: "Meetings"
-  url: "/meetings/"
-  side: left
+#- title: "Meetings"
+#  url: "/meetings/"
+#  side: left
 
 
-- title: "Search"
-  url: "/search/"
-  side: left
+#- title: "Search"
+#  url: "/search/"
+#  side: left
 
 - title: "Contact"
   url: "/contact/"
