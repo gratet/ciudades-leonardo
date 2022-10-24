@@ -46,7 +46,6 @@ The project “The adaptability of complex tourist destinations in the present e
 The project presented addresses the Challenge Six of the Spanish Research Plan on Social Sciences and Humanities and Science with and for Society.
 Reference: PID2020-112525RB-I00. Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.
 
----
 
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
