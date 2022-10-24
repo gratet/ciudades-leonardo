@@ -18,10 +18,14 @@ header:
     caption: 
 ---
  
-###### Maria Eugenia Altamirano
+##### Maria Eugenia Altamirano
+
 ***Placing favelas on the tourist city map: Between commodification and representation.***
+
 *Director: Dr. Antonio Russo.*
+
 This doctoral thesis aims to analyse the role of tourism practices and performances as a socio-economic activity and its capacity, real and potential, to re-signify and transform the physical, social and cultural landscape of urban tourist destinations. The case study is based on informal urban settlements of Rio de Janeiro, locally known as favelas, which carry almost 30 years of controversial tourist development. The focus will be turned into the actor-networks created around certain slum tourism practices and performances to analyse whether there is or not a reconceptualisation of slums as legitimate urban agents although at the margins of the neo-liberal agenda. The outcome of this thesis draws on the part that the embodied interactions between tourism actors play on the process of tourist placemaking in its physical and symbolic level, as well as the negotiation of urban identities.
+
 Alba Font Barnet
 Turisme i benestar a les àrees protegides. Polítiques i indicadors.
 Directora: Dr. Marta Ne-lo Andreu
