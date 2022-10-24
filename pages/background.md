@@ -19,7 +19,8 @@ header:
     
 ---
 
-###Background
+### Background
+
 As the world enters the second decade of the twenty-first century, tourism destinations are, perhaps more than ever before, in flux. Global dynamics of economic, social and environmental transformation caused
 by climate change and the de-carbonization of economic activity in response to the environmental emergency have opened up new challenges for tourism destinations, while also intensifying other that
 were already latent. If left unresolved, these trends generate intense impacts, in terms of increasing the vulnerability of destinations and decreasing their resilience capacity to face potential new future crisis situations (Cheer & Lew, 2017). This proposal is important insofar as, observing the role of tourism in the shaping of the current response capacity and dynamics of cities and regions, it aims to make a solid contribution from the social sciences and, explicitly via geographical analysis, to a number of priorities of the Spanish and European research programs (Spanish Research Plan, Green Deal and Horizon
