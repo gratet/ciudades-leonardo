@@ -4,7 +4,7 @@ layout: page
 breadcrumb: true
 sidebar: right
 title: "PhD Theses"
-meta_title: "PhD Theses"
+#meta_title: "PhD Theses"
 subheadline: "PhD Theses"
 
 teaser: "Some important info about the project PhD Theses." 
@@ -18,7 +18,7 @@ header:
     caption: 
 ---
  
-##### Maria Eugenia Altamirano
+**_Maria Eugenia Altamirano_**
 
 ***Placing favelas on the tourist city map: Between commodification and representation.***
 
