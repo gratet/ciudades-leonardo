@@ -8,17 +8,17 @@ layout: frontpage
 header:
   image_fullwidth: headers/rambla-barcelona.jpg
 
-widget1:
+#widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
+#widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: widget-1-302x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-widget3:
+#widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-1-302x182.jpg
