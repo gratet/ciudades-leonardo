@@ -1,5 +1,5 @@
 ---
-permalink: "/project/team/"
+permalink: "/project-team/"
 layout: page-fullwidth
 breadcrumb: true
 title: "Who we are"
