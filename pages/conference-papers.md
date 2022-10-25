@@ -1,5 +1,5 @@
 ---
-permalink: "/publications/conference-papers/"
+permalink: "/conference-papers/"
 layout: page
 breadcrumb: true
 sidebar: right
