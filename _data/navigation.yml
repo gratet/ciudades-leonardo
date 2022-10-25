@@ -16,7 +16,7 @@
     url: "/project/related-projects/"
 
 - title: "Who we are"
-  url: "/project-team/"
+  url: "/team/"
   side: left
 
 - title: "Publications"
