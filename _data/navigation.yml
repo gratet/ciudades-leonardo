@@ -12,13 +12,11 @@
     url: "/project/background/"
   - title: "Work packages and objectives"
     url: "/project/objectives/"
-  - title: "Who we are"
-    url: "/project/team/"
   - title: "Former projects"
     url: "/project/related-projects/"
 
-- title: "Who we are?"
-  url: "/who-we-are/"
+- title: "Who we are"
+  url: "/project/team/"
   side: left
 
 - title: "Publications"
