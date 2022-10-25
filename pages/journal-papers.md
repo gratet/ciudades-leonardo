@@ -3,7 +3,7 @@ permalink: "/publications/journal-papers/"
 layout: page
 breadcrumb: true
 sidebar: right
-title: "Journal papers Project derivatived publications"
+title: "Project derivatived publications"
 meta_title: "Project derivatived publications Journal papers"
 subheadline: "Journal papers"
 
