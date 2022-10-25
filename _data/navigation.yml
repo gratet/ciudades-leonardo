@@ -17,15 +17,18 @@
   - title: "Former projects"
     url: "/project/related-projects/"
 
-- title: "Publications"
-  url: "/"
+- title: "Who we are?"
+  url: "/who-we-are/"
   side: left
-  dropdown:
-  - title: "Papers"
-    url: "/publications/journal-papers/"
-  - title: "Conference papers"
-    url: "/publications/conference-papers/"
 
+- title: "Publications"
+  url: "/publications/journal-papers/"
+  side: left
+    
+ - title: "Conference papers"
+  url: "/conference-papers/"
+  side: left
+    
 - title: "PhD Theses"
   url: "/phd-theses/"
   side: left
@@ -33,7 +36,6 @@
 #- title: "Meetings"
 #  url: "/meetings/"
 #  side: left
-
 
 #- title: "Search"
 #  url: "/search/"
