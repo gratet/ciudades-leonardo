@@ -3,9 +3,9 @@ permalink: "/publications/journal-papers/"
 layout: page
 breadcrumb: true
 sidebar: right
-title: "Project derivatived publications"
-meta_title: "Project derivatived publications Journal papers"
-subheadline: "Journal papers"
+title: "titolProject derivatived publications"
+meta_title: "metaProject derivatived publications Journal papers"
+subheadline: "subJournal papers"
 
 teaser: "List of articles published in academic journal, books and book chapters." 
 
