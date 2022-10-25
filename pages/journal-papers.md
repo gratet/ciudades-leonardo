@@ -4,8 +4,8 @@ layout: page
 breadcrumb: true
 sidebar: right
 title: "Project derivatived publications"
-meta_title: "Journal papers"
-subheadline: "Project derivatived publications Journal papers"
+meta_title: "Project derivatived publications Journal papers"
+subheadline: "Journal papers"
 
 teaser: "List of articles published in academic journal, books and book chapters." 
 
