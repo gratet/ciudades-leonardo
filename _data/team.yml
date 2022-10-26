@@ -211,33 +211,29 @@
       url: https://es.linkedin.com/in/raquel-santos-lacueva-phd-79951235
       class: "fa-brands fa-linkedin fa-2x"
       
-      
-      
-      
-      
-      
-- name: Joan
-  lastname: Borràs-Nogués
-  position: Data Scientist
-  organization: Eurecat. Technology Centre of Catalonia
-  department:  Dept. of Geography
-  pic: joan-borras.png
-  keywords:
-    - data science
-    - artificial intelligence
-    - smart destinations
-    - tourism
-  email: 
-    - title: E-mail
-      url: joan.borras@eurecat.org
-      class: "fa-solid fa-envelope fa-2x"
-  social:
-    - title: ORCID
-      url:  https://orcid.org/0000-0002-3894-4010
-      class: "ai ai-orcid ai-2x"
-    - title: linkedin
-      url: https://www.linkedin.com/in/wilbert-den-hoed-05b2b344
-      class: "fa-brands fa-linkedin fa-2x"
+          
+#- name: Joan
+#  lastname: Borràs-Nogués
+#  position: Data Scientist
+#  organization: Eurecat. Technology Centre of Catalonia
+#  department:  Dept. of Geography
+#  pic: joan-borras.png
+#  keywords:
+#    - data science
+#    - artificial intelligence
+#    - smart destinations
+#    - tourism
+#  email: 
+#    - title: E-mail
+#      url: joan.borras@eurecat.org
+#      class: "fa-solid fa-envelope fa-2x"
+#  social:
+#    - title: ORCID
+#      url:  https://orcid.org/0000-0002-3894-4010
+#      class: "ai ai-orcid ai-2x"
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/wilbert-den-hoed-05b2b344
+#      class: "fa-brands fa-linkedin fa-2x"
       
 - name: Jordi
   lastname: Andreu-Bertran
@@ -381,39 +377,39 @@
       class: "fa-brands fa-linkedin fa-2x"
 
 
-- name: Isabel
-  lastname: Paulino-Valldeperéz
-  position: Postdoctoral researher
-  organization: Universitat Rovira i Virgili
-  department: Dept. of Geography
-  pic: isabel-paulino.png
-  keywords:
-    - Cross-border destinations
-    - Travel patterns
-    - Tourism Destination Management
-    - Tourism destination branding
-    - Destination resilience
-    - Destination governance
-  email: 
-    - title: E-mail
-      url: isabel.paulino@udg.edu
-      class: "fa-solid fa-envelope fa-2x"
-  social:
-    - title: ORCID
-      url:  https://orcid.org/0000-0002-8428-8878
-      class: "ai ai-orcid ai-2x"
-    - title: ResearchGate
-      url: https://www.researchgate.net/profile/Isabel-Paulino-Valldeperez
-      class: "ai ai-researchgate ai-2x"
-    - title: Academia.edu
-      url: https://uoc.academia.edu/sabelPaulino
-      class: "ai ai-academia ai-2x"
-    - title: linkedin
-      url: https://es.linkedin.com/in/isabel-paulino-valldep%C3%A9rez-a089ab64
-      class: "fa-brands fa-linkedin fa-2x"
-    - title: Twitter
-      url: https://twitter.com/isabelpaulino82
-      class: "fa-brands fa-twitter fa-2x"
+#- name: Isabel
+#  lastname: Paulino-Valldeperéz
+#  position: Postdoctoral researher
+#  organization: Universitat Rovira i Virgili
+#  department: Dept. of Geography
+#  pic: isabel-paulino.png
+#  keywords:
+#    - Cross-border destinations
+#    - Travel patterns
+#    - Tourism Destination Management
+#    - Tourism destination branding
+#    - Destination resilience
+#    - Destination governance
+#  email: 
+#    - title: E-mail
+#      url: isabel.paulino@udg.edu
+#      class: "fa-solid fa-envelope fa-2x"
+#  social:
+#    - title: ORCID
+#      url:  https://orcid.org/0000-0002-8428-8878
+#      class: "ai ai-orcid ai-2x"
+#    - title: ResearchGate
+#      url: https://www.researchgate.net/profile/Isabel-Paulino-Valldeperez
+#      class: "ai ai-researchgate ai-2x"
+#    - title: Academia.edu
+#      url: https://uoc.academia.edu/sabelPaulino
+#      class: "ai ai-academia ai-2x"
+#    - title: linkedin
+#      url: https://es.linkedin.com/in/isabel-paulino-valldep%C3%A9rez-a089ab64
+#      class: "fa-brands fa-linkedin fa-2x"
+#    - title: Twitter
+#      url: https://twitter.com/isabelpaulino82
+#      class: "fa-brands fa-twitter fa-2x"
 
       
 - name: Daniel
@@ -522,7 +518,7 @@
       url:  https://orcid.org/0000-0002-8515-7140
       class: "ai ai-orcid ai-2x"
 
-- name: María E.
+- name: María Eugenia
   lastname: Altamirano
   position: PhD candidate
   organization: Universitat Rovira i Virgili
@@ -549,7 +545,7 @@
       class: "fa-brands fa-linkedin fa-2x"
 
 
-- name: María E.
+- name: María Esperanza.
   lastname: Medina-Chavarría
   position: PhD candidate
   organization: Universitat Rovira i Virgili
@@ -619,29 +615,29 @@
       url: https://www.researchgate.net/profile/Alba-Viana-Lora
       class: "ai ai-researchgate ai-2x"
       
-- name: Liliana
-  lastname: Solé-Figueras
-  position: PhD candidate
-  organization: Universitat Rovira i Virgili
-  department: Dept. of Geography
-  pic: liliana-sole.png
-  keywords:
-    - Tourism
-    - Social impact of research
-    - Assessment
-    - Sustainability
-    - Transfer knowledge
-  email: 
-    - title: E-mail
-      url: lilianasole88@gmail.com
-      class: "fa-solid fa-envelope fa-2x"
-  social:
-    - title: ORCID
-      url:  https://orcid.org/0000-0003-4573-7439
-      class: "ai ai-orcid ai-2x"
-    - title: ResearchGate
-      url: https://www.researchgate.net/profile/Liliana-Sole-Figueras
-      class: "ai ai-researchgate ai-2x"
-    - title: linkedin
-      url: https://www.linkedin.com/in/lilianasole
-      class: "fa-brands fa-linkedin fa-2x"
+#- name: Liliana
+#  lastname: Solé-Figueras
+#  position: PhD candidate
+#  organization: Universitat Rovira i Virgili
+#  department: Dept. of Geography
+#  pic: liliana-sole.png
+#  keywords:
+#    - Tourism
+#    - Social impact of research
+#    - Assessment
+#    - Sustainability
+#    - Transfer knowledge
+#  email: 
+#    - title: E-mail
+#      url: lilianasole88@gmail.com
+#      class: "fa-solid fa-envelope fa-2x"
+#  social:
+#    - title: ORCID
+#      url:  https://orcid.org/0000-0003-4573-7439
+#      class: "ai ai-orcid ai-2x"
+#    - title: ResearchGate
+#      url: https://www.researchgate.net/profile/Liliana-Sole-Figueras
+#      class: "ai ai-researchgate ai-2x"
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/lilianasole
+#      class: "fa-brands fa-linkedin fa-2x"
