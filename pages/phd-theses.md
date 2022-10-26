@@ -28,9 +28,12 @@ This doctoral thesis aims to analyse the role of tourism practices and performan
 
 ##### **_Alba Font Barnet_**
 
-***Turisme i benestar a les àrees protegides. Polítiques i indicadors.***
+***Multidimensional assessment to enhance the well-being benefits provided by nature areas. A participatory approach applied in different cases of Europe and Latin America.***
 
 *Directora: Dr. Marta Ne-lo Andreu*
+
+Nature offers a wide range of health and well-being benefits, closely linked to the objective of providing genuine experiences that intend to involve visitors across the physical, mental, social, emotional, spiritual, and environmental dimensions. In this sense, tourism offering well-being practices in nature has increased exponentially in recent years, and the scientific interest has also grown at a similar rate, from both a theoretical and a methodological perspective.
+This doctoral thesis follows the theoretical principle that natural protected areas can contribute to the sustainable development, and from the focus of how we manage parks, it gives us the opportunity to improve the health of both our nature and communities. The aim is to discern the potential opportunities of nature areas to provide well-being benefits to locals and tourists from management and public use. To provide scientific evidence and transfer knowledge on this topic, a mixed methodology is applied in different natural areas in Europe and Latin America. This research is applied within the framework of a methodological participatory process and co-creation approach that integrates visual methods in data collection and analysis, together with the involvement of public and private agents, locals, and tourists.
 
 ##### **_Alba Viana Lora_**
 
@@ -46,7 +49,7 @@ La evaluación del impacto social de la investigación es cada vez más reclamad
 
 *Director: Dr. Antonio Russo*
 
-Aquesta tesi doctoral s'emmarca dins del projecte H2020-SMARTDEST i té com a objectiu analitzar com es produeix la precarietat social, quines conseqüències té sobre les trajectòries laborals i residencials dels treballadors/es, i quines formes d'afrontament emergeixen des de diferents posicions socials per a construir espais de solidaritat i resiliència. Des d'un enfocament feminista i relacional, s'analitzen a través d'entrevistes i de dades de panel les formes de precarització social de diverses trajectòries, els processos socioespacials i l'agència dels treballadors/res formals i informals, durant el període de 2008 fins a la crisi de la COVID-19. Els principis de la teoria de cursos de vida s'implementen per a comprendre millor les diferències entre diferents etapes de vida, les transicions i els esdeveniments clau que influeixen a les seves trajectòries. Aquesta recerca pretén entendre les desigualtats de la ciutat turística des de l'anàlisi de la geografia laboral i social, les imbricacions amb els règims de mobilitat turística i les formes d'extractivisme del capitalisme sobre la configuració de vides precàries.
+This PhD thesis is developed within the framework of the H2020-SMARTDEST project. It aims to analyse how social precarity in the tourist city of Barcelona is produced, what consequences it has on workers' labour and residential trajectories, and what forms of coping emerge from different social positions to build spaces of solidarity and resilience. Through biographic interviews and panel data, I analyse the modes of existence affected by social precarization, the socio-spatial processes inherited to a tourist city and the relational agency of formal and informal tourism workers, during the period 2008 until the COVID-19 crisis. The principles of life course theory are implemented to understand with life transitions and key events that influence workers’ lives paths. Through this research I expect to contribute to reveal the specific social inequalities of the tourist city from an analysis of labour and social geography, the imbrications with tourist mobility regimes and forms of capitalism extractivism that influence over workers’ lives. 
 
 ##### **_Maria Esperanza Medina Chavarria_**
 
