@@ -17,7 +17,6 @@ header:
     caption: "Crowded beach before the COVID-19 (Tarragona, Spain)"
 ---
 
-# 2022
 
 1. Arias, A.; Quaglieri-Domínguez, A.& Russo, A.P. (2022). Home-sharing as transnational moorings: Insights from Barcelona. *City 26*(1): 160-178. [https://doi.org/10.1080/13604813.2021.2018859](https://doi.org/10.1080/13604813.2021.2018859)
 1. Atay, I. & Saladié, Ò. (2022). Water Scarcity and Climate Change in Mykonos (Greece): The Perceptions of the Hospitality Stakeholders. *Tourism and Hospitality. 2022, 3*(3), 765-787. [https://doi.org/10.3390/tourhosp3030047](https://doi.org/10.3390/tourhosp3030047)
