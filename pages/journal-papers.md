@@ -1,8 +1,8 @@
 ---
 permalink: "/journal-papers/"
-layout: page
+layout: page-fullwidth
 breadcrumb: true
-sidebar: right
+#sidebar: right
 title: "Journal publications"
 meta_title: "Journal publications"
 subheadline: "Project derivatived publications"

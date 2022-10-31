@@ -1,8 +1,8 @@
 ---
 permalink: "/phd-theses/"
-layout: page
+layout: page-fullwidth
 breadcrumb: true
-sidebar: right
+#sidebar: right
 title: "PhD Theses in progress"
 meta_title: "PhD Theses"
 subheadline: "PhD Theses"
@@ -10,7 +10,6 @@ subheadline: "PhD Theses"
 teaser: "Some important info about the project PhD Theses." 
 
 meta_teaser: "Metadata about..."
-
 
 header:
     image_fullwidth: headers/coastal-cambrils.jpg

@@ -2,7 +2,7 @@
 permalink: "/project/related-projects/"
 layout: page
 breadcrumb: true
-sidebar: right
+#sidebar: right
 title: "Related projects"
 meta_title: "Related projects"
 subheadline: "Former and active projects"

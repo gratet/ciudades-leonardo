@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
   jekyll_site:
-    image: jekyll:21.04
+    image: jekyll/jekyll:latest
     #command: ["jekyll", "serve", "--watch", "--draft"]
     command: jekyll serve --watch --draft --incremental --config _config.yml,_config_dev.yml --host 0.0.0.0 --verbose
     ports:
@@ -10,7 +10,7 @@ services:
     volumes:
      - type: bind
        source: ../
-       target: /source
+       target: /srv/jekyll
     # THIS BIT!!!1!
     #user: "1000:1000"
 

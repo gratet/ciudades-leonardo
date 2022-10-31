@@ -2,7 +2,7 @@
 permalink: "/meetings/"
 layout: page
 breadcrumb: true
-sidebar: right
+#sidebar: right
 title: "Meetings"
 meta_title: "Adaptour webinar"
 subheadline: "Adaptour webinars and meetings"

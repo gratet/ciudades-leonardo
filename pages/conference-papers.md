@@ -1,15 +1,15 @@
 ---
 permalink: "/conference-papers/"
-layout: page
+layout: page-fullwidth
 breadcrumb: true
-sidebar: right
+#sidebar: right
 title: "Conference papers"
 meta_title: "Conference papers"
 subheadline: "Conference papers"
 
-teaser: "Some important info about the project conference papers." 
+teaser: "Contributions to national and international conferences." 
 
-meta_teaser: "Metadata about..."
+meta_teaser: "Contributions to national and international conferences."
 
 header:
     image_fullwidth: headers/platja-turistes.jpg

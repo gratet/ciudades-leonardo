@@ -1,8 +1,8 @@
 ---
 permalink: "/project/background/"
-layout: page
+layout: page-fullwidth
 breadcrumb: true
-sidebar: right
+#sidebar: right
 title: "Hypothesis and background"
 meta_title: "Background"
 #subheadline: "Background"

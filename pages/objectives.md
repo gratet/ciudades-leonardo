@@ -1,8 +1,8 @@
 ---
 permalink: "/project/objectives/"
-layout: page
+layout: page-fullwidth
 breadcrumb: true
-sidebar: right
+#sidebar: right
 title: "Work Packages and Objectives"
 meta_title: "Objectives"
 subheadline: "Objectives"

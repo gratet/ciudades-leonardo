@@ -1,8 +1,8 @@
 ---
 permalink: "/project/the-project/"
-layout: page
+layout: page-fullwidth
 breadcrumb: true
-sidebar: right
+#sidebar: right
 title: "The project"
 meta_title: "The project"
 subheadline: "Description of the ADAPTOUR project"

@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: page
 header:
   image_fullwidth: headers/rambla-barcelona.jpg
 
@@ -43,6 +43,7 @@ permalink: /index.html
 #
 homepage: true
 breadcrumb: true
+sidebar: right
 ---
 
 The project “The adaptability of complex tourist destinations in the present era of social, economic and environmental transformations: innovative paths towards destination resilience” (ADAPTOUR) aims to examine and understand the processes through tourism destinations are responding to the challenges of global change, in terms of mitigating its effects, transforming sociospatial dynamics, changing mobility regimes, and the enhancing of social justice with the aim of increasing resilience.
