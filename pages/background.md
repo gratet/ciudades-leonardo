@@ -13,9 +13,9 @@ meta_teaser: "Metadata about..."
 
 
 header:
-    image_fullwidth: headers/cambrils_temporal1.jpg
+    image_fullwidth: headers/cambrils_temporal2.jpg
     background-color: "#262930"
-    caption: Aerial view of Tarragona (Spain)
+    caption: Littoral storm (Author: Lluís Rovira Barenys/revistacambrils.cat)
     
 ---
 
