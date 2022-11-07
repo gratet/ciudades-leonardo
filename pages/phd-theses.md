@@ -12,7 +12,7 @@ teaser: "Some important info about the project PhD Theses."
 meta_teaser: "Metadata about..."
 
 header:
-    image_fullwidth: headers/cambrils_11.JPG
+    image_fullwidth: headers/cambrils_11.jpg
     background-color: "#262930"
     caption: 
 ---
