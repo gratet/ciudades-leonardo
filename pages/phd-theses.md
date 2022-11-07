@@ -14,7 +14,7 @@ meta_teaser: "Metadata about..."
 header:
     image_fullwidth: headers/cambrils_11.jpg
     background-color: "#262930"
-    caption: Author: Lluís Rovira Barenys (revistacambrils.cat)
+    caption: "Author: Lluís Rovira Barenys (revistacambrils.cat)"
 ---
  
 ##### **_Maria Eugenia Altamirano_**
