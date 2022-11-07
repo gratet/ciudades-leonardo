@@ -15,7 +15,7 @@ meta_teaser: "Metadata about..."
 header:
     image_fullwidth: headers/cambrils_temporal1.jpg
     background-color: "#262930"
-    
+    caption: "Crowded beach before the COVID-19 (Tarragona, Spain)"
 ---
 
 ### Background
