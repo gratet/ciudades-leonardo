@@ -12,7 +12,7 @@ teaser: "List of articles published in academic journal, books and book chapters
 meta_teaser: "List of articles published in academic journal, books and book chapters."
 
 header:
-    image_fullwidth: headers/cambrils_aeria.jpg
+    image_fullwidth: headers/cambrils_aeria.JPG
     background-color: "#262930"
     caption: "Aerial view of Cambrils (Lluís Rovira Barenys/ revistacambrils.cat)"
 ---
