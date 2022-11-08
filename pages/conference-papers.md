@@ -12,7 +12,7 @@ teaser: "Contributions to national and international conferences."
 meta_teaser: "Contributions to national and international conferences."
 
 header:
-    image_fullwidth: headers/platja_1.jpg
+    image_fullwidth: headers/platja_crow.jpg
     background-color: "#262930"
     caption: "Beach after the COVID-19, Costa Daurada (Lluís Rovira Barenys/ revistacambrils.cat)"
 ---
