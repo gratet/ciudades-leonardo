@@ -13,7 +13,7 @@ meta_teaser: "Metadata about..."
 
 
 header:
-    image_fullwidth: headers/cambrils_aeria.jpg
+    image_fullwidth: headers/hotel_salou.jpg
     background-color: "#262930"
     caption: "Aerial view of Tarragona (Spain)"
 ---
