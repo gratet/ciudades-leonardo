@@ -68,8 +68,8 @@ This doctoral project’s main ambition is to explore relationships of power amo
 
 ##### **_Oriol Gallardo Prat_**
 
-***La construcció de Smart Destinations i la millora de les condicions d'adaptabilitat i resiliència local als reptes globals de les destinacions turístiques***
+***Smart Destinations and the enhancement of local tourism destinations’ local adaptability and resilience towards global challenges***
 
-*Directors: Dr. Salvador Anton Clavé i Dr. Aaron Gutiérrez Palomero*
+*Directors: Dr. Salvador Anton Clavé and Dr. Aaron Gutiérrez Palomero*
 
-Les dinàmiques de canvi global actuals generen nous reptes a les destinacions turístiques en matèria econòmica, social i ambiental. En aquest context caldran respostes locals que facin front a les múltiples vulnerabilitats creixents. Les destinacions turístiques, enteses com a sistemes complexos, hauran de generar condicions que permetin millorar la seva capacitat d'adaptació i resiliència enfront aquests reptes globals emergents. Paral·lelament, aquestes també es troben en un procés de creixent integració de solucions intel·ligents en els processos de planificació i gestió, en el context del que s'ha anomenat com a Smart Destinations. L'objectiu d'aquesta tesi serà conèixer quina és l'aportació del desenvolupament operatiu de les Smart Destinations en la millora de la capacitat d'adaptació i resiliència de les destinacions turístiques vers als reptes globals emergents.
+The current global change dynamics generate new economic, social and environmental challenges to tourism destinations. Within this context, local responses are needed to face new multiple growing vulnerabilities. Tourism destinations, understood as complex systems, must generate conditions that allow them to enhance their adaptative capacity and their resilience against these global challenges. Meanwhile, tourism destinations are in process of increasing integration of smart solutions in their planning and management, in the context of the so-called Smart Destinations. The objective of this PhD thesis will be to understand the contribution of Smart Destinations’ operative development in enhancing the destinations’ adaptative capacity and resilience towards the emerging global challenges.
