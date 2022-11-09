@@ -13,7 +13,7 @@ meta_teaser: "Metadata about..."
 header:
     image_fullwidth: headers/pers.JPG
     background-color: "#262930"
-    caption: Aerial view of Tarragona (Spain)
+    caption: Aerial view of Cambrils, Costa Daurada (Lluís Rovira Barenys/ revistacambrils.cat)
 ---
 
 
