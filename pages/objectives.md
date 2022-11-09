@@ -32,8 +32,8 @@ Listed briefly, clearly, precisely and realistically and taking into account tha
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
-To assess the vulnerability of destinations in response to global change drivers and the challenges of a low-carbon transition
- >-***Activity 1:***  **To link, at a conceptual level, global change drivers, uncovering the meaning and dimensions of vulnerability which can hinder the viability of response strategies in tourism destinations across different scales.**
+To assess the vulnerability of destinations in response to global change drivers and the challenges of a low-carbon transition<br>
+ ***Activity 1:***  **To link, at a conceptual level, global change drivers, uncovering the meaning and dimensions of vulnerability which can hinder the viability of response strategies in tourism destinations across different scales.**
 	</div>
 </div>
 </div>
