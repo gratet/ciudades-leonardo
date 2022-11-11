@@ -81,9 +81,9 @@
     - title: Google Scholar
       url: https://scholar.google.com/citations?hl=en&user=FpEeJ3kAAAAJ&view_op=list_works&sortby=pubdate
       class: "ai ai-google-scholar ai-2x"
-#    - title: linkedin
+#   - title: linkedin
 #     url: https://www.linkedin.com/in/jules-wilson-55623793
-#      class: "fa-brands fa-linkedin fa-2x"
+#     class: "fa-brands fa-linkedin fa-2x"
       
 - name: Antonio Paolo
   lastname: Russo
