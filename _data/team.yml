@@ -106,7 +106,7 @@
       class: "ai ai-scopus ai-2x"
     - title: WoS Researcher ID
       url: https://publons.com/researcher/A-9456-2014/
-      class: "ai ai-researcherid ai-2x
+      class: "ai ai-researcherid ai-2x"
     - title: Google Scholar
       url: https://scholar.google.com/citations?user=x7_tYNoAAAAJ&hl=es
       class: "ai ai-google-scholar ai-2x"
