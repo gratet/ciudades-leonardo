@@ -6,8 +6,7 @@
   department: Dept. of Geography
   pic: salvador-anton.png
   keywords:
-    - tourism
-    
+    - tourism,
     - geography
     
   email: 
@@ -32,10 +31,10 @@
   department: Dept. of Geography
   pic: aaron-gutierrez.png
   keywords:
-    - geography  
-    - urban studies  
-    - tourism  
-    - mobilities  
+    - geography,  
+    - urban studies,  
+    - tourism,  
+    - mobilities,  
     - housing  
   email: 
     - title: E-mail
@@ -59,10 +58,10 @@
   department: Faculty of Economics and Business Studies
   pic: julie-wilson.png
   keywords:
-    - Platform Geographies
-    - Tourism Geographies
-    - Evolucionary Economic Geography
-    - Urban and Regional Transformations
+    - platform geographies,
+    - tourism geographies,
+    - evolucionary economic geography,
+    - urban and regional transformations,
   email: 
     - title: E-mail
       url: jwilson2@uoc.edu
@@ -120,9 +119,9 @@
   department: Dept. of Geography
   pic: cinta-sanz.png
   keywords:
-    - tourism geography
-    - evolutionary economic geography
-    - global production networks
+    - tourism geography,
+    - evolutionary economic geography,
+    - global production networks,
   email: 
     - title: E-mail
       url: cinta.sanzi@urv.cat
@@ -163,8 +162,8 @@
   department: Dept. of Geography
   pic: marta-nello.png
   keywords:
-    - geography
-    - tourism
+    - geography,
+    - tourism,
   email: 
     - title: E-mail
       url: martagemma.nello@urv.cat
@@ -184,9 +183,9 @@
   department: Dept. of Geography
   pic: oscar-saladie.png
   keywords:
-    - tourism
-    - mobility
-    - climate change
+    - tourism,
+    - mobility,
+    - climate change,
   email: 
     - title: E-mail
       url: oscar.saladie@urv.cat
@@ -207,9 +206,9 @@
   department: 
   pic: raquel-santos.png
   keywords:
-    - sustainable tourism
-    - tourism policies
-    - tourism innovation  
+    - sustainable tourism,
+    - tourism policies,
+    - tourism innovation,  
   email: 
     - title: E-mail
       url: raquel.santos@fi-group.com
@@ -259,9 +258,9 @@
   department:  Dept. of Geography
   pic: user-placeholder.png
   keywords:
-    - gis
-    - cartography
-    - tourism
+    - gis,
+    - cartography,
+    - tourism,
   email: 
     - title: E-mail
       url: jordi.andreu@urv.cat
@@ -279,11 +278,11 @@
   department:  Dept. of Geography
   pic: wilbert-den-hoed.png
   keywords:
-    - urban geography
-    - mobility
-    - population ageing
-    - urban cycling
-    - mobile methods
+    - urban geography,
+    - mobility,
+    - population ageing,
+    - urban cycling,
+    - mobile methods,
   email: 
     - title: E-mail
       url: wilbert.denhoed@urv.cat
@@ -306,9 +305,9 @@
   department:  Dept. of Geography
   pic: xavier-delclos.png
   keywords:
-    - travel behavior
-    - active mobility
-    - physical activity
+    - travel behavior,
+    - active mobility,
+    - physical activity,
   email: 
     - title: E-mail
       url: xavier.delclos@urv.cat
@@ -338,10 +337,10 @@
   department: Dept. of Geography
   pic: benito-zaragozi.png
   keywords:
-    - gis
-    - geodatabases
-    - data mining
-    - giscience
+    - gis,
+    - geodatabases,
+    - data mining,
+    - giscience,
   email: 
     - title: E-mail
       url: benito.zaragozi@urv.cat
@@ -371,10 +370,10 @@
   department: Dept. of Geography
   pic: antoni-domenech.png
   keywords:
-    - gis
-    - geodatabases
-    - data mining
-    - giscience
+    - gis,
+    - geodatabases,
+    - data mining,
+    - giscience,
   email: 
     - title: E-mail
       url: antoni.domenech@urv.cat 
@@ -436,9 +435,9 @@
   department: Dept. of Economy
   pic: daniel-miravet.png
   keywords:
-    - public transportation
-    - tourism
-    - education ecnonomics
+    - public transportation,
+    - tourism,
+    - education ecnonomics,
   email: 
     - title: E-mail
       url: daniel.miravet@urv.cat
@@ -456,8 +455,8 @@
   department: Dept. of Geography
   pic: fiammetta-brandajs.png
   keywords:
-    - gis
-    - mobilities
+    - gis,
+    - mobilities,
     - human and digital flows
   email: 
     - title: E-mail
@@ -506,10 +505,10 @@
   department: Geography and Environmental Management
   pic: maria-casado.png
   keywords:
-    - Impacts of tourism
-    - Lifestyle migration
-    - Social Capital
-    - Sharing Economy
+    - impacts of tourism,
+    - lifestyle migration,
+    - social capital,
+    - sharing economy
   email: 
     - title: E-mail
       url: maria.casado-diaz@uwe.ac.uk
@@ -533,8 +532,8 @@
   department: Dept. of Geography
   pic: alejandro-gonzalez.png
   keywords:
-    - human geography
-    - tourism
+    - human geography,
+    - tourism,
     - labour
   email: 
     - title: E-mail
@@ -555,9 +554,9 @@
   department: Dept. of Geography
   pic: user-placeholder.png
   keywords:
-    - geography
-    - urban studies
-    - community-based tourism
+    - geography,
+    - urban studies,
+    - community-based tourism,
     - slum tourism
   email: 
     - title: E-mail
@@ -582,8 +581,8 @@
   department: Dept. of Geography
   pic: maria-medina.png
   keywords:
-    - tourism
-    - sustainability
+    - tourism,
+    - sustainability,
     - mobility
   email: 
     - title: E-mail
@@ -632,11 +631,11 @@
   department: Dept. of Geography
   pic: alba-viana.png
   keywords:
-    - Tourism
-    - Social impact of research
-    - Assessment
-    - Sustainability
-    - Transfer knowledge
+    - tourism,
+    - social impact of research,
+    - assessment,
+    - Sustainability,
+    - transfer knowledge
   email: 
     - title: E-mail
       url: alba.viana@urv.cat
