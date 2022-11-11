@@ -19,6 +19,9 @@
     - title: ORCID
       url:  https://orcid.org/0000-0001-9818-2778
       class: "ai ai-orcid ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=WDfXg8cAAAAJ&hl=en
+      class: "ai ai-google-scholar ai-2x"
       
 - name: Aaron
   lastname: Gutiérrez Palomero
@@ -78,9 +81,9 @@
     - title: Google Scholar
       url: https://scholar.google.com/citations?hl=en&user=FpEeJ3kAAAAJ&view_op=list_works&sortby=pubdate
       class: "ai ai-google-scholar ai-2x"
-    - title: linkedin
-      url: https://www.linkedin.com/in/jules-wilson-55623793
-      class: "fa-brands fa-linkedin fa-2x"
+#    - title: linkedin
+#     url: https://www.linkedin.com/in/jules-wilson-55623793
+#      class: "fa-brands fa-linkedin fa-2x"
       
 - name: Antonio Paolo
   lastname: Russo
@@ -103,7 +106,10 @@
       class: "ai ai-scopus ai-2x"
     - title: WoS Researcher ID
       url: https://publons.com/researcher/A-9456-2014/
-      class: "ai ai-researcherid ai-2x"
+      class: "ai ai-researcherid ai-2x
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=x7_tYNoAAAAJ&hl=es
+      class: "ai ai-google-scholar ai-2x"
       
 - name: Cinta
   lastname: Sanz-Ibáñez
@@ -143,6 +149,9 @@
     - title: ORCID
       url:  http://orcid.org/0000-0001-6684-4220
       class: "ai ai-orcid ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=ZqU-iYAAAAAJ&hl=en
+      class: "ai ai-google-scholar ai-2x"
 
 
 - name: Marta Gemma
@@ -162,6 +171,9 @@
     - title: ORCID
       url:  https://orcid.org/0000-0002-0437-4056
       class: "ai ai-orcid ai-2x"
+    - title: ResearchGate
+      url: https://www.researchgate.net/profile/Marta-Andreu
+      class: "ai ai-researchgate ai-2x"
       
 - name: Òscar
   lastname: Saladié-Borraz
@@ -181,6 +193,9 @@
     - title: ORCID
       url:  https://orcid.org/0000-0002-7989-0717
       class: "ai ai-orcid ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=lSNGqp8AAAAJ&hl=ca
+      class: "ai ai-google-scholar ai-2x"
       
       
 - name: Raquel
@@ -278,9 +293,9 @@
     - title: Google Scholar
       url: https://scholar.google.es/citations?user=n49TSDYAAAAJ&hl=en&oi=sra
       class: "ai ai-google-scholar ai-2x"
-    - title: Twitter
-      url: https://twitter.com/wilbert_dh
-      class: "fa-brands fa-twitter fa-2x"
+#    - title: Twitter
+#      url: https://twitter.com/wilbert_dh
+#      class: "fa-brands fa-twitter fa-2x"
       
 - name: Xavier
   lastname: Delclòs-Alió
@@ -309,9 +324,9 @@
     - title: Google Scholar
       url: https://scholar.google.com/citations?user=YZRxfjgAAAAJ&hl=ca&oi=ao
       class: "ai ai-google-scholar ai-2x"
-    - title: Twitter
-      url: https://twitter.com/xavidelclos
-      class: "fa-brands fa-twitter fa-2x"
+#    - title: Twitter
+#      url: https://twitter.com/xavidelclos
+#      class: "fa-brands fa-twitter fa-2x"
 
 
 - name: Benito
@@ -342,9 +357,9 @@
     - title: Google Scholar
       url: https://scholar.google.es/citations?user=sO9xAc8AAAAJ
       class: "ai ai-google-scholar ai-2x"
-    - title: linkedin
-      url: https://es.linkedin.com/in/benito-m-zaragozí-295b6940
-      class: "fa-brands fa-linkedin fa-2x"
+#    - title: linkedin
+#      url: https://es.linkedin.com/in/benito-m-zaragozí-295b6940
+#      class: "fa-brands fa-linkedin fa-2x"
       
       
 - name: Antoni
@@ -450,6 +465,9 @@
     - title: ORCID
       url:  https://orcid.org/0000-0002-1600-1089
       class: "ai ai-orcid ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.es/citations?user=i5VgwegAAAAJ&hl=it
+      class: "ai ai-google-scholar ai-2x"
       
 - name: Francesc
   lastname: González-Reverté
@@ -473,6 +491,10 @@
     - title: ResearchGate
       url: https://www.researchgate.net/profile/Francesc-Gonzalez
       class: "ai ai-researchgate ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=hXdNaAYAAAAJ&hl=es
+      class: "ai ai-google-scholar ai-2x"
+      
 
 
 - name: Maria Ángeles
@@ -497,6 +519,9 @@
     - title: ORCID
       url:  https://orcid.org/0000-0002-7107-3413
       class: "ai ai-orcid ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=GVbUtRQAAAAJ&hl=en
+      class: "ai ai-google-scholar ai-2x"
 
 
 - name: Alejandro
@@ -517,6 +542,9 @@
     - title: ORCID
       url:  https://orcid.org/0000-0002-8515-7140
       class: "ai ai-orcid ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=WtOcidsAAAAJ&hl=es
+      class: "ai ai-google-scholar ai-2x"
 
 - name: María Eugenia
   lastname: Altamirano
@@ -569,6 +597,9 @@
     - title: linkedin
       url: https://www.linkedin.com/in/maria-e-medina-chavarria
       class: "fa-brands fa-linkedin fa-2x"
+    - title: Google Scholar
+      url: https://scholar.google.es/citations?user=6ysGka4AAAAJ&hl=en
+      class: "ai ai-google-scholar ai-2x"
 
 
 - name: Ana
@@ -590,6 +621,7 @@
     - title: ResearchGate
       url: https://www.researchgate.net/profile/Ana-Pastor-8
       class: "ai ai-researchgate ai-2x"
+      
 
 - name: Alba
   lastname: Viana-Lora
@@ -614,6 +646,9 @@
     - title: ResearchGate
       url: https://www.researchgate.net/profile/Alba-Viana-Lora
       class: "ai ai-researchgate ai-2x"
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=K6-3kZwAAAAJ&hl=en
+      class: "ai ai-google-scholar ai-2x"
       
 #- name: Liliana
 #  lastname: Solé-Figueras
