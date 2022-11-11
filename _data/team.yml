@@ -6,7 +6,7 @@
   department: Dept. of Geography
   pic: salvador-anton.png
   keywords:
-    - tourism
+    - tourism  
     - geography
   email: 
     - title: E-mail
@@ -30,11 +30,11 @@
   department: Dept. of Geography
   pic: aaron-gutierrez.png
   keywords:
-    - geography
-    - urban studies
-    - tourism
-    - mobilities
-    - housing
+    - geography  
+    - urban studies  
+    - tourism  
+    - mobilities  
+    - housing  
   email: 
     - title: E-mail
       url: aaron.gutierrez@urv.cat
