@@ -6,8 +6,8 @@
   department: Dept. of Geography
   pic: salvador-anton.png
   keywords:
-    + tourism
-    + geography
+    - tourism
+    - geography
   email: 
     - title: E-mail
       url: salvador.anton@urv.cat
