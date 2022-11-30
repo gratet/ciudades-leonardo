@@ -40,7 +40,7 @@ Activity 1:To link, at a conceptual level, global change drivers, uncovering the
 
 #### WP 2. Analysis of different processes of destination transformation triggered by global changes. Identification of mitigation/transition strategies, local impacts and response frameworks. PI: A. Gutiérrez
 
-##### Objective 2: 
+##### Objective 2: To evaluate dynamics of socio-spatial balance in the transformation of destinations.
 
 <div class="row">
 	<div class="small-12 columns">
@@ -50,7 +50,7 @@ To evaluate dynamics of socio-spatial balance in the transformation of destinati
 </div>
 </div>
 
-##### Objective 3: 
+##### Objective 3: To analyse the reconfiguration of tourism mobilities in a context of global mobilities redefinition.
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -59,7 +59,7 @@ To analyse the reconfiguration of tourism mobilities in a context of global mobi
 </div>
 </div>
 
-##### Objective 4: 
+##### Objective 4: To determine the vulnerability of complex tourist destinations to climate change and monitoring of adaptive and mitigation strategies.
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -69,7 +69,7 @@ To determine the vulnerability of complex tourist destinations to climate change
 </div>
 
 
-##### Objective 5: 
+##### Objective 5: To evaluate policies and strategies aiming to increase wellbeing, prosperity and social inclusion. 
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -81,7 +81,7 @@ To evaluate policies and strategies aiming to increase wellbeing, prosperity and
 
 #### WP 3. Assessment of different agency tools in the technological, communication and governance domains that may produce substantial variations in destination vulnerability and resilience. Evaluation of co-evolutionary path-place-based responses. PI: S. Anton Clavé
 
-##### Objective 6: 
+##### Objective 6: To assess the development of smart systems in order to cope with the challenges of global transformations at local level.
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -90,7 +90,7 @@ To assess the development of smart decision support systems in order to cope wit
 </div>
 </div>
 
-##### Objective 7: 
+##### Objective 7: To analyse the strategies by which destination communicate new policies applied handling rapid transformation processes.
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
