@@ -29,7 +29,7 @@ This doctoral thesis aims to analyse the role of tourism practices and performan
 
 ***Multidimensional assessment to enhance the well-being benefits provided by nature areas. A participatory approach applied in different cases of Europe and Latin America.***
 
-*Directora: Dr. Marta Ne-lo Andreu*
+*Directora: Dr. Marta Nel-lo Andreu*
 
 Nature offers a wide range of health and well-being benefits, closely linked to the objective of providing genuine experiences that intend to involve visitors across the physical, mental, social, emotional, spiritual, and environmental dimensions. In this sense, tourism offering well-being practices in nature has increased exponentially in recent years, and the scientific interest has also grown at a similar rate, from both a theoretical and a methodological perspective.
 This doctoral thesis follows the theoretical principle that natural protected areas can contribute to the sustainable development, and from the focus of how we manage parks, it gives us the opportunity to improve the health of both our nature and communities. The aim is to discern the potential opportunities of nature areas to provide well-being benefits to locals and tourists from management and public use. To provide scientific evidence and transfer knowledge on this topic, a mixed methodology is applied in different natural areas in Europe and Latin America. This research is applied within the framework of a methodological participatory process and co-creation approach that integrates visual methods in data collection and analysis, together with the involvement of public and private agents, locals, and tourists.
@@ -38,7 +38,7 @@ This doctoral thesis follows the theoretical principle that natural protected ar
 
 ***Impacto social de la investigación en turismo. Proyectos de planificación turística.***
 
-*Directora: Dra. Marta Ne-lo Andreu*
+*Directora: Dra. Marta Nel-lo Andreu*
 
 La evaluación del impacto social de la investigación es cada vez más reclamada por las entidades financiadoras y merece especial atención en la actualidad. El objetivo de esta tesis es analizar el impacto social de la investigación en turismo. Para ello, se estudian las herramientas de evaluación disponibles a fin de realizar una comparativa y extraer ideas para el diseño de un sistema de indicadores aplicable a proyectos de planificación turística. 
 
@@ -54,7 +54,7 @@ This PhD thesis is developed within the framework of the H2020-SMARTDEST project
 
 ***Reconfiguration of Visitor Flows and their Management in Natural Protected Areas since the Pandemic***
 
-*Directors: Dr. Òscar Saladié Borraz i Dr. Aaron Gutiérrez Palomero.*
+*Directors: Dr. Òscar Saladié Borraz and Dr. Aaron Gutiérrez Palomero.*
 
 Natural protected areas (NPAs) are areas actively managed to accomplish purposes ranging from the conservation of natural values and services, the improvement of physical and mental well-being and the recreation of those who visit them. These sensitive areas can be negatively affected by contexts of rapid socio-economic and environmental transformations, such as the ones caused by the COVID-19 pandemic. In Spain, for instance, an increasing interest in NPAs was observed and proximity tourism resurfaced. This even meant that in certain periods, some NPAs were even more visited than before the pandemic, increasing the constraints and the risks associated to a greater anthropogenic activity. This research aims to understand the emerging challenges for the agents involved in the management of visitors in NPAs, as well as to identify the practical foundations that explain how and why they responded to these challenges the way they did. By retrieving information from academic production, digital media, and from the managers themselves, the effects of COVID-19 on tourist flows to NPAs, the application and adaptations of visitor management policies implemented in NPAs of Catalonia, and specifically, in the province of Tarragona, are being analyzed. An essential part of this research is the analysis of visitor behavior on a case study; that is, to comprehend the changes in the profile of current users of a Natural Park of Tarragona. The results will be relevant to understand their motivation and behavior in space and time. This information is key for the development of tools and strategies for a proper and efficient planning, management, monitoring, and evaluation system.
 
