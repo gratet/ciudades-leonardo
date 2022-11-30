@@ -665,26 +665,26 @@
       url: https://scholar.google.com/citations?user=K6-3kZwAAAAJ&hl=en
       class: "ai ai-google-scholar ai-2x"
       
-#- name: Liliana
-#  lastname: Solé-Figueras
-#  position: PhD candidate
-#  organization: Universitat Rovira i Virgili
-#  department: Dept. of Geography
-#  pic: liliana-sole.png
-#  keywords:
-#    - Tourism
-#    - Social impact of research
-#    - Assessment
-#    - Sustainability
-#    - Transfer knowledge
-#  email: 
-#    - title: E-mail
-#      url: lilianasole88@gmail.com
-#      class: "fa-solid fa-envelope fa-2x"
-#  social:
-#    - title: ORCID
-#      url:  https://orcid.org/0000-0003-4573-7439
-#      class: "ai ai-orcid ai-2x"
+- name: Alba
+  lastname: Font-Barnet
+  position: PhD candidate
+  organization: Universitat Rovira i Virgili
+  department: Dept. of Geography
+  pic: 
+  keywords:
+    - Tourism
+    - Social impact of research
+    - Assessment
+    - Sustainability
+    - Transfer knowledge
+  email: 
+    - title: E-mail
+      url: alba.font@urv.cat
+      class: "fa-solid fa-envelope fa-2x"
+  social:
+    - title: ORCID
+      url: https://orcid.org/0000-0002-2806-6242
+      class: "ai ai-orcid ai-2x"
 #    - title: ResearchGate
 #      url: https://www.researchgate.net/profile/Liliana-Sole-Figueras
 #      class: "ai ai-researchgate ai-2x"
