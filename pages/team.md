@@ -69,7 +69,7 @@ header:
 {% endif %}
 
 
-<strong>Palabras clave:</strong>
+<strong>Keywords:</strong>
 <ul>
 {% for keyword in member.keywords %}
 	<li style="display:inline"><code class="highlighter-rouge">{{ keyword }}</code></li>
