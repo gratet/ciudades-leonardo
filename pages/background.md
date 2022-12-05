@@ -58,7 +58,7 @@ The institutional environment and, by extension, the overall political orientati
 - Creswell, T. (2006). *On the move: The politics of mobility in the modern west.* Routledge
 - Fabry, N. & Zeghni, S (2019). Resilience, tourist destinations and governance: an analytical framework. In: Cholat F., Gwiazdzinski L., Tritz C. & Tuppen J. (eds) *Tourismes et adaptations*. Elya Editions, p.96-108.
 - Foster K. (2012). "In Search of Regional Resilience" in Weir, M. et al (eds). *Urban and Regional Policy and Its Effects: Building Resilient Regions Brookings Institution Press.* p. 24-59.
-- Gössling, S. & Higham, J. (2020). The Low-Carbon Imperative: Destination Management under Urgent Climate Change. *Journal of Travel Research*. Doi: 10.1177/0047287520933679
+- Gössling, S. & Higham, J. (2020). The Low-Carbon Imperative: Destination Management under Urgent Climate Change. *Journal of Travel Research*. Doi: 10.1177/0047287520933679.
 - Gössling, S.; Scott; D. & Hall, C.M. (2020) Pandemics, tourism and global change: a rapid assessment of COVID19, *Journal of Sustainable Tourism*, DOI: 10.1080/09669582.2020.1758708.
 - Gretzel, U. & Scarpino Johns, M. (2018). Destination Resilience and Smart Tourism Destinations. *Tourism Review International, 22(3)*, 263-276.
 - Hall, C.M. (2019). Constructing sustainable tourism development: The 2030 agenda and the managerial ecology of sustainable tourism. *Journal of Sustainable Tourism, 27 (7)*, 1044-1060.
@@ -71,9 +71,9 @@ The institutional environment and, by extension, the overall political orientati
 - Paidakaki, A., & Moulaert, F. (2017). Does the post-disaster resilient city really exist? A critical analysis of the¡ heterogeneous transformative capacities of housing reconstruction'resilience cells'. *International Journal of Disaster Resilience in the Built Environment, 8(3)*, 275-291.
 - Prideaux, B.; Thompson, M. & Pabel, A. (2020), Lessons from COVID-19 can prepare global tourism for the economic transformation needed to combat climate change, Tourism Geographies, 22:3, 667-678.
 - Santos-Lacueva, R., Ariza, E., Romagosa, F. & Saladié, Ò. (2019). The vulnerability of destinations to climate change: A comparative analysis of contextual socio-political factors. *Journal of Sustainable Tourism, 27(8)*, 1217-1238. 
-- Sanz-Ibánez, C.; Lozano, S.; Anton Clavé, S. (2019) Brokers in a destination’s knowledge networks”. *Journal of Destination Marketing & Management, 11: 120-129*. JCR IF 4.279 Q1
+- Sanz-Ibánez, C.; Lozano, S.; Anton Clavé, S. (2019) Brokers in a destination’s knowledge networks”. *Journal of Destination Marketing & Management, 11*: 120-129. 
 - Sharpley, R. (2020). Tourism, sustainable development and the theoretical divide: 20 years on, *Journal of Sustainable Tourism, 28:11*, 1932-1946,
 - Shaw, K. (2012). The rise of the resilient local authority? *Local Government Studies, 38(3)*, 281-300.
-- Simmie, J., Martin, R. (2010). The economic resilience of regions: towards an evolutionary approach.* Cambridge Journal of Region, Economy and Society, 3*, pp.27-43.
+- Simmie, J., Martin, R. (2010). The economic resilience of regions: towards an evolutionary approach.*Cambridge Journal of Region, Economy and Society, 3*, pp.27-43.
 - Vale, L. J. (2014). The politics of resilient cities: whose resilience and whose city?. *Building Research & Information, 42(2)*, 191-201.
 - Vale, L. J., & Campanella, T. J. (2005). *The resilient city: How modern cities recover from disaster*. Oxford University Press.
