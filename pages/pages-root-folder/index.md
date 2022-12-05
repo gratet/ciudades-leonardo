@@ -50,7 +50,7 @@ The general research objective of the project is to examine, understand and tran
 
 The project presented addresses the **Challenge Six** of the Spanish Research Plan on **Social Sciences and Humanities and Science with and for Society**. Albeit complementarily, the project also partially addresses, from the perspective of the social sciences, **Challenge Five on Climate Change and the Use of Natural Resources and Raw Materials**. Also partially, the project relates **to Challenge Seven on Digital Economy, Society and Cultures**.
 
-***Reference: PID2020-112525RB-I00. Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.***
+*Reference: PID2020-112525RB-I00. Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.*
 
 
 
