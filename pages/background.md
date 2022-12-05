@@ -39,29 +39,29 @@ Emergence is a key concept in complex adaptive systems as it describes how globa
 The institutional environment and, by extension, the overall political orientation of the destination will thus influence its social dynamics and productive, social, and ideological relationships. This necessitates a nuanced understanding of the agency tools that destinations put in place in the technological, communication and governance domains that may produce substantial variations as regards its vulnerability and resilience. It is for this reason that Work Package Three will analyse smart tools for a systemic resilience agenda, communication and branding strategies and responsible and resilient destination governance regimes (Gretzel & Scarpino Johns, 2018; Vale & Campanella, 2005). All in all, in so doing, the ADAPTOUR project seeks to stimulate new important questions regarding the present and the future of tourism destinations and the role of tourism in our contemporary society and space. Empirical observations, theoretical discussions, critical insights and practical expertise could assist a responsible transition towards a sustainable transformation and increase resilience of destinations in the current social, economic and environmental scenario. 
 
 ### Bibliography
-Bornioli, A.; Russo, A.P.; Valente, R. (eds) (2020). Scientific Report: "Initial presentation of the research context". SMARTDEST project. https://smartdest.eu/wp-content/uploads/2020/10/D2-1-SMARTDEST-ScientificReport-Task-2-1-.pdf
-Brouder, P. (2020). Reset redux: possible evolutionary pathways towards the transformation of tourism in a COVID-19 world. Tourism Geographies, 22:3, 484-490.
-Colchester, J. (2016). Systems + Complexity. An accessible introduction to the new area of complex systems. Create Space Independent Publishing Platform.
-Coles, T. & Hall, M. (2006). The Geography of Tourism is Dead. Long Live Geographies of Tourism and Mobility. Current Issues in Tourism, 9:4-5, 289-292.
-Creswell, T. (2006). On the move: The politics of mobility in the modern west. Routledge
-Fabry, N. & Zeghni, S (2019). Resilience, tourist destinations and governance: an analytical framework. In: Cholat F., Gwiazdzinski L., Tritz C. & Tuppen J. (eds) Tourismes et adaptations. Elya Editions, p.96-108.
-Foster K. (2012). "In Search of Regional Resilience" in Weir, M. et al (eds). Urban and Regional Policy and Its Effects: Building Resilient Regions Brookings Institution Press. p. 24-59.
-Gössling, S. & Higham, J. (2020). The Low-Carbon Imperative: Destination Management under Urgent Climate Change. Journal of Travel Research. Doi: 10.1177/0047287520933679
-Gössling, S.; Scott; D. & Hall, C.M. (2020) Pandemics, tourism and global change: a rapid assessment of COVID19, Journal of Sustainable Tourism, DOI: 10.1080/09669582.2020.1758708.
-Gretzel, U. & Scarpino Johns, M. (2018). Destination Resilience and Smart Tourism Destinations. Tourism Review International, 22(3), 263-276.
-Hall, C.M. (2019). Constructing sustainable tourism development: The 2030 agenda and the managerial ecology of sustainable tourism Journal of Sustainable Tourism, 27 (7), 1044-1060.
-Hudson R. (2010). Resilient regions in an uncertain world: Wishful thinking or practical reality? Cambridge Journal of Regions, Economy and Society, 3(1), pp.11-25.
-Lew, A. A. (2014). Scale, change and resilience in community tourism planning. Tourism Geographies,16(1),14-22.
-López-Gay, A., Cocola-Gant, A. & Russo, A. P. (2020). Urban tourism and population change: Gentrification in the age of mobilities. Population Space and Place. DOI: 10.1002/psp.2380
-Manderscheid, K. (2009). Integrating space and mobilities into the analysis of social inequality. Distinktion: Scandinavian Journal of Social Theory, 10(1), 7-27. 7 de 20
-Martin, R. & Sunley, P. (2015). On the notion of regional economic resilience: conceptualization and explanation, Journal of Economic Geography, 15(1): 1–42
-Mehmood, A. (2016). Of resilient places: planning for urban resilience. European Planning Studies, 24(2), 407- 419. (pp.24-59).
-Paidakaki, A., & Moulaert, F. (2017). Does the post-disaster resilient city really exist? A critical analysis of the¡ heterogeneous transformative capacities of housing reconstruction'resilience cells'. International Journal of Disaster Resilience in the Built Environment, 8(3), 275-291.
-Prideaux, B.; Thompson, M. & Pabel, A. (2020), Lessons from COVID-19 can prepare global tourism for the economic transformation needed to combat climate change, Tourism Geographies, 22:3, 667-678.
-Santos-Lacueva, R., Ariza, E., Romagosa, F. & Saladié, Ò. (2019). The vulnerability of destinations to climate change: A comparative analysis of contextual socio-political factors. Journal of Sustainable Tourism, 27(8), 1217-1238. 
-Sanz-Ibánez, C.; Lozano, S.; Anton Clavé, S. (2019) Brokers in a destination’s knowledge networks”. Journal of Destination Marketing & Management, 11: 120-129. JCR IF 4.279 Q1
-Sharpley, R. (2020). Tourism, sustainable development and the theoretical divide: 20 years on, Journal of Sustainable Tourism, 28:11, 1932-1946,
-Shaw, K. (2012). The rise of the resilient local authority? Local Government Studies, 38(3), 281-300.
-Simmie, J., Martin, R. (2010). The economic resilience of regions: towards an evolutionary approach. Cambridge Journal of Region, Economy and Society, 3, pp.27-43.
-Vale, L. J. (2014). The politics of resilient cities: whose resilience and whose city?. Building Research & Information, 42(2), 191-201.
-Vale, L. J., & Campanella, T. J. (2005). The resilient city: How modern cities recover from disaster. Oxford University Press.
+- Bornioli, A.; Russo, A.P.; Valente, R. (eds) (2020). Scientific Report: "Initial presentation of the research context". *SMARTDEST project*. https://smartdest.eu/wp-content/uploads/2020/10/D2-1-SMARTDEST-ScientificReport-Task-2-1-.pdf
+- Brouder, P. (2020). Reset redux: possible evolutionary pathways towards the transformation of tourism in a COVID-19 world. *Tourism Geographies, 22:3*, 484-490.
+- Colchester, J. (2016). Systems + Complexity. An accessible introduction to the new area of complex systems. *Create Space Independent Publishing Platform.*
+- Coles, T. & Hall, M. (2006). The Geography of Tourism is Dead. Long Live Geographies of Tourism and Mobility. *Current Issues in Tourism, 9:4-5*, 289-292.
+- Creswell, T. (2006). *On the move: The politics of mobility in the modern west.* Routledge
+- Fabry, N. & Zeghni, S (2019). Resilience, tourist destinations and governance: an analytical framework. In: Cholat F., Gwiazdzinski L., Tritz C. & Tuppen J. (eds) *Tourismes et adaptations*. Elya Editions, p.96-108.
+- Foster K. (2012). "In Search of Regional Resilience" in Weir, M. et al (eds). *Urban and Regional Policy and Its Effects: Building Resilient Regions Brookings Institution Press.* p. 24-59.
+- Gössling, S. & Higham, J. (2020). The Low-Carbon Imperative: Destination Management under Urgent Climate Change. *Journal of Travel Research*. Doi: 10.1177/0047287520933679
+- Gössling, S.; Scott; D. & Hall, C.M. (2020) Pandemics, tourism and global change: a rapid assessment of COVID19, *Journal of Sustainable Tourism*, DOI: 10.1080/09669582.2020.1758708.
+- Gretzel, U. & Scarpino Johns, M. (2018). Destination Resilience and Smart Tourism Destinations. *Tourism Review International, 22(3)*, 263-276.
+- Hall, C.M. (2019). Constructing sustainable tourism development: The 2030 agenda and the managerial ecology of sustainable tourism. *Journal of Sustainable Tourism, 27 (7)*, 1044-1060.
+- Hudson R. (2010). Resilient regions in an uncertain world: Wishful thinking or practical reality? *Cambridge Journal of Regions, Economy and Society, 3(1)*, pp.11-25.
+- Lew, A. A. (2014). Scale, change and resilience in community tourism planning. *Tourism Geographies,16(1)*, 14-22.
+- López-Gay, A., Cocola-Gant, A. & Russo, A. P. (2020). Urban tourism and population change: Gentrification in the age of mobilities. *Population Space and Place*. DOI: 10.1002/psp.2380
+- Manderscheid, K. (2009). Integrating space and mobilities into the analysis of social inequality. *Distinktion: Scandinavian Journal of Social Theory, 10(1)*, 7-27. 7 de 20
+- Martin, R. & Sunley, P. (2015). On the notion of regional economic resilience: conceptualization and explanation, *Journal of Economic Geography, 15(1)*: 1–42
+- Mehmood, A. (2016). Of resilient places: planning for urban resilience. *European Planning Studies, 24(2)*, 407- 419. (pp.24-59).
+- Paidakaki, A., & Moulaert, F. (2017). Does the post-disaster resilient city really exist? A critical analysis of the¡ heterogeneous transformative capacities of housing reconstruction'resilience cells'. *International Journal of Disaster Resilience in the Built Environment, 8(3)*, 275-291.
+- Prideaux, B.; Thompson, M. & Pabel, A. (2020), Lessons from COVID-19 can prepare global tourism for the economic transformation needed to combat climate change, Tourism Geographies, 22:3, 667-678.
+- Santos-Lacueva, R., Ariza, E., Romagosa, F. & Saladié, Ò. (2019). The vulnerability of destinations to climate change: A comparative analysis of contextual socio-political factors. Journal of Sustainable Tourism, 27(8), 1217-1238. 
+- Sanz-Ibánez, C.; Lozano, S.; Anton Clavé, S. (2019) Brokers in a destination’s knowledge networks”. Journal of Destination Marketing & Management, 11: 120-129. JCR IF 4.279 Q1
+- Sharpley, R. (2020). Tourism, sustainable development and the theoretical divide: 20 years on, Journal of Sustainable Tourism, 28:11, 1932-1946,
+- Shaw, K. (2012). The rise of the resilient local authority? Local Government Studies, 38(3), 281-300.
+- Simmie, J., Martin, R. (2010). The economic resilience of regions: towards an evolutionary approach. Cambridge Journal of Region, Economy and Society, 3, pp.27-43.
+- Vale, L. J. (2014). The politics of resilient cities: whose resilience and whose city?. Building Research & Information, 42(2), 191-201.
+- Vale, L. J., & Campanella, T. J. (2005). The resilient city: How modern cities recover from disaster. Oxford University Press.
