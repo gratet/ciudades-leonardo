@@ -46,8 +46,9 @@ breadcrumb: true
 sidebar: right
 ---
 
-The project “The adaptability of complex tourist destinations in the present era of social, economic and environmental transformations: innovative paths towards destination resilience” (ADAPTOUR) aims to examine and understand the processes through tourism destinations are responding to the challenges of global change, in terms of mitigating its effects, transforming sociospatial dynamics, changing mobility regimes, and the enhancing of social justice with the aim of increasing resilience.
-The project presented addresses the Challenge Six of the Spanish Research Plan on Social Sciences and Humanities and Science with and for Society.
+The general research objective of the project is to examine, understand and translate into theoretical approaches, empirical observations and practical conversations, the processes through which destinations are responding to the challenges of global change (and in particular to climate change and the de-carbonization of the productive system), in terms of mitigating its effects, transforming socio-spatial dynamics, changing mobility regimes, and the enhancing of social justice with the aim of increasing resilience.
+
+The project presented addresses the **Challenge Six** of the Spanish Research Plan on **Social Sciences and Humanities and Science with and for Society**. Albeit complementarily, the project also partially addresses, from the perspective of the social sciences, **Challenge Five on Climate Change and the Use of Natural Resources and Raw Materials**. Also partially, the project relates **to Challenge Seven on Digital Economy, Society and Cultures**.
 
 **Reference: PID2020-112525RB-I00. Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.**
 
