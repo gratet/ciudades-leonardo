@@ -7,7 +7,7 @@ title: "The project"
 meta_title: "The project"
 subheadline: "Description of the ADAPTOUR project"
 
-teaser: "Description of the ADAPTOUR project." 
+teaser: "About the ADAPTOUR project." 
 
 meta_teaser: "Metadata about..."
 
