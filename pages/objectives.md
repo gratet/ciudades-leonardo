@@ -26,7 +26,7 @@ Listed briefly, clearly, precisely and realistically and taking into account tha
 ##### WP 1. Identification of the emerging global drivers of transformation affecting local complex destinations vulnerability and resilience. Development of analytical frameworks for empirical research. PI: S. Anton Clavé  
 
 
-###### *Objective 1: To assess the vulnerability of destinations in response to global change drivers and the challenges of a low-carbon transition.*
+>>###### *Objective 1: To assess the vulnerability of destinations in response to global change drivers and the challenges of a low-carbon transition.*
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -119,11 +119,11 @@ Activity 9. Define, monitor and review the Ethics Procurement and Gender Analysi
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
-Activity 10. Review the social impact of the project.  
+- Activity 10. Review the social impact of the project.  
 		
-Activity 11. Develop and apply a knowledge transfer action plan in a transversal manner.  
+- Activity 11. Develop and apply a knowledge transfer action plan in a transversal manner.  
 		
-Activity 12. Produce, publish and disseminate research results through academic publications and means.		
+- Activity 12. Produce, publish and disseminate research results through academic publications and means.		
 	</div>
 </div>
 </div>
