@@ -23,7 +23,8 @@ From a methodological perspective, the research will unleash the potential of su
 Listed briefly, clearly, precisely and realistically and taking into account that a project will be carried out during four years, 10 objectives are set out in four Work Packages. The PI responsible for WP1 and WP3 (Objectives 1, 6, 7 and 8) as well as Objective 10 of WP4 is Salvador Anton Clavé, while the PI responsible for WP2 (Objectives 2, 3, 4 and 5) and Objective 9 of WP4 is Aaron Gutiérrez.
 
 
-##### WP 1. Identification of the emerging global drivers of transformation affecting local complex destinations vulnerability and resilience. Development of analytical frameworks for empirical research. PI: S. Anton Clavé
+##### WP 1. Identification of the emerging global drivers of transformation affecting local complex destinations vulnerability and resilience. Development of analytical frameworks for empirical research. PI: S. Anton Clavé  
+
 
 ###### *Objective 1: To assess the vulnerability of destinations in response to global change drivers and the challenges of a low-carbon transition*
 <div class="row">
