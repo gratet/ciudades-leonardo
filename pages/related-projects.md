@@ -43,21 +43,21 @@ This Project aimed to analyse the value of consolidated coastal tourism destinat
   
   
 ##### Territorial innovation and development models in coastal tourist destinations. Analysis at different spatial scales (INNOVATUR). 
-CSO2008-01699. **Period: 2009-2011**
+Project CSO 2008-01699. **Period: 2009-2011**
 *SUMMARY:*
 The goal of this project was to study the models of territorial development brought about by the dynamics of tourism in the Mediterranean coasts from the perspective of innovation, and regional competitiveness. The ambition was to evaluate the reach and limitations of tourism not only as a factor of change but also as a catalyst of opportunities for regions in a context of economic globalisation. With this aim, a research programme at different scales was designed, including, among others, the use of territorial analysis tools such as Geographical Information Systems (GIS), field work techniques, and statistical data elaboration.
 The main contributions from this project were (1) to evaluate the processes of transformation, repositioning and evolution of different types of coastal tourist destinations within the context of the change of the Spanish model; (2) to link the analysis of tourist destinations in the Spanish Mediterranean coast with research on the generation of urban space, spatial analysis, and the valorisation of anthropic landscapes; (3) to discuss the role of tourist destinations as landscapes for social innovation, creative expression, and regional competitiveness and (4) to propose principles, tools and useful initiatives to public administrations and economic agents.
  
  
 ##### Assessment of the effects of changes in the Spanish tourist model over mature coastal resorts (LITORALTUR). 
-SEJ2005-05677. **Period: 2006-2008.**
+Project SEJ2005-05677. **Period: 2006-2008.**
 *SUMMARY:*
 The aim of this project was to study the impact of the changing pattern of the Spanish tourism development over the mature coastal resorts on the Mediterranean area. We were particularly interested into the analysis of the effects over the land use and changes in the characteristics of the tourist demand. We planned an analysis at many scales using Geographical Information Systems.
 The main outcomes from the project were: (1) to explain the restructuring processes in tourism destinations within the frame of the changing model of the activity in Spain; (2) to link the analysis of the changes in the Mediterranean Spanish resorts with the main issues in this field at the international level; (3) to plan a system analysis at many scales; (4) to know the significance and the differential effects of the policies over the restructuring of tourism destinations; (5) to propose useful principles, tools and actions for the government and the private sector and (6) to base GIS methodologies to improve the planning and management systems of tourism destinations.
  
 
 ##### Assessment of the spatial effects of the restructuring polices in mature costal resorts. Analysis of the Spanish Mediterranean coast (LITORALMED). 
-BSO2001-0758. **Period: 2002-2005**
+Project BSO2001-0758. **Period: 2002-2005**
 *SUMMARY:*
 The aim of this project was the assessment of the spatial effects of the implementation of restructuring policies in mute coastal resorts on the Spanish Mediterranean coastal area. We analysed the scope of the changing tourism model in this type of destinations and the rapid transformation of the activity on their spatial structure and the spread of tourist facilities over the territory. We planned an analysis at diverse  scale using Geographical Information Systems.
 The main outcomes from the project were: (1) to draw explanation models to understand restructuring processes in tourism destinations; (2) to link the analysis of the changes in the Mediterranean Spanish resorts with the main issues in this field at the international level; (3) to plan a system analysis at many scales; (4) to know the significance and the differential effects of the polices over the restructuring of tourism destinations; (5) to propose useful principles, tools and actions for the government and the private sector and (6) to base GIS methodologies to improve the planning and management systems of tourism destination.
