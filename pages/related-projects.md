@@ -22,7 +22,7 @@ The previous projects funded by the Spanish Research Plan are detailed below.
   
   
 ##### Análisis del papel de las políticas territoriales en la gestión de los destinos turísticos en la época de las movilidades (POLITUR).  
-Plan Estatal de Investigación Científica y Técnica y de Innovación 2018-2020. PROJECT CSO2017-82156-R. **Period: 2018-2020**
+Plan Estatal de Investigación Científica y Técnica y de Innovación 2018-2020. PROJECT CSO2017-82156-R. **Period: 2018-2020.**
 
 *SUMMARY:*
 The POLITUR project aimed to analyse new urban and socio-political strategies associated with tourism management within complex and multifunctional tourism destinations The primary objective was to identify, understand and review the incorporation of a renewed spatial dimension into current tourism policies as a fundamental factor for generating prosperity and sustainability (environmental, economic and cultural); and to debate, evaluate and propose prescriptive systems that, with the support of the technological footprints observed in current tourism consumption, could orient decision-making on the part of the key actors involved (public and private) and promote the implementation of effective regulatory instruments in relation to the use of tourism spaces.
@@ -30,7 +30,7 @@ This project presented an analytical proposal to analyse the new territorial str
 
 
 ##### The Transformative Effects of Global Mobility Patterns in Tourism Destination Evolution. 
-Plan Nacional de I+D+i 2013-2016. Project CSO CSO2014-51785-R. **Period: 2015-2017**
+Plan Nacional de I+D+i 2013-2016. Project CSO CSO2014-51785-R.  **Period: 2015-2017.**
 
 *SUMMARY:*
 The MOVETUR project aimed to develop an innovative analytical, conceptual and methodological framework for analysing how tourism destinations are transformed by the multiple mobilities inherent in contemporary societies, as well as understanding the effects of these mobilities on the development, attractiveness and inter-place / urban competition of places of different scales. 
@@ -38,7 +38,7 @@ The project steamed from the general hypothesis that human mobilities at differe
   
   
 ##### Tourism, Residential Mobility and Territorial Copetitiveness (GLOBALTUR). 
-Plan Nacional de I+D+i 2008-2011. Project CSO 2011-23004. **Period: 2010-2014**
+Plan Nacional de I+D+i 2008-2011. Project CSO 2011-23004. **Period: 2010-2014.**
 
 *SUMMARY:*
 This research project’s proposed goal was to study the role of mature tourism coastal destinations as spaces where social innovation, territorial competitiveness and the development of global responsible policies are fostered. The project seeked to analyse the effects of residential mobility associated with tourism activity and flows on the competitiveness of destinations, to evaluate the role of policies on their development dynamics and to study the responses that they elicit face to the challenges of global change. The basic hypothesis of the project assumed that the increasing transformation of population mobility – and the multiplication of its forms – had spurred the development of complex urban structures, the current mature tourism destinations, and of new demographic and economic processes that led to the emergence of new social, territorial and environmental conflicts.
@@ -46,7 +46,7 @@ This Project aimed to analyse the value of consolidated coastal tourism destinat
   
   
 ##### Territorial innovation and development models in coastal tourist destinations. Analysis at different spatial scales (INNOVATUR). 
-Project CSO 2008-01699. **Period: 2009-2011**
+Project CSO 2008-01699. **Period: 2009-2011.**
 
 *SUMMARY:*
 The goal of this project was to study the models of territorial development brought about by the dynamics of tourism in the Mediterranean coasts from the perspective of innovation, and regional competitiveness. The ambition was to evaluate the reach and limitations of tourism not only as a factor of change but also as a catalyst of opportunities for regions in a context of economic globalisation. With this aim, a research programme at different scales was designed, including, among others, the use of territorial analysis tools such as Geographical Information Systems (GIS), field work techniques, and statistical data elaboration.
@@ -62,7 +62,7 @@ The main outcomes from the project were: (1) to explain the restructuring proces
  
 
 ##### Assessment of the spatial effects of the restructuring polices in mature costal resorts. Analysis of the Spanish Mediterranean coast (LITORALMED). 
-Project BSO2001-0758. **Period: 2002-2005**
+Project BSO2001-0758. **Period: 2002-2005.**
 
 *SUMMARY:*
 The aim of this project was the assessment of the spatial effects of the implementation of restructuring policies in mute coastal resorts on the Spanish Mediterranean coastal area. We analysed the scope of the changing tourism model in this type of destinations and the rapid transformation of the activity on their spatial structure and the spread of tourist facilities over the territory. We planned an analysis at diverse  scale using Geographical Information Systems.
