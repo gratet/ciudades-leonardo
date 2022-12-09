@@ -119,6 +119,7 @@ Activity 9. Define, monitor and review the Ethics Procurement and Gender Analysi
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
+ 
  - Activity 10. Review the social impact of the project.  
 		
  - Activity 11. Develop and apply a knowledge transfer action plan in a transversal manner.  
