@@ -55,6 +55,7 @@ The main contributions from this project were (1) to evaluate the processes of t
 ##### Period: 2006-2008
 ###### Assessment of the effects of changes in the Spanish tourist model over mature coastal resorts (LITORALTUR). 
 SEJ2005-05677.
+
 *SUMMARY:*
 The aim of this project was to study the impact of the changing pattern of the Spanish tourism development over the mature coastal resorts on the Mediterranean area. We were particularly interested into the analysis of the effects over the land use and changes in the characteristics of the tourist demand. We planned an analysis at many scales using Geographical Information Systems.
 The main outcomes from the project were: (1) to explain the restructuring processes in tourism destinations within the frame of the changing model of the activity in Spain; (2) to link the analysis of the changes in the Mediterranean Spanish resorts with the main issues in this field at the international level; (3) to plan a system analysis at many scales; (4) to know the significance and the differential effects of the policies over the restructuring of tourism destinations; (5) to propose useful principles, tools and actions for the government and the private sector and (6) to base GIS methodologies to improve the planning and management systems of tourism destinations.
