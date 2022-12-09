@@ -39,6 +39,7 @@ The project steamed from the general hypothesis that human mobilities at differe
   
 ##### Tourism, Residential Mobility and Territorial Copetitiveness (GLOBALTUR). 
 Plan Nacional de I+D+i 2008-2011. Project CSO 2011-23004.**Period: 2010-2014**
+
 *SUMMARY:*
 This research project’s proposed goal was to study the role of mature tourism coastal destinations as spaces where social innovation, territorial competitiveness and the development of global responsible policies are fostered. The project seeked to analyse the effects of residential mobility associated with tourism activity and flows on the competitiveness of destinations, to evaluate the role of policies on their development dynamics and to study the responses that they elicit face to the challenges of global change. The basic hypothesis of the project assumed that the increasing transformation of population mobility – and the multiplication of its forms – had spurred the development of complex urban structures, the current mature tourism destinations, and of new demographic and economic processes that led to the emergence of new social, territorial and environmental conflicts.
 This Project aimed to analyse the value of consolidated coastal tourism destinations as confluence points for specific social groups – be they tourists or residents – and to study to which extent and within which limits these new Mobilities can configure such destinations as spaces and places that catalyse new economic and social opportunities in the framework of globalisation.
