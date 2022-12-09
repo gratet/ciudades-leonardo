@@ -101,7 +101,7 @@ Activity 7. Analyse how destinations, cities or territories manage the communica
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
-Activity 8. to provide a grounded examination of the adaptability as ‘capacity of response’ of tourist destinations to global change drivers. It is based on an examination of the meaning, regimes, normative dimensions of destination resilience, in a context of multi-agent, multi-sectoral, and multi-scalar complexity.
+Activity 8. Provide a grounded examination of the adaptability as ‘capacity of response’ of tourist destinations to global change drivers. It is based on an examination of the meaning, regimes, normative dimensions of destination resilience, in a context of multi-agent, multi-sectoral, and multi-scalar complexity.
 		</div>
 </div>
 </div>
