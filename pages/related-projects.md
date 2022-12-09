@@ -20,9 +20,9 @@ header:
  
 The previous projects funded by the Spanish Research Plan are detailed below.
 
-####PROJECT TITLE:  
+#### PROJECT TITLE:  
 
-#####Análisis del papel de las políticas territoriales en la gestión de los destinos turísticos en la época de las movilidades (POLITUR).  
+##### Análisis del papel de las políticas territoriales en la gestión de los destinos turísticos en la época de las movilidades (POLITUR).  
 
 Plan Estatal de Investigación Científica y Técnica y de Innovación 2018-2020. PROJECT CSO2017-82156-R. **Period:2018-2020**  
 
