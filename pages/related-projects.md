@@ -20,9 +20,12 @@ header:
  
 The previous projects funded by the Spanish Research Plan are detailed below.
 
-####PROJECT TITLE:
-#####Análisis del papel de las políticas territoriales en la gestión de los destinos turísticos en la época de las movilidades (POLITUR). 
-Plan Estatal de Investigación Científica y Técnica y de Innovación 2018-2020. PROJECT CSO2017-82156-R. **Period:2018-2020**
+####PROJECT TITLE:  
+
+#####Análisis del papel de las políticas territoriales en la gestión de los destinos turísticos en la época de las movilidades (POLITUR).  
+
+Plan Estatal de Investigación Científica y Técnica y de Innovación 2018-2020. PROJECT CSO2017-82156-R. **Period:2018-2020**  
+
 *SUMMARY:*
 The POLITUR project aimed to analyse new urban and socio-political strategies associated with tourism management within complex and multifunctional tourism destinations The primary objective was to identify, understand and review the incorporation of a renewed spatial dimension into current tourism policies as a fundamental factor for generating prosperity and sustainability (environmental, economic and cultural); and to debate, evaluate and propose prescriptive systems that, with the support of the technological footprints observed in current tourism consumption, could orient decision-making on the part of the key actors involved (public and private) and promote the implementation of effective regulatory instruments in relation to the use of tourism spaces.
 This project presented an analytical proposal to analyse the new territorial strategies for managing tourism in destinations with a multi-scalar perspective, taking into account different geopolitical, economic and environmental contexts, and proposing as an information instrument the technological trail of visitors going to and staying at the destination. Four thematic dimensions, interconnected and all transcendental, were taken into account to expand, from the perspective of the study object proposed, the existing knowledge on the capacity of destinations to manage their transformation due to the acting mobilities, considering social, economic and environmental sustainability objectives. The dimensions were: the social dimension, the political dimension, the technological dimension and the academic dimension.
