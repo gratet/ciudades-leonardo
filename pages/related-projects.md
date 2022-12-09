@@ -61,7 +61,8 @@ The main outcomes from the project were: (1) to explain the restructuring proces
  
 ##### Period: 2002-2005
 ###### Assessment of the spatial effects of the restructuring polices in mature costal resorts. Analysis of the Spanish Mediterranean coast (LITORALMED). 
-BSO2001-0758
+BSO2001-0758.
+
 *SUMMARY:*
 The aim of this project was the assessment of the spatial effects of the implementation of restructuring policies in mute coastal resorts on the Spanish Mediterranean coastal area. We analysed the scope of the changing tourism model in this type of destinations and the rapid transformation of the activity on their spatial structure and the spread of tourist facilities over the territory. We planned an analysis at diverse  scale using Geographical Information Systems.
 The main outcomes from the project were: (1) to draw explanation models to understand restructuring processes in tourism destinations; (2) to link the analysis of the changes in the Mediterranean Spanish resorts with the main issues in this field at the international level; (3) to plan a system analysis at many scales; (4) to know the significance and the differential effects of the polices over the restructuring of tourism destinations; (5) to propose useful principles, tools and actions for the government and the private sector and (6) to base GIS methodologies to improve the planning and management systems of tourism destination.
