@@ -48,7 +48,7 @@ Activity 2. Analysis of the potential socio-spatial transformation of complex de
 </div>
 </div>
 
-###### Objective 3: To analyse the reconfiguration of tourism mobilities in a context of global mobilities redefinition.
+###### *Objective 3: To analyse the reconfiguration of tourism mobilities in a context of global mobilities redefinition.*
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -57,7 +57,7 @@ Activity 3. Measure the reconfiguration of mobilities and changes in the tourist
 </div>
 </div>
 
-###### Objective 4: To determine the vulnerability of complex tourist destinations to climate change and monitoring of adaptive and mitigation strategies.
+###### *Objective 4: To determine the vulnerability of complex tourist destinations to climate change and monitoring of adaptive and mitigation strategies.*
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -67,7 +67,7 @@ Activity 4. Analysis of tourism destinations responses (mitigation and adaptatio
 </div>
 
 
-###### Objective 5: To evaluate policies and strategies aiming to increase wellbeing, prosperity and social inclusion. 
+###### *Objective 5: To evaluate policies and strategies aiming to increase wellbeing, prosperity and social inclusion.* 
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -79,7 +79,7 @@ Activity 5. Analysis of the evolution and relationship between tourism wellbeing
 
 ##### WP 3. Assessment of different agency tools in the technological, communication and governance domains that may produce substantial variations in destination vulnerability and resilience. Evaluation of co-evolutionary path-place-based responses. PI: S. Anton Clavé
 
-###### Objective 6: To assess the development of smart systems in order to cope with the challenges of global transformations at local level.
+###### *Objective 6: To assess the development of smart systems in order to cope with the challenges of global transformations at local level.*
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -88,7 +88,7 @@ Activity 6. Assess to what extent the smart systems implemented in tourism desti
 </div>
 </div>
 
-###### Objective 7: To analyse the strategies by which destination communicate new policies applied handling rapid transformation processes.
+###### *Objective 7: To analyse the strategies by which destination communicate new policies applied handling rapid transformation processes.*
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -97,7 +97,7 @@ Activity 7. Analyse how destinations, cities or territories manage the communica
 </div>
 </div>
 
-###### Objective 8: To define visions, metrics and tools to assess resilience of complex destinations in the face of global change and to design and new systems of governance which are fit to increase adaptability. 
+###### *Objective 8: To define visions, metrics and tools to assess resilience of complex destinations in the face of global change and to design and new systems of governance which are fit to increase adaptability.* 
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -107,7 +107,7 @@ Activity 8. to provide a grounded examination of the adaptability as ‘capacity
 </div>
 ##### WP 4. Project social responsibility, impact evaluation, academic dissemination and knowledge transfer. PI: S. Anton Clavé and Aaron Gutiérrez
 
-###### Objective 9: To assess project ethics and gender perspectives of all research activities in a transversal manner.
+###### *Objective 9: To assess project ethics and gender perspectives of all research activities in a transversal manner.*
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
@@ -115,12 +115,14 @@ Activity 9. Define, monitor and review the Ethics Procurement and Gender Analysi
 	</div>
 </div>
 </div>
-###### Objective 10: To monitor social impact, knowledge transfer actions and project output dissemination in a transversal manner. 
+###### *Objective 10: To monitor social impact, knowledge transfer actions and project output dissemination in a transversal manner.* 
 <div class="row">
 	<div class="small-12 columns">
 	<div class="panel radius" style="padding-bottom: 21px;">
-Activity 10. Review the social impact of the project.
-Activity 11. Develop and apply a knowledge transfer action plan in a transversal manner.
+Activity 10. Review the social impact of the project.  
+		
+Activity 11. Develop and apply a knowledge transfer action plan in a transversal manner.  
+		
 Activity 12. Produce, publish and disseminate research results through academic publications and means.		
 	</div>
 </div>
