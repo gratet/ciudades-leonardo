@@ -25,8 +25,8 @@
       class: "ai ai-google-scholar ai-2x"
       
 - name: Aaron
-  lastname: Gutiérrez Palomero
-  position: Associate Professor
+  lastname: Gutiérrez
+  position: co-Principal Investigator
   organization: Universitat Rovira i Virgili
   department: Dept. of Geography
   pic: aaron-gutierrez.png
@@ -53,7 +53,7 @@
       
 - name: Jules
   lastname: Wilson
-  position: Lecturer
+  position: Associate Professor
   organization: Universitat Oberta de Catalunya
   department: Faculty of Economics and Business Studies
   pic: julie-wilson.png
