@@ -14,7 +14,7 @@ meta_teaser: "List of articles published in academic journal, books and book cha
 header:
     image_fullwidth: headers/mobilitat1.jpg
     background-color: "#262930"
-    caption: "Aerial view of Cambrils, Costa Daurada (Lluís Rovira Barenys/ revistacambrils.cat)"
+    caption: "Diferent types of moility, Barcelona (Xavier Delclòs)"
 ---
 
 
