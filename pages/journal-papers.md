@@ -12,7 +12,7 @@ teaser: "List of articles published in academic journal, books and book chapters
 meta_teaser: "List of articles published in academic journal, books and book chapters."
 
 header:
-    image_fullwidth: headers/mobilitat3.jpg
+    image_fullwidth: headers/mobilitat4.jpg
     background-color: "#262930"
     caption: "Different types of mobility, Barcelona (Xavier Delclòs)"
 ---
