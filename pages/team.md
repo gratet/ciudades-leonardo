@@ -11,9 +11,9 @@ teaser: "The ADAPTOUR project team is composed of 10 doctors in the Research Tea
 meta_teaser: "Metadata about..."
 
 header:
-    image_fullwidth: headers/pers.JPG
+    image_fullwidth: headers/platja_pre.JPG
     background-color: "#262930"
-    caption: Aerial view of Cambrils, Costa Daurada (Lluís Rovira Barenys/ revistacambrils.cat)
+    caption:, Costa Daurada (Lluís Rovira Barenys/ revistacambrils.cat)
 ---
 
 
