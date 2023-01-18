@@ -13,7 +13,7 @@ meta_teaser: "Metadata about..."
 header:
     image_fullwidth: headers/platja_pre.JPG
     background-color: "#262930"
-    caption:, Costa Daurada (Lluís Rovira Barenys/ revistacambrils.cat)
+    caption: Costa Daurada (Lluís Rovira Barenys/ revistacambrils.cat)
 ---
 
 
