@@ -44,7 +44,7 @@ La evaluación del impacto social de la investigación es cada vez más reclamad
 
 ##### **_Alejandro González Domingo_**
 
-***Tourism Mobilities and social exclusion in smart cities: regimes, processes of exclusion and the politics of transitions.***
+***Precarious Livelihoods in the Making of a Tourist City: The Social Geography of Tourism Workers in Barcelona***
 
 *Director: Dr. Antonio Russo*
 
