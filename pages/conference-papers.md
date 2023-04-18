@@ -18,7 +18,7 @@ header:
 ---
 
 1. Anton Clavé, Salvador (2022). Tourism Transitions. Transnational (EU) tourism policies transforming local destinations. *Academy conference 2022. Visioning the Future of Tourism. International Academy for the Study of Tourism*. Leuven.
-3. Anton Clavé, Salvador (2022). Penser les destinations touristiques comme systèmes complexes en temps d’incertitude. *11e Colloque International AsTRES. L’agilité touristique en période de crises : réplications, accélérations, réinventions...?* Université Côte d’Azur. Responsabilidad: Miembro del Comité Científico. Nice, 2022.
+3. Anton Clavé, Salvador (2022). Penser les destinations touristiques comme systèmes complexes en temps d’incertitude. *11e Colloque International AsTRES. L’agilité touristique en période de crises : réplications, accélérations, réinventions...?* Université Côte d’Azur. Responsabilidad: Miembro del Comité Científico. Nice.
 4. Anton Clavé, Salvador (2022). Desafíos de la innovación en turismo. *XXII Congreso de la AECIT. El nuevo turismo: innovación, digitalización, sostenibilidad y competitividad*. Universidad de Lugo. Facultad de Ciencias Empresariales y Turismo. Ourense. 
 1. Anton Clavé, Salvador, Wilson, Julie, & Sanz, Cinta (2022). Understanding Moments and Adaptabilty of Evolving Complex Tourism Places. Recent critical events in Barcelona. *Association of American Geographers Annual Meeting 2022*. New York City. 
 2. Anton Clavé, Salvador, Wilson, Julie, & Sanz, Cinta (2022). Moments’ as conceptual framework for understanding spatio-temporal change in tourism places and spaces. E* Tourism geographies Special issue Worlshop.* Tourism geographies Journal. On-line.
