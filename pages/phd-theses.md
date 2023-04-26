@@ -17,14 +17,6 @@ header:
     caption: "Aerial view of Cambrils (Lluís Rovira Barenys/ revistacambrils.cat)"
 ---
  
-##### **_Maria Eugenia Altamirano_**
-
-***Placing favelas on the tourist city map: Between commodification and representation.***
-
-*Director: Dr. Antonio Russo.*
-
-This doctoral thesis aims to analyse the role of tourism practices and performances as a socio-economic activity and its capacity, real and potential, to re-signify and transform the physical, social and cultural landscape of urban tourist destinations. The case study is based on informal urban settlements of Rio de Janeiro, locally known as favelas, which carry almost 30 years of controversial tourist development. The focus will be turned into the actor-networks created around certain slum tourism practices and performances to analyse whether there is or not a reconceptualisation of slums as legitimate urban agents although at the margins of the neo-liberal agenda. The outcome of this thesis draws on the part that the embodied interactions between tourism actors play on the process of tourist placemaking in its physical and symbolic level, as well as the negotiation of urban identities.
-
 ##### **_Alba Font Barnet_**
 
 ***Multidimensional assessment to enhance the well-being benefits provided by nature areas. A participatory approach applied in different cases of Europe and Latin America.***
@@ -73,3 +65,11 @@ This doctoral project’s main ambition is to explore relationships of power amo
 *Directors: Dr. Salvador Anton Clavé and Dr. Aaron Gutiérrez Palomero*
 
 The current global change dynamics generate new economic, social and environmental challenges to tourism destinations. Within this context, local responses are needed to face new multiple growing vulnerabilities. Tourism destinations, understood as complex systems, must generate conditions that allow them to enhance their adaptative capacity and their resilience against these global challenges. Meanwhile, tourism destinations are in process of increasing integration of smart solutions in their planning and management, in the context of the so-called Smart Destinations. The objective of this PhD thesis will be to understand the contribution of Smart Destinations’ operative development in enhancing the destinations’ adaptative capacity and resilience towards the emerging global challenges.
+
+##### **_Maria Eugenia Altamirano (recently defended)_**
+
+***Placing favelas on the tourist city map: Between commodification and representation.***
+
+*Director: Dr. Antonio Russo.*
+
+This doctoral thesis aims to analyse the role of tourism practices and performances as a socio-economic activity and its capacity, real and potential, to re-signify and transform the physical, social and cultural landscape of urban tourist destinations. The case study is based on informal urban settlements of Rio de Janeiro, locally known as favelas, which carry almost 30 years of controversial tourist development. The focus will be turned into the actor-networks created around certain slum tourism practices and performances to analyse whether there is or not a reconceptualisation of slums as legitimate urban agents although at the margins of the neo-liberal agenda. The outcome of this thesis draws on the part that the embodied interactions between tourism actors play on the process of tourist placemaking in its physical and symbolic level, as well as the negotiation of urban identities.
