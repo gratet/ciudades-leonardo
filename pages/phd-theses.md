@@ -68,7 +68,7 @@ The current global change dynamics generate new economic, social and environment
 
 ##### **_Maria Eugenia Altamirano (recently defended)_**
 
-***Placing favelas on the tourist city map: Between commodification and representation.***
+(***Placing favelas on the tourist city map: Between commodification and representation.***)[https://www.tdx.cat/handle/10803/688205#page=1]
 
 *Director: Dr. Antonio Russo.*
 
