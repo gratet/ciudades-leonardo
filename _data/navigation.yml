@@ -39,6 +39,13 @@
 #  url: "/search/"
 #  side: left
 
+- title: Workshops
+  url: "/workshops/entourage/eng"
+  side: left
+#  dropdown:
+#  - title: "Workshops Bike"
+#    url: "/workshops/bike"
+
 - title: "Contact"
   url: "/contact/"
   side: left

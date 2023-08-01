@@ -1,0 +1,109 @@
+---
+layout: default
+format: workshop
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+
+{% if page.image.title %}
+<div class="row t30">
+	<div class="small-12 columns">
+		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
+		{% if page.image.caption_url and page.image.caption %}
+		<p class="text-right caption">
+			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+		</p>
+		{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+
+
+<div class="row t30">
+	<div class="medium-8 columns">
+		<article>
+			<header>
+				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+				<h1>{{ page.title }}</h1>
+			</header>
+
+			{% if page.teaser %}
+			<p class="teaser">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+
+
+
+
+{% comment %}
+*
+* First check, if there is a call for action-button
+*
+{% endcomment %}
+{% if page.callforaction.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+{% if page.callforaction %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+{% endif %}
+
+
+
+			{{ content }}
+		</article>
+	</div><!-- /.medium-12.columns -->
+	
+	<div class="medium-4 columns t30">
+		
+		<aside>
+	<div class="panel radius">
+		<h3>Save the date!</h3>
+		<p>
+		        <p>{% if page.event.when %}<i class='fa-solid fa-lg fa-calendar'></i> &nbsp; {{ page.event.when }}{% endif %}</p>
+		        <p>{% if page.event.duration %}<i class='fa-solid fa-lg fa-clock'></i> &nbsp; {{ page.event.duration }}{% endif %}</p>
+       		        <p>{% if page.event.until %}<i class='fa-solid fa-lg fa-calendar-plus'></i> &nbsp; {{ page.event.until }}{% endif %}</p>
+		        <p>{% if page.event.where %}<i class='fa-solid fa-lg fa-location-dot'></i> &nbsp; {{ page.event.where }}{% endif %}</p>
+		        <p>{% if page.event.contact %}<i class='fa-solid fa-lg fa-envelope'></i> &nbsp; {{ page.event.contact }}{% endif %}</p>
+			
+		
+	</div>
+
+
+{% if page.event.flyer %}
+  <a title="Event flyer" href="{{ site.baseurl }}/{{page.event.flyer.file}}"><img class="b30" src="{{ site.urlimg }}{{page.event.flyer.thumbnail}}" alt="Event flyer" /></a>
+{% endif %}
+
+
+
+
+{% if page.event.logos %}
+  <img class="b30" src="{{ site.urlimg }}{{page.event.logos}}" alt="test">
+{% endif %}
+
+</aside>
+		
+		
+	</div><!-- /.medium-5.columns -->
+	
+</div><!-- /.row -->
+
+
+
+
+
+
+
+
+

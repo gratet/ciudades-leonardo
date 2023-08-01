@@ -44,7 +44,7 @@ header:
 
 <!-- click on image will navigate to the personal website -->
 <!--<a class="th" href="{{ member.social.first.url }}">-->
-<img src="{{ site.urlimg }}/team/{{ member.pic }}" alt="{{ member.name }}" style="padding:10px; border-radius: 50%;">
+<img src="{{ site.urlimg }}team/{{ member.pic }}" alt="{{ member.name }}" style="padding:10px; border-radius: 50%;">
 <!--</a>-->
 
 <!-- social media icons -->

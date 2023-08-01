@@ -4,7 +4,10 @@ version: "3.7"
 
 services:
   jekyll_site:
-    image: jekyll/jekyll:latest
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: benizar/feeling-responsive:1.0
     #command: ["jekyll", "serve", "--watch", "--draft"]
     command: jekyll serve --watch --draft --incremental --config _config.yml,_config_dev.yml --host 0.0.0.0 --verbose
     ports:
