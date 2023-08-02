@@ -3,9 +3,9 @@ permalink: "/workshops/entourage/eng"
 layout: workshop
 breadcrumb: true
 sidebar: right
-title: "Urban mobility and sustainable and age-inclusive urban transitions"
-meta_title: "Workshop ENTOURAGE"
-subheadline: "Workshop ENTOURAGE"
+title: "Urban mobility, sustainable and age-inclusive urban transitions"
+meta_title: "Workshop — ENTOURAGE"
+subheadline: "Workshop — ENTOURAGE"
 
 teaser: "The Research Group on Territorial Analysis and Tourism Studies (GRATET) of the Universitat Rovira i Virgili (URV) invites you to this scientific and knowledge transfer seminar." 
 
@@ -54,5 +54,5 @@ Attendance to the seminar requires prior *registration (free)* due to the capaci
 
 The languages of the seminar are Catalan, Spanish and English.
 
-
+<img src="{{ site.urlimg }}/workshops/entourage-logo.png" alt="ENTOURAGE LOGO" width="60%" class="center"/>
 
