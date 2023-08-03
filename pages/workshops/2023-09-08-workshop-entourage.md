@@ -13,9 +13,9 @@ meta_teaser: "The Research Group on Territorial Analysis and Tourism Studies (GR
 
 
 header:
-    image_fullwidth: headers/entourage-visual-all-cities.png
+    image_fullwidth: headers/bcn-rambla.png
     background-color: "#262930"
-    caption: 
+    caption: Rambla de Barcelona (Spain)
     
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
@@ -27,10 +27,10 @@ callforaction:
   style: alert
 
 event:
-  where: <a href="https://goo.gl/maps/iWdGXJsSGe7BQeg49">Barcelona, Pati Llimona Civic Centre</a>
+  where: <a href="https://goo.gl/maps/iWdGXJsSGe7BQeg49" target="_blank">Barcelona, Pati Llimona Civic Centre</a>
   when: Friday, 8 September, 2023
   until: Register until 4 September, 2023
-  duration: 10—14am
+  duration: 10—14h
   flyer: 
     thumbnail: workshops/entourage-flyer.png
     file: files/2023-entourage-workshop.pdf
