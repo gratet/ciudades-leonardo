@@ -3,7 +3,7 @@ permalink: "/workshops/entourage/eng"
 layout: workshop
 breadcrumb: true
 sidebar: right
-title: "Urban mobility, sustainable and age-inclusive urban transitions"
+title: "Urban mobility in Barcelona: moving towards sustainable and age-inclusive urban transitions"
 meta_title: "Workshop — ENTOURAGE"
 subheadline: "Workshop — ENTOURAGE"
 
