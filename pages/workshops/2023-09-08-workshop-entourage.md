@@ -13,7 +13,7 @@ meta_teaser: "The Research Group on Territorial Analysis and Tourism Studies (GR
 
 
 header:
-    image_fullwidth: headers/bcn-rambla.png
+    image_fullwidth: headers/mobilitat1.jpg
     background-color: "#262930"
     caption: Rambla de Barcelona (Spain)
     
@@ -32,8 +32,8 @@ event:
   until: Register until 4 September, 2023
   duration: 10—14h
   flyer: 
-    thumbnail: workshops/entourage-flyer.png
-    file: files/2023-entourage-workshop.pdf
+    #thumbnail: workshops/entourage-flyer.png
+    #file: files/2023-entourage-workshop.pdf
   contact: Need more info?<br><a href="mailto:adaptour.project@urv.cat">adaptour.project@urv.cat</a>
   logos: logos/logo-entourage-2.png
 

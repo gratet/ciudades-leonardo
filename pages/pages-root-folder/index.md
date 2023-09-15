@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: headers/rambla-barcelona.jpg
+  image_fullwidth: headers/mobilitat1.jpg
 
 #widget1:
 #  title: "Blog & Portfolio"
