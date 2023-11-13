@@ -17,22 +17,6 @@ header:
     caption: "Aerial view of Cambrils (Lluís Rovira Barenys/ revistacambrils.cat)"
 ---
  
-##### **_Alba Font Barnet_**
-
-***Multidimensional assessment to enhance the well-being benefits provided by nature areas. A participatory approach applied in different cases of Europe and Latin America.***
-
-*Directora: Dr. Marta Nel-lo Andreu*
-
-Nature offers a wide range of health and well-being benefits, closely linked to the objective of providing genuine experiences that intend to involve visitors across the physical, mental, social, emotional, spiritual, and environmental dimensions. In this sense, tourism offering well-being practices in nature has increased exponentially in recent years, and the scientific interest has also grown at a similar rate, from both a theoretical and a methodological perspective.
-This doctoral thesis follows the theoretical principle that natural protected areas can contribute to the sustainable development, and from the focus of how we manage parks, it gives us the opportunity to improve the health of both our nature and communities. The aim is to discern the potential opportunities of nature areas to provide well-being benefits to locals and tourists from management and public use. To provide scientific evidence and transfer knowledge on this topic, a mixed methodology is applied in different natural areas in Europe and Latin America. This research is applied within the framework of a methodological participatory process and co-creation approach that integrates visual methods in data collection and analysis, together with the involvement of public and private agents, locals, and tourists.
-
-##### **_Alba Viana Lora_**
-
-***Impacto social de la investigación en turismo. Proyectos de planificación turística.***
-
-*Directora: Dra. Marta Nel-lo Andreu*
-
-La evaluación del impacto social de la investigación es cada vez más reclamada por las entidades financiadoras y merece especial atención en la actualidad. El objetivo de esta tesis es analizar el impacto social de la investigación en turismo. Para ello, se estudian las herramientas de evaluación disponibles a fin de realizar una comparativa y extraer ideas para el diseño de un sistema de indicadores aplicable a proyectos de planificación turística. 
 
 ##### **_Alejandro González Domingo_**
 
@@ -66,10 +50,27 @@ This doctoral project’s main ambition is to explore relationships of power amo
 
 The current global change dynamics generate new economic, social and environmental challenges to tourism destinations. Within this context, local responses are needed to face new multiple growing vulnerabilities. Tourism destinations, understood as complex systems, must generate conditions that allow them to enhance their adaptative capacity and their resilience against these global challenges. Meanwhile, tourism destinations are in process of increasing integration of smart solutions in their planning and management, in the context of the so-called Smart Destinations. The objective of this PhD thesis will be to understand the contribution of Smart Destinations’ operative development in enhancing the destinations’ adaptative capacity and resilience towards the emerging global challenges.
 
-##### **_Maria Eugenia Altamirano (recently defended)_**
+##### **_Maria Eugenia Altamirano (defended on 2023-03-17)_**
 
 [***Placing favelas on the tourist city map: Between commodification and representation.***](https://www.tdx.cat/handle/10803/688205#page=1)
 
 *Director: Dr. Antonio Russo.*
 
 This doctoral thesis aims to analyse the role of tourism practices and performances as a socio-economic activity and its capacity, real and potential, to re-signify and transform the physical, social and cultural landscape of urban tourist destinations. The case study is based on informal urban settlements of Rio de Janeiro, locally known as favelas, which carry almost 30 years of controversial tourist development. The focus will be turned into the actor-networks created around certain slum tourism practices and performances to analyse whether there is or not a reconceptualisation of slums as legitimate urban agents although at the margins of the neo-liberal agenda. The outcome of this thesis draws on the part that the embodied interactions between tourism actors play on the process of tourist placemaking in its physical and symbolic level, as well as the negotiation of urban identities.
+
+##### **_Alba Viana Lora (defended on 2023-10-16)_**
+
+[***Impacto social de la investigación en turismo. Proyectos de planificación turística.***](https://www.tdx.cat/handle/10803/689276#page=1)
+
+*Directora: Dra. Marta Nel-lo Andreu*
+
+This thesis aims to deepen the analysis of the social impact of scientific research in tourism, as well as to explore the instruments available to evaluate and enhance it. The research carried out has culminated in five scientific articles, subjected to a rigorous peer review process and published in journals indexed in recognized impact indexes. Through this body of work, the aim is to address and provide answers to the five research questions posed. In the context of this study, the desire to contribute significantly to scientific knowledge, both theoretical and methodological, regarding the social impact of scientific research, with emphasis on the field of tourism, is based on this study. In order to carry out this work, a thorough analysis of evaluation methods has been undertaken, with the objective of designing a tool that identifies, measures and objectively visualizes the benefits that research provides to society, once the research has been published, disseminated and applied in the field of tourism. This research also delves into the identification of possible ways to enhance this social impact. Thus, it seeks to take research beyond the academic context, turning it into an effective tool to contribute value to society in general. Finally, this thesis should serve to highlight the need for greater awareness among researchers of the potential social impact of their work. This awareness not only has implications for the researcher him/herself, but also for the scientific community as a whole and for the society it serves. It encourages researchers to adopt a more proactive and reflective approach, considering the scope of their research beyond traditional academic spheres.
+
+##### **_Alba Font Barnet_**
+
+***Multidimensional assessment to enhance the well-being benefits provided by nature areas. A participatory approach applied in different cases of Europe and Latin America.***
+
+*Directora: Dr. Marta Nel-lo Andreu*
+
+Nature offers a wide range of health and well-being benefits, closely linked to the objective of providing genuine experiences that intend to involve visitors across the physical, mental, social, emotional, spiritual, and environmental dimensions. In this sense, tourism offering well-being practices in nature has increased exponentially in recent years, and the scientific interest has also grown at a similar rate, from both a theoretical and a methodological perspective.
+This doctoral thesis follows the theoretical principle that natural protected areas can contribute to the sustainable development, and from the focus of how we manage parks, it gives us the opportunity to improve the health of both our nature and communities. The aim is to discern the potential opportunities of nature areas to provide well-being benefits to locals and tourists from management and public use. To provide scientific evidence and transfer knowledge on this topic, a mixed methodology is applied in different natural areas in Europe and Latin America. This research is applied within the framework of a methodological participatory process and co-creation approach that integrates visual methods in data collection and analysis, together with the involvement of public and private agents, locals, and tourists.
