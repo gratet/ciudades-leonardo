@@ -60,7 +60,7 @@ This doctoral thesis aims to analyse the role of tourism practices and performan
 
 ##### **_Alba Viana Lora (defended on 2023-10-16)_**
 
-[***Impacto social de la investigación en turismo. Proyectos de planificación turística.***](https://www.tdx.cat/handle/10803/689276#page=1)
+[***Impacto social de la investigación en turismo. Proyectos de planificación turística.***](http://hdl.handle.net/10803/689276))
 
 *Directora: Dra. Marta Nel-lo Andreu*
 
