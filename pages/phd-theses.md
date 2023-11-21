@@ -50,6 +50,14 @@ This doctoral project’s main ambition is to explore relationships of power amo
 
 The current global change dynamics generate new economic, social and environmental challenges to tourism destinations. Within this context, local responses are needed to face new multiple growing vulnerabilities. Tourism destinations, understood as complex systems, must generate conditions that allow them to enhance their adaptative capacity and their resilience against these global challenges. Meanwhile, tourism destinations are in process of increasing integration of smart solutions in their planning and management, in the context of the so-called Smart Destinations. The objective of this PhD thesis will be to understand the contribution of Smart Destinations’ operative development in enhancing the destinations’ adaptative capacity and resilience towards the emerging global challenges.
 
+##### **_Natalia Restrepo Montoya (defended on 2021-12-21)_**
+
+[***El papel de las Instituciones en el Desarrollo Regional del Turismo: Una perspectiva desde la Densidad Institucional***](http://hdl.handle.net/10803/673175)
+
+*Director: Dr. Salvador Anton Clavé.*
+
+The aim of this thesis is to understand the role of institutions in regional tourism development. It analyses whether the generation of institutional capacities is a facilitator of the consolidation and tourist development processes of a region and a governance driver. For this purpose, the research deploys an analytic model inspired, in the context of the economic geography, in the institutional thickness approach, paying particular attention to the study of the role of institutional presence, the interaction dynamics, domain structures and the common agendas between institutions in tourist and regional development. The empirical analysis is developed in a Latin American region, Antioquia – Colombia. The research methodology combines qualitative and quantitative techniques applied directly to 28 key institutions for tourist development in the Antioquia region and in Colombia. There are another additionally analysed 79 institutions intervening indirectly which are associated to the tourist activity.
+
 ##### **_Maria Eugenia Altamirano (defended on 2023-03-17)_**
 
 [***Placing favelas on the tourist city map: Between commodification and representation.***](https://www.tdx.cat/handle/10803/688205#page=1)
