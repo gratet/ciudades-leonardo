@@ -70,15 +70,15 @@ This doctoral thesis aims to analyse the role of tourism practices and performan
 
 [***Impacto social de la investigación en turismo. Proyectos de planificación turística.***](http://hdl.handle.net/10803/689276))
 
-*Directora: Dra. Marta Nel-lo Andreu*
+*Director: Dra. Marta Nel-lo Andreu*
 
 This thesis aims to deepen the analysis of the social impact of scientific research in tourism, as well as to explore the instruments available to evaluate and enhance it. The research carried out has culminated in five scientific articles, subjected to a rigorous peer review process and published in journals indexed in recognized impact indexes. Through this body of work, the aim is to address and provide answers to the five research questions posed. In the context of this study, the desire to contribute significantly to scientific knowledge, both theoretical and methodological, regarding the social impact of scientific research, with emphasis on the field of tourism, is based on this study. In order to carry out this work, a thorough analysis of evaluation methods has been undertaken, with the objective of designing a tool that identifies, measures and objectively visualizes the benefits that research provides to society, once the research has been published, disseminated and applied in the field of tourism. This research also delves into the identification of possible ways to enhance this social impact. Thus, it seeks to take research beyond the academic context, turning it into an effective tool to contribute value to society in general. Finally, this thesis should serve to highlight the need for greater awareness among researchers of the potential social impact of their work. This awareness not only has implications for the researcher him/herself, but also for the scientific community as a whole and for the society it serves. It encourages researchers to adopt a more proactive and reflective approach, considering the scope of their research beyond traditional academic spheres.
 
-##### **_Alba Font Barnet (defended on 2023-11-2023_**
+##### **_Alba Font Barnet (defended on 2023-11-2023)_**
 
 ***Multidimensional assessment to enhance the well-being benefits provided by nature areas. A participatory approach applied in different cases of Europe and Latin America.***
 
-*Directora: Dr. Marta Nel-lo Andreu*
+*Director: Dr. Marta Nel-lo Andreu*
 
 Nature offers a wide range of health and well-being benefits, closely linked to the objective of providing genuine experiences that intend to involve visitors across the physical, mental, social, emotional, spiritual, and environmental dimensions. In this sense, tourism offering well-being practices in nature has increased exponentially in recent years, and the scientific interest has also grown at a similar rate, from both a theoretical and a methodological perspective.
 This doctoral thesis follows the theoretical principle that natural protected areas can contribute to the sustainable development, and from the focus of how we manage parks, it gives us the opportunity to improve the health of both our nature and communities. The aim is to discern the potential opportunities of nature areas to provide well-being benefits to locals and tourists from management and public use. To provide scientific evidence and transfer knowledge on this topic, a mixed methodology is applied in different natural areas in Europe and Latin America. This research is applied within the framework of a methodological participatory process and co-creation approach that integrates visual methods in data collection and analysis, together with the involvement of public and private agents, locals, and tourists.
