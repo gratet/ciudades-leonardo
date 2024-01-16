@@ -6,7 +6,7 @@
   url: "/"
   side: left
   dropdown:
-  - title: "The project"
+  - title: "Hola"
     url: "/project/the-project/"
   - title: "Hypothesis and background"
     url: "/project/background/"
