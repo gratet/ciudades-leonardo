@@ -6,9 +6,9 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 phlow: # replace this with your info
-  name: "benizar"
+  name: "Marc Domínguez Mallafré"
   siterole: "webmaster, developer"
-  uri: https://benito-zaragozi.com/
-  email: "benizar@gmail.com"
-  twitter: "@benizar81"
+  uri: https://www.linkedin.com/in/marc-dominguez-mallafr%C3%A9-b0547a127/
+  email: "marc@mallafre.cat"
+  twitter: "@marcborrassa"
 # you can add more authors here

@@ -2,34 +2,34 @@
   url: "/"
   side: left
   
-- title: "Project"
+- title: "El proyecto"
   url: "/"
   side: left
   dropdown:
-  - title: "Hola"
-    url: "/project/the-project/"
-  - title: "Hypothesis and background"
-    url: "/project/background/"
-  - title: "Work packages and objectives"
+  - title: "Resultados preliminares"
+    url: "/project/el_proyecto/"
+  - title: "Descargas"
+    url: "/project/descargas/"
+  - title: "test"
     url: "/project/objectives/"
-  - title: "Former projects"
+  - title: "test"
     url: "/project/related-projects/"
 
-- title: "Who we are"
-  url: "/team/"
-  side: left
+#- title: "Who we are"
+#  url: "/team/"
+#  side: left
 
-- title: "Publications"
-  url: "/journal-papers/"
-  side: left
+#- title: "Publications"
+#  url: "/journal-papers/"
+#  side: left
     
-- title: "Conference papers"
-  url: "/conference-papers/"
-  side: left
+#- title: "Conference papers"
+# url: "/conference-papers/"
+#  side: left
     
-- title: "PhD Theses"
-  url: "/phd-theses/"
-  side: left
+#- title: "PhD Theses"
+#  url: "/phd-theses/"
+#  side: left
 
 #- title: "Meetings"
 #  url: "/meetings/"
@@ -39,13 +39,13 @@
 #  url: "/search/"
 #  side: left
 
-- title: Workshops
-  url: "/workshops/entourage/eng"
-  side: left
+#- title: Workshops
+#  url: "/workshops/entourage/eng"
+#  side: left
 #  dropdown:
 #  - title: "Workshops Bike"
 #    url: "/workshops/bike"
 
-- title: "Contact"
-  url: "/contact/"
-  side: left
+#- title: "Contact"
+#  url: "/contact/"
+#  side: left
