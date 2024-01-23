@@ -46,11 +46,9 @@ breadcrumb: true
 sidebar: right
 ---
 
-The general research objective of the project is to examine, understand and translate into theoretical approaches, empirical observations and practical conversations, the processes through which destinations are responding to the challenges of global change (and in particular to climate change and the de-carbonization of the productive system), in terms of mitigating its effects, transforming socio-spatial dynamics, changing mobility regimes, and the enhancing of social justice with the aim of increasing resilience.
+Proyecto realizado con la Beca Leonardo a Investigadores y Creadores Culturales 2022 de la Fundación BBVA. La Fundación no se responsabiliza de las opiniones, comentarios y contenidos incluidos en el proyecto, los cuales son total y absoluta responsabilidad de sus autores.
 
-The project presented addresses the **Challenge Six** of the Spanish Research Plan on **Social Sciences and Humanities and Science with and for Society**. Albeit complementarily, the project also partially addresses, from the perspective of the social sciences, **Challenge Five on Climate Change and the Use of Natural Resources and Raw Materials**. Also partially, the project relates **to Challenge Seven on Digital Economy, Society and Cultures**.
 
-*Reference: PID2020-112525RB-I00. Ministerio de Ciencia e Innovación. Agencia Estatal de Investigación.*
 
 
 

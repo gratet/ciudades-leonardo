@@ -1,33 +1,35 @@
-- title: "Home"
+- title: "Inicio"
   url: "/"
   side: left
   
-- title: "El proyecto"
-  url: "/"
-  side: left
-  dropdown:
-  - title: "Resultados preliminares"
-    url: "/project/el_proyecto/"
-  - title: "Descargas"
-    url: "/project/descargas/"
-  - title: "test"
-    url: "/project/objectives/"
-  - title: "test"
-    url: "/project/related-projects/"
-
-#- title: "Who we are"
-#  url: "/team/"
+#- title: "Metodología"
+#  url: "/project/metodologia"
 #  side: left
 
-#- title: "Publications"
+#- title: "Resultados"
+#  url: "/resultados/"
+#  side: left
+#  dropdown:
+#  - title: "Caracterización de la morfología de las ciudades"
+#    url: "/project/el_proyecto/"
+#  - title: "Acceso a comercios cotidianos"
+#    url: "/project/descargas/"
+#  - title: "Acceso a estaciones de transporte público"
+#    url: "/project/objectives/"
+#  - title: "Acceso a espacios públicos abiertos"
+#    url: "/project/related-projects/"
+#  - title: "Accesibilidad general y caminabilidad"
+#    url: "/project/related-projects/"
+
+#- title: "Referencias"
 #  url: "/journal-papers/"
 #  side: left
     
-#- title: "Conference papers"
-# url: "/conference-papers/"
-#  side: left
+- title: "Descargas"
+  url: "/project/descargas/"
+  side: left
     
-#- title: "PhD Theses"
+#- title: "Contacto"
 #  url: "/phd-theses/"
 #  side: left
 

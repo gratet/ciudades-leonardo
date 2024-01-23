@@ -9,7 +9,7 @@ services:
       dockerfile: Dockerfile
     image: benizar/feeling-responsive:1.0
     #command: ["jekyll", "serve", "--watch", "--draft"]
-    command: jekyll serve --watch --draft --incremental --config _config.yml,_config_dev.yml --host 0.0.0.0 --verbose
+    command: jekyll serve --trace --watch --draft --incremental --config _config.yml,_config_dev.yml --host 0.0.0.0 --verbose
     ports:
       - "4000:4000"
     volumes:
