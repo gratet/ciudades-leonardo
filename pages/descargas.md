@@ -3,11 +3,11 @@ permalink: "/project/descargas/"
 layout: page-fullwidth
 breadcrumb: true
 #sidebar: right
-title: "Background and hypothesis"
+title: "Descargas"
 meta_title: "Background"
 #subheadline: "Background"
 
-teaser: "Some important info about the project background, initial hypothesis and overall aims, and bibliography." 
+teaser: "En esta sección podeis encontrar todos los descargables del proyecto disponibles" 
 
 meta_teaser: "Metadata about..."
 
