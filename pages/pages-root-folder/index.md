@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: headers/header_theproject.png
+  image_fullwidth: headers/cl_header_index.png
 
 #widget1:
 #  title: "Blog & Portfolio"
@@ -46,8 +46,8 @@ breadcrumb: true
 sidebar: right
 ---
 
+### Página web en construcción
 Proyecto realizado con la Beca Leonardo a Investigadores y Creadores Culturales 2022 de la Fundación BBVA. La Fundación no se responsabiliza de las opiniones, comentarios y contenidos incluidos en el proyecto, los cuales son total y absoluta responsabilidad de sus autores.
-
 
 
 
