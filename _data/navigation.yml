@@ -2,9 +2,9 @@
   url: "/"
   side: left
   
-#- title: "Metodología"
-#  url: "/project/metodologia"
-#  side: left
+- title: "El proyecto"
+  url: "/project/project"
+  side: left
 
 #- title: "Resultados"
 #  url: "/resultados/"
