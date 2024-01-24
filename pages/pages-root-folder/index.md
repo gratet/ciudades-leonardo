@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-  image_fullwidth: headers/mobilitat1.jpg
+  image_fullwidth: headers/header_theproject.png
 
 #widget1:
 #  title: "Blog & Portfolio"
