@@ -22,28 +22,45 @@ header:
 
 ### Consulta el informe preliminar
 
-<style>
-  /* Estilo normal del botón */
-  .custom-button {
-    padding: 10px;
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 50px;
-    transition: background-color 0.3s ease;
-    background: url('/images/img_cos/informe_preliminar.png') no-repeat center center;
-    background-size: cover;
-    width: 50%;
-    height: 700px;
-    cursor: pointer;
-  }
 
-  /* Estilo al pasar el ratón por encima del botón */
-  .custom-button:hover {
-    background-color: rgba(52, 152, 219, 0.8); /* Cambia el color al pasar el ratón */
-  }
-</style>
+<html lang="es">
+<br>
 
-<a href="{{ site.baseurl }}/files/informe_leonardo_preliminar_enero24.pdf" target="_blank" class="custom-button"></a>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Estilo normal del botón */
+    .custom-button {
+      display: inline-block;
+      overflow: hidden;
+      width: 220px;
+      height: 300px;
+      border: 2px solid #3498db; /* Color del borde del botón */
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .custom-button img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    /* Estilo al pasar el ratón por encima del botón */
+    .custom-button:hover {
+      border-color: #2980b9; /* Cambia el color del borde al pasar el ratón */
+    }
+  </style>
+</head>
+<body>
+
+<a href="{{ site.baseurl }}/files/informe_leonardo_preliminar_enero24.pdf" target="_blank" class="custom-button">
+  <img src="/images/img_cos/informe_preliminar.png" alt="Informe Preliminar">
+</a>
+
+</body>
+</html>
 
 
 
@@ -51,4 +68,5 @@ header:
 
 ### Descargas del informe por ciudades
 
-En proceso de construcción
+
+
