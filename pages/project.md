@@ -3,11 +3,11 @@ permalink: "/project/"
 layout: page-fullwidth
 breadcrumb: true
 #sidebar: right
-title: "Project"
-meta_title: "El proyecto"
+title: "Sobre el proyecto"
+meta_title: ""
 subheadline: "El proyecto"
 
-teaser: "Sobre el proyecto." 
+teaser: "" 
 
 meta_teaser: "Metadata about..."
 
@@ -32,5 +32,5 @@ En este contexto, son cada vez más las herramientas y datos en formato abierto,
 
 Con todo ello, y partiendo de los retos y oportunidades planteados en los párrafos anteriores, en este proyecto pretendemos cuantificar y evaluar en qué medida las grandes ciudades españolas cuentan con diseños urbanos y sistemas de movilidad sostenibles y saludables. Para ello, presentamos los resultados del cálculo de indicadores espaciales de elevada resolución espacial sobre aquellos elementos básicos sobre diseño urbano y del transporte para la promoción de ciudades sostenibles y saludable. Esta tarea forma parte, a su vez, de una colaboración internacional centrada en el uso de datos y software de acceso abierto. Concretamente, presentamos indicadores relativos a la forma urbana de las grandes ciudades españolas, así como indicadores del nivel de acceso a comercios cotidianos, el acceso a transporte colectivo y el acceso a espacios públicos abiertos. Presentamos también un indicador de diversidad funcional o de accesibilidad general, construido a partir de indicadores anteriores y, finalmente, un indicador sobre el grado de caminabilidad, que indica en qué medida las ciudades analizadas presentan las condiciones adecuadas para promover el caminar como medio de transporte.
 
-En este documento presentamos los principales resultados a nivel gráfico y cartográfico para cada uno de los indicadores, acompañados de una breve interpretación y, por último, unas reflexiones finales. 
+En esta págijna se presentan los principales resultados a nivel gráfico y cartográfico para cada uno de los indicadores, acompañados de una breve interpretación y, por último, unas reflexiones finales. 
 
