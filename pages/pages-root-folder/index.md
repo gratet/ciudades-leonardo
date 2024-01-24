@@ -7,7 +7,8 @@
 layout: page
 header:
   image_fullwidth: headers/cl_header_index.png
-
+background-color: "#19294d"
+caption: "Bacelona (Xavier Delclòs Alió)"
 #widget1:
 #  title: "Blog & Portfolio"
 #  url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -44,9 +45,14 @@ permalink: /index.html
 homepage: true
 breadcrumb: true
 sidebar: right
+
+---
+
 ---
 
 ### Página web en construcción
+Bienvenido a la página web del proyecto Ciudades Sostenibles y Saludables.
+
 Proyecto realizado con la Beca Leonardo a Investigadores y Creadores Culturales 2022 de la Fundación BBVA. La Fundación no se responsabiliza de las opiniones, comentarios y contenidos incluidos en el proyecto, los cuales son total y absoluta responsabilidad de sus autores.
 
 

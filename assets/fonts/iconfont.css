@@ -15,7 +15,7 @@
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: "iconfont";
+    font-family: "Helvetica";
     src: url("./iconfont.svg#iconfont") format("svg");
   }
 }
@@ -79,7 +79,7 @@
 .icon-xing:before,
 .icon-youtube:before {
   display: inline-block;
-  font-family: "iconfont";
+  font-family: "Helvetica", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;

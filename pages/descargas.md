@@ -4,20 +4,20 @@ layout: page-fullwidth
 breadcrumb: true
 #sidebar: right
 title: "Descargas"
-meta_title: "Background"
+meta_title: "Descargas"
 #subheadline: "Background"
 
 #[<cite class='fa-solid fa-lg fa-file-pdf'></cite>]({{ site.baseurl }}/files/informe_leonardo_preliminar_enero24.pdf)
 
-teaser: "En esta sección podeis encontrar todos los descargables del proyecto disponibles" 
+teaser: "En esta sección podeis encontrar todos los descargables disponibles del proyecto " 
 
 meta_teaser: "Metadata about..."
 
 
 header:
-    image_fullwidth: headers/cambrils_temporal1.jpg
-    background-color: "#262930"
-    caption: "Litoral storm (Lluís Rovira Barenys/ revistacambrils.cat)"
+    image_fullwidth: headers/cl_header_index.png
+    background-color: "#19294d"
+    caption: "Bacelona (Xavier Delclòs Alió)"
 ---
 
 ### Consulta el informe preliminar
