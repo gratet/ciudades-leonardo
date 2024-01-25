@@ -17,7 +17,7 @@ meta_teaser: "Metadata about..."
 header:
     image_fullwidth: headers/cl_header_index.png
     background-color: "#19294d"
-    caption: "Bacelona (Xavier Delclòs Alió)"
+    caption: "Bacelona "
 ---
 
 ### Consulta el informe preliminar

@@ -4,26 +4,28 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page
+layout: frontpage
 header:
   image_fullwidth: headers/cl_header_index.png
 background-color: "#19294d"
 caption: "Bacelona (Xavier Delclòs Alió)"
-#widget1:
-#  title: "Blog & Portfolio"
-#  url: 'http://phlow.github.io/feeling-responsive/blog/'
-#  image: widget-1-302x182.jpg
-#  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-#widget2:
-#  title: "Why use this theme?"
-#  url: 'http://phlow.github.io/feeling-responsive/info/'
-#  image: widget-1-302x182.jpg
-#  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a #href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-#widget3:
-#  title: "Download Theme"
-#  url: 'https://github.com/Phlow/feeling-responsive'
-#  image: widget-1-302x182.jpg
-#  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+widget1:
+  title: "Notícia al diario digital de la URV"
+  url: 'https://diaridigital.urv.cat/disseny-urba-ciutats-estil-vida-saludable/'
+  image: widget_noticia_diari_urv.png
+  text: 'El diseño urbano de las 10 ciudades españolas tiene les condiciones necesarias para un estilo de vida saludable.'
+
+widget2:
+  title: "Resultados preliminares"
+  url: 'https://gratet.github.io/ciudades-leonardo/files/informe_leonardo_preliminar_enero24.pdf'
+  image: widget_informe preliminar.png
+  text: 'Disponible el primer informe con los resultados preliminares del proyecto. En este documento se presentan los principales resultados a nivel gráfico y cartográfico para cada uno de los indicadores.'
+
+widget3:
+  title: "Nova entrada"
+  url: 'https://github.com/Phlow/feeling-responsive'
+  image: widget_informe_preliminar.png
+  text: '<Lorenipsum....'
 #
 # Use the call for action to show a button on the frontpage
 #

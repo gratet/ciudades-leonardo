@@ -6,6 +6,11 @@
   url: "/project"
   side: left
 
+- title: "Metodología"
+  url: "/metodologia/"
+  side: left
+
+
 #- title: "Resultados"
 #  url: "/resultados/"
 #  side: left
