@@ -8,9 +8,9 @@ layout: frontpage
 header:
   image_fullwidth: headers/cl_header_index.png
 background-color: "#19294d"
-caption: "Bacelona (Xavier Delclòs Alió)"
+caption: "Barcelona (Xavier Delclòs)"
 widget1:
-  title: "Notícia al diario digital de la URV"
+  title: "Notícia en el diario digital de la URV"
   url: 'https://diaridigital.urv.cat/disseny-urba-ciutats-estil-vida-saludable/'
   image: widget_noticia_diari_urv.png
   text: 'El diseño urbano de las 10 ciudades españolas tiene les condiciones necesarias para un estilo de vida saludable.'
