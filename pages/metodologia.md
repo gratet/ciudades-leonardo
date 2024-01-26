@@ -75,7 +75,7 @@ municipales analizadas son las Palmas de Gran Canaria y Zaragoza, y presentan ex
 
 <center>
 <!-- Taula 1 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_1.htm" width="100%" height="280" frameborder="0" align="center"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_1.html" width="100%" height="280" frameborder="0" align="center"></iframe>
 </center>
 
 ### Software y datos 
@@ -97,8 +97,8 @@ a partir de celdas de 1 km de resolución con criterios de densidad, en la que s
 
 
 <center>
-<!-- Taula 1 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_2.htm" width="100%" height="280" frameborder="0" align="center"></iframe>
+<!-- Taula 2 -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_2.html" width="100%" height="280" frameborder="0" align="center"></iframe>
 </center>
 
 
