@@ -18,7 +18,6 @@ header:
     caption: "Barcelona (Xavier Delclòs)"
 ---
 
-### El proyecto
 
 
 El proyecto **‘Ciudades sostenibles y saludables: una aproximación open-source para el cálculo de indicadores sobre diseño urbano y de movilidad para las grandes ciudades españolas’**,

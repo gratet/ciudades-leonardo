@@ -21,11 +21,11 @@ widget2:
   image: widget_informe preliminar.png
   text: 'Disponible el primer informe con los resultados preliminares del proyecto. En este documento se presentan los principales resultados a nivel gráfico y cartográfico para cada uno de los indicadores.'
 
-widget3:
-  title: "Nova entrada"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget_informe_preliminar.png
-  text: '<Lorenipsum....'
+#widget3:
+#  title: "Nova entrada"
+#  url: 'https://github.com/Phlow/feeling-responsive'
+#  image: widget_informe_preliminar.png
+#  text: '<Lorenipsum....'
 #
 # Use the call for action to show a button on the frontpage
 #

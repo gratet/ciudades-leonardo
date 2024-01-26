@@ -1,24 +1,24 @@
 ---
 layout              : page-fullwidth
-title               : "Contact the team"
-meta_title          : "Contact"
-subheadline         : "Contact"
-teaser              : "Use the e-mail to contact the project's team."
+title               : "Contacta con el equipo"
+meta_title          : "Contacta"
+subheadline         : "Contacta"
+teaser              : "Utiliza el correo electrónico para contactar con el equipo del proyecto."
 permalink           : "/contact/"
 breadcrumb: true
 
 header:
-    image_fullwidth: headers/ftg.jpg
+    image_fullwidth: headers/cl_header_index.png
     background-color: "#262930"
-    caption: 
+    caption: "Barcelona (Xavier Delclòs)"
 ---
 <div class="row">
 
 <div class="small-12 large-4 columns">
 
 <h4>E-mail:</h4>
-<a href="mailto: salvador.anton@urv.cat?subject=[ADAPTOUR] " title="salvador.anton@urv.cat">Dr. Salvador Anton-Clavé</a><br>
-<a href="mailto: jordi.andreu@urv.cat?subject=[ADAPTOUR] " title="jordi.andreu@urv.cat">Jordi Andreu-Bertran</a>
+<a href="mailto: xavier.delclos@urv.cat?subject=[Ciudades Sostenibles] " title="xavier.delclos@urv.cat">Dr. Xavier Delcòs Alió</a><br>Investigador Postdoctoral Ramón y CajalInvestigador Postdoctoral Ramón y Cajal<br>
+
 
 
 
