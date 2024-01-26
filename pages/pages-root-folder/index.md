@@ -11,7 +11,7 @@ background-color: "#19294d"
 caption: "Barcelona (Xavier Delclòs)"
 widget1:
   title: "Notícia en el diario digital de la URV"
-  url: 'https://diaridigital.urv.cat/disseny-urba-ciutats-estil-vida-saludable/'
+  url: 'https://diaridigital.urv.cat/es/diseno-urbano-ciudades-estilo-vida-saludable/'
   image: widget_noticia_diari_urv.png
   text: 'El diseño urbano de las 10 ciudades españolas tiene les condiciones necesarias para un estilo de vida saludable.'
 
