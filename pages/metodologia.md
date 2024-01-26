@@ -24,7 +24,7 @@ la información del Global Human Settlement Layer, concretamente la información
 Como resultado, en este proyecto se analizan las áreas urbanas de **Barcelona, Bilbao, Las Palmas de Gran Canaria, Madrid, Málaga, Murcia, Palma, Sevilla, Valencia y Zaragoza**, tal y como se muestra en el siguiente mapa. 
 
 <figure>
-  <img src="/images/img_cos/situacio_def.png" alt="Figura 2" style="max-width: 900px; display: block; margin: 0 auto;">
+  <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/situacio_def.png" alt="Mapa 1" style="max-width: 900px; display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Mapa 1. Ciudades caso de estudio.</figcaption>
 </figure>
 
@@ -91,8 +91,8 @@ La **Figura 1** ilustra el flujo simplificado de procesos utilizado para calcula
 4. **Procesamiento de las estimaciones del muestreo y agregación de indicadores**: Aplicación de métodos estadísticos y algoritmos para calcular estimaciones a partir de una muestra de datos y la configuración de cada ciudad, para la generación de los indicadores.
 
 
-<!-- Figura 1 https://gratet.github.io/ciudades-leonardo-->
-<img src="/images/svg_files/figura_1-01.svg" height="230" alt="Figura 1" />
+<!-- Figura 1 -->
+<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_1-01.svg" height="230" alt="Figura 1" />
 
 
 Los indicadores se calculan a nivel de área urbana y a una resolución de 100 metros, utilizando una malla ráster que incorpora la estimación de la población ya mencionada. La **Figura 2** muestra una imagen de satélite de la ciudad de Barcelona, en la que se muestra
@@ -100,17 +100,22 @@ un ejemplo de la malla de 100 metros de resolución utilizada para el cálculo d
 
 
 <figure>
-   <img src="/images/img_cos/figura_2.png" alt="Figura 2" style="max-width: 300px; display: block; margin: 0 auto;">
+   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/figura_2.png" alt="Figura 2" style="max-width: 300px; display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Figura 2. Malla ráster de resolución de 100m.</figcaption>
 </figure>
 
 <center>
 <!-- Taula 3 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_3.htm" width="100%" height="230" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_3.htm" width="100%" height="430" frameborder="0"></iframe>
 </center>
 
+En la obtención de resultados, el software genera diferentes ficheros de salida. En los cuales encontramos ficheros csv y bases de datos espaciales en formato gpkg, ambos, con los indicadores calculados. Para más detalle tanto del cálculo de cada uno de los 
+indicadores como del proceso seguido por el software se puede consultar la documentación disponible en el repositorio correspondiente.
+
+
 ### Referencias
-- 3
-- 4
-- 5
-- 6
+
+3. Higgs C, Liu S, Boeing G, et al. Global Healthy and Sustainable City Indicators software. Glob Obs Healthy Sustain Cities. Published online 2023. doi:10.25439/rmt.24760260.v1 
+4. Florczyk A, Corbane C, Schiavina M, et al. GHS Urban Centre Database 2015, multitemporal and multidimensional attributes, R2019A, European Commission, Joint Research Centre (JRC). Published online 2019. PID: https://data.jrc.ec.europa.eu/dataset/53473144-b88c-44bc-b4a3-4583ed1f547e
+5. Boeing G. OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks. Comput Environ Urban Syst. 2017;65:126-139. doi:10.1016/j.compenvurbsys.2017.05.004
+6. Schiavina M, Melchiorri M, Pesaresi M, et al. GHSL Data Package 2022: Public Release GHS P2022. Publications Office of the European Union; 2022.
