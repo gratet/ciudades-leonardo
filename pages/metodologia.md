@@ -23,48 +23,10 @@ la información del Global Human Settlement Layer, concretamente la información
 
 Como resultado, en este proyecto se analizan las áreas urbanas de **Barcelona, Bilbao, Las Palmas de Gran Canaria, Madrid, Málaga, Murcia, Palma, Sevilla, Valencia y Zaragoza**, tal y como se muestra en el siguiente mapa. 
 
-<!--mapa 1-->
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ejemplo de Inserción de Imagen HTML</title>
-  <style>
-    img {
-      display: block;
-      margin: 0 auto;
-      width: 700px;
-    }
-  </style>
-</head>
-<body>
-
-<!-- Aquí se inserta la imagen -->
-<img src="/images/img_cos/situacio_def.png" alt="Descripción de la imagen">
-
-<!-- https://gratet.github.io/ciudades-leonardo/ -->
-
-</body>
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ejemplo de Texto Centrado HTML</title>
-  <style>
-    .centrado {
-      text-align: center;
-    }
-  </style>
-</head>
-<body>
-
-<p class="centrado">Mapa 1. Ciudades caso de estudio </p>
-
-<!-- Resto del contenido -->
-
-</body>
-</html>
-
+<figure>
+  <img src="/images/img_cos/situacio_def.png" alt="Figura 2" style="max-width: 900px; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center;">Mapa 1. Ciudades caso de estudio.</figcaption>
+</figure>
 
 
 Los datos relativos a la extensión urbana de cada ciudad analizada y su volumen demográfico se presentan en la **Tabla 1**. En conjunto, las ciudades analizadas cubren una extensión de **1.637,4 km<sup>2</sup>**, incluyendo un total de 166 municipios,
@@ -98,12 +60,54 @@ a partir de celdas de 1 km de resolución con criterios de densidad, en la que s
 
 <center>
 <!-- Taula 2 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_2.htm" width="100%" height="280" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_2.htm" width="100%" height="230" frameborder="0"></iframe>
 </center>
 
 
 En relación a la distribución de la población, se utiliza una capa ráster de 100 m de resolución proveniente del Global Human Settlement Layer (6). Los datos del entorno construido, de la infraestructura viaria, así como las tiendas y supermercados 
 y espacios públicos provienen de OpenStreetMap. Esta contiene datos globales accesibles al público y con gran cantidad de datos atribuidos por la propia comunidad, a partir de los cuáles se pueden identificar los elementos mencionados anteriormente.
+
+Finalmente, los datos GTFS (General Transit Feed Specification) se corresponden con un estándar de formato de datos que define la estructura y la semántica para describir información de transporte colectivo, como horarios, rutas y paradas, facilitando 
+la interoperabilidad entre sistemas de información y operadores de transporte público. Este tipo de datos se han utilizado para el cálculo de los indicadores relativos al acceso a transporte público. No obstante, en esta versión preliminar del informe 
+se recomienda precaución al interpretar los resultados, puesto éstos están pendientes de revisión pormenorizada, especialmente considerando que la disponibilidad y compleción de los datos GTFS puede variar según el operador.
+
+
+### Indicadores y cálculos
+
+Este proyecto se ha basado en el cálculo de una batería de indicadores relativos al diseño urbano y a los niveles de accesibilidad a pie en las ciudades analizadas. Concretamente, se han construido indicadores en los siguientes temas:
+
+1. indicadores **demográficos** y de **forma urbana**. Es el caso del cálculo de la superficie de cada ciudad, la estimación de población, la densidad de población, así como la densidad de intersecciones.
+2. Indicadores de **acceso a servicios básicos** como tiendas de alimentación y otros tipos de comercio cotidiano. Tanto en estos indicadores como en los siguientes relativos a la accesibilidad, se ha usado un radio de 500 metros a pie por la red peatonal de cada ciudad. 
+3. Indicadores de **acceso a transporte colectivo** según su nivel de frecuencia.
+4. Indicadores de **acceso a espacios públicos abiertos** según la dimensión de su superficie. 
+5. Un indicador de **accesibilidad general** calculado a partir de los indicadores de acceso mencionados anteriormente. 
+6. Un índice de **caminabilidad**, que indica el grado en el que el entorno construido favorece o limita la movilidad a pie. Este índice se construye a partir de la densidad de población, la densidad de intersecciones, y el indicador de accesibilidad general anteriormente descrito.
+
+La **Figura 1** ilustra el flujo simplificado de procesos utilizado para calcular los indicadores, que consta de las siguientes cuatro etapas:
+
+1. **Recolección de datos**: Adquisición y recopilación de los datos relevantes y necesarios para el análisis, provenientes de las fuentes mencionadas, asegurando la calidad y precisión de los datos. 
+2. **Configuración de parámetros y definición de la región de estudio**: Establecimiento de los criterios, variables y límites geográficos que guiarán el análisis, permitiendo delimitar la extensión, características específicas y datos de la zona a estudiar. 
+3. **Procesamiento de los datos de entrada**: Transformación y preparación de los datos recolectados para su análisis. 
+4. **Procesamiento de las estimaciones del muestreo y agregación de indicadores**: Aplicación de métodos estadísticos y algoritmos para calcular estimaciones a partir de una muestra de datos y la configuración de cada ciudad, para la generación de los indicadores.
+
+
+<!-- Figura 1 https://gratet.github.io/ciudades-leonardo-->
+<img src="/images/svg_files/figura_1-01.svg" height="230" alt="Figura 1" />
+
+
+Los indicadores se calculan a nivel de área urbana y a una resolución de 100 metros, utilizando una malla ráster que incorpora la estimación de la población ya mencionada. La **Figura 2** muestra una imagen de satélite de la ciudad de Barcelona, en la que se muestra
+un ejemplo de la malla de 100 metros de resolución utilizada para el cálculo de los indicadores. Finalmente, en la **Tabla 3** se muestra el detalle de los indicadores concretos calculados.
+
+
+<figure>
+   <img src="/images/img_cos/figura_2.png" alt="Figura 2" style="max-width: 300px; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center;">Figura 2. Malla ráster de resolución de 100m.</figcaption>
+</figure>
+
+<center>
+<!-- Taula 3 -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_3.htm" width="100%" height="230" frameborder="0"></iframe>
+</center>
 
 ### Referencias
 - 3
