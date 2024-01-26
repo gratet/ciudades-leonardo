@@ -1,9 +1,9 @@
 ---
 layout              : page-fullwidth
 title               : "Contacta con el equipo"
-meta_title          : "Contacta"
-subheadline         : "Contacta"
-teaser              : "Utiliza el correo electrónico para contactar con el equipo del proyecto."
+meta_title          : ""
+subheadline         : ""
+teaser              : ""
 permalink           : "/contact/"
 breadcrumb: true
 
@@ -16,8 +16,8 @@ header:
 
 <div class="small-12 large-4 columns">
 
-<h4>E-mail:</h4>
-<a href="mailto: xavier.delclos@urv.cat?subject=[Ciudades Sostenibles] " title="xavier.delclos@urv.cat">Dr. Xavier Delcòs Alió</a><br>Investigador Postdoctoral Ramón y CajalInvestigador Postdoctoral Ramón y Cajal<br>
+<h4>Investigador principal</h4>
+<a href="mailto: xavier.delclos@urv.cat?subject=[Ciudades Sostenibles] " title="xavier.delclos@urv.cat">Dr. Xavier Delcòs Alió</a><br>xavier.delclo@urv.cat <br> Investigador Postdoctoral Ramón y Cajal<br>
 
 
 

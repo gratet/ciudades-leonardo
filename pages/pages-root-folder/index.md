@@ -52,13 +52,7 @@ sidebar: right
 
 ---
 
-### Página web en construcción
-Bienvenido a la página web del proyecto Ciudades Sostenibles y Saludables.
-
-Proyecto realizado con la Beca Leonardo a Investigadores y Creadores Culturales 2022 de la Fundación BBVA. La Fundación no se responsabiliza de las opiniones, comentarios y contenidos incluidos en el proyecto, los cuales son total y absoluta responsabilidad de sus autores.
-
-
-
+posar un primer paragraf rollo 
 
 
 

@@ -20,7 +20,7 @@ header:
     caption: "Barcelona (Xavier Delclòs) "
 ---
 
-### Consulta el informe preliminar
+### Informes de resultados
 
 
 <html lang="es">
@@ -66,7 +66,6 @@ header:
 
 
 
-### Descargas del informe por ciudades
-
+### Resultados por ciudad
 
 

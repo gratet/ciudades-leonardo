@@ -7,15 +7,20 @@ title: "Metodología"
 meta_title: "Metodología"
 subheadline: ""
 
-teaser: "Algun text?" 
+teaser: "" 
 
 meta_teaser: ""
 
-header: no
+header:
+    image_fullwidth: headers/cl_header_index.png
+    background-color: "#19294d"
+    caption: "Barcelona (Xavier Delclòs)"
 
 ---
 
-### Ciudades analizadas
+### Ciudades analizadas 
+
+</br>
 
 Este estudio se centra en el cálculo de indicadores en las diez ciudades más pobladas de España. Para ello, en primer lugar, se identificaron los **diez municipios con mayor población según el Censo de Población y Viviendas de 2021**,
 elaborado por el Instituto Nacional de Estadística. En segundo lugar, y para definir la extensión espacial y el volumen demográfico de las áreas urbanas reales de cada una de las ciudades, se identificó el perímetro urbano según
@@ -49,7 +54,7 @@ utilizando, en este caso, datos abiertos (aunque el software admite también la 
 
 
 El análisis se ha realizado utilizando la versión 4.4.8 GHSCI con la imagen del Docker (entorno que permite empaquetar y distribuir la aplicación con todas sus dependencias) correspondiente. La imagen Docker trae consigo mismo un 
-listado de plataformas, todas ellas de código abierto. Entre ellas encontramos Linux, Python, OSMnx 5, NetworkX, GeoPandas, Pandas, Shapely, Fiona, Rasterio, GDAL, Pyproj y otros. Además de esta imagen, también se utiliza una imagen 
+listado de plataformas, todas ellas de código abierto. Entre ellas encontramos Linux, Python, OSMnx, NetworkX, GeoPandas, Pandas, Shapely, Fiona, Rasterio, GDAL, Pyproj y otros. Además de esta imagen, también se utiliza una imagen 
 pgRouting Docker, para ejecutar una base de datos Postgres SQL con las extensiones POstGIS y pgRouting pudiendo soportar la gestión de todos los datos y análisis necesarios.
 
 Los datos utilizados para este análisis son de naturaleza abierta, siguiendo la filosofía del software utilizado, basado en código abierto, y por lo tanto los datos también son abiertos tal y como establece el propio programa. 
@@ -93,6 +98,7 @@ La **Figura 1** ilustra el flujo simplificado de procesos utilizado para calcula
 
 <!-- Figura 1 -->
 <img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_1-01.svg" height="230" alt="Figura 1" />
+    <figcaption style="text-align: center;">Figura 1. Malla ráster de resolución de 100m.</figcaption>
 
 
 Los indicadores se calculan a nivel de área urbana y a una resolución de 100 metros, utilizando una malla ráster que incorpora la estimación de la población ya mencionada. La **Figura 2** muestra una imagen de satélite de la ciudad de Barcelona, en la que se muestra
