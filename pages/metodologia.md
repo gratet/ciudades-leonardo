@@ -75,7 +75,7 @@ municipales analizadas son las Palmas de Gran Canaria y Zaragoza, y presentan ex
 
 <center>
 <!-- Taula 1 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_1.htm" width="100%" height="280" frameborder="0" align="center"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_1.html" width="100%" height="280" frameborder="0"></iframe>
 </center>
 
 ### Software y datos 
@@ -98,8 +98,9 @@ a partir de celdas de 1 km de resolución con criterios de densidad, en la que s
 
 <center>
 <!-- Taula 2 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_2.html" width="100%" height="280" frameborder="0" align="center"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_2.htm" width="100%" height="280" frameborder="0"></iframe>
 </center>
+
 
 En relación a la distribución de la población, se utiliza una capa ráster de 100 m de resolución proveniente del Global Human Settlement Layer (6). Los datos del entorno construido, de la infraestructura viaria, así como las tiendas y supermercados 
 y espacios públicos provienen de OpenStreetMap. Esta contiene datos globales accesibles al público y con gran cantidad de datos atribuidos por la propia comunidad, a partir de los cuáles se pueden identificar los elementos mencionados anteriormente.
