@@ -33,7 +33,6 @@ Como resultado, en este proyecto se analizan las áreas urbanas de **Barcelona, 
   <figcaption style="text-align: center;">Mapa 1. Ciudades caso de estudio.</figcaption>
 </figure>
 
-
 Los datos relativos a la extensión urbana de cada ciudad analizada y su volumen demográfico se presentan en la **Tabla 1**. En conjunto, las ciudades analizadas cubren una extensión de **1.637,4 km<sup>2</sup>**, incluyendo un total de 166 municipios,
 y albergan una población de **más de 14 millones de habitantes**. Madrid y Barcelona, con 4,9 y 4,3 millones de habitantes respectivamente son las dos principales ciudades analizadas y de mayor extensión, seguidas de Valencia, con 1,3
 millones, Sevilla (764 mil), Bilbao (663 mil), Málaga (651 mil), Zaragoza (407 mil), Palma (362 mil) y, finalmente, Las Palmas de Gran Canaria (358 mil). El número de municipios analizados varía substancialmente entre ciudades.
