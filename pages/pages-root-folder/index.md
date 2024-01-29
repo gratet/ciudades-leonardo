@@ -52,6 +52,8 @@ thumb:
 </head>
 <body>
 
+
+
     <section>
         <p>En este proyecto, exploramos y analizamos diversos aspectos que contribuyen a la calidad de vida en las ciudades, inspirados en la visión de Leonardo da Vinci. A través de nuestra investigación y estudios, buscamos comprender y mejorar la caracterización urbana, los comercios cotidianos, el transporte público, los espacios públicos abiertos y la caminabilidad en entornos urbanos.</p>
     </section>
