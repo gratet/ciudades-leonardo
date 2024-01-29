@@ -44,39 +44,22 @@ thumb:
 #
 
 ---
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proyecto Ciudades Leonardo</title>
-</head>
-<body>
 
+Bienvenido a la página web del proyecto **Ciudades Sostenibles y Saludables**, un proyecto realizado con la Beca Leonardo a Investigadores y Creadores Culturales 2022 de la 
+Fundación BBVA. La Fundación no se responsabiliza de las opiniones, comentarios y contenidos incluidos en el 
+proyecto, los cuales son total y absoluta responsabilidad de sus autores.
 
-
-    <section>
-        <p>En este proyecto, exploramos y analizamos diversos aspectos que contribuyen a la calidad de vida en las ciudades, inspirados en la visión de Leonardo da Vinci. A través de nuestra investigación y estudios, buscamos comprender y mejorar la caracterización urbana, los comercios cotidianos, el transporte público, los espacios públicos abiertos y la caminabilidad en entornos urbanos.</p>
-    </section>
 
 <section>
-    <h2>Explora nuestros resultados:</h2>
-    <p>Sumérgete en la riqueza de datos que hemos recopilado en el Proyecto Ciudades Sostenibles y saludables. 
-Desde la <a href="https://gratet.github.io/ciudades-leonardo/caracterizacion/">caracterización urbana</a> hasta la exploración de 
-<a href="https://gratet.github.io/ciudades-leonardo/comercios-cotidianos/">comercios cotidianos</a> y el análisis del 
-<a href="https://gratet.github.io/ciudades-leonardo/transporte-publico/">transporte público</a>, descubre cómo estas facetas contribuyen a la calidad de vida. Adéntrate en los 
-<a href="https://gratet.github.io/ciudades-leonardo/espacios-publicos-abiertos/">espacios públicos abiertos</a> que forman el tejido de nuestras ciudades y analiza la 
-<a href="https://gratet.github.io/ciudades-leonardo/caminabilidad/">caminabilidad</a> que define nuestras calles.</p>
+<p>Sum&eacute;rgete en los datos que hemos recopilado en el Proyecto Ciudades Sostenibles y Saludables. En esta web podras enontrar desde la 
+<a href="https://gratet.github.io/ciudades-leonardo/caracterizacion/">caracterizaci&oacute;n de la morfolog&iacute;a de las ciudades</a> hasta el acceso a 
+<a href="https://gratet.github.io/ciudades-leonardo/comercios-cotidianos/">comercios cotidianos</a>, al 
+<a href="https://gratet.github.io/ciudades-leonardo/transporte-publico/">transporte p&uacute;blico</a> o los 
+<a href="https://gratet.github.io/ciudades-leonardo/espacios-publicos-abiertos/">espacios p&uacute;blicos abiertos</a> de las ciudades analizadas. Tambi&eacute;n puedes consultar la 
+<a href="https://gratet.github.io/ciudades-leonardo/caminabilidad/">caminabilidad</a> y la accessibilidad general.</p>
 </section>
 
-
-    <section>
-        <p>Si estás interesado en descargar recursos relacionados con el proyecto, visita nuestra página de descargas <a href="https://gratet.github.io/ciudades-leonardo/project/descargas/">aquí</a>.</p>
-    </section>
-
-</body>
-</html>
-
-
+Si estás interesado en descargar recursos relacionados con el proyecto, visita nuestra página de descargas <a href="https://gratet.github.io/ciudades-leonardo/project/descargas/">aquí</a>
 
 
 <html lang="es">
@@ -148,10 +131,5 @@ Desde la <a href="https://gratet.github.io/ciudades-leonardo/caracterizacion/">c
 </table>
 
 </body>
-
-
-
-
-
 
 {% include gallery %}
