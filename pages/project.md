@@ -14,7 +14,7 @@ meta_teaser: "Metadata about..."
 
 header:
     image_fullwidth: headers/cl_header_index.png
-    background-color: "#19294d"
+    background-color: "#2761ab"
     caption: "Barcelona (Xavier Delclòs)"
 ---
 
