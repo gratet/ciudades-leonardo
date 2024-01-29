@@ -68,33 +68,30 @@ Si estás interesado en descargar recursos relacionados con el proyecto, visita 
     body {
       font-family: Arial, sans-serif;
     }
-
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    td {
-      margin: 2%;
-      text-align: center;
-    }
-
-    .styled-image {
-      max-width: 100%;
-      display: block;
-      margin: 0 auto;
-      border-radius: 8px; /* Agregado para bordes redondeados */
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Agregado para sombra */
-      transition: transform 0.3s ease-in-out;
-    }
-
-    .styled-image:hover {
-      transform: scale(1.05);
-    }
+  
+  table {
+  border-collapse: collapse;
+  width: 100%;
+  }
+  
+  td {
+  text-align: center;
+  }
+  
+  .styled-image {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px; /* Agregado para bordes redondeados */
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0); /* Agregado para sombra */
+  transition: transform 0.3s ease-in-out;
+  }
+  
+  .styled-image:hover {
+  transform: scale(1.05);
+  }
   </style>
 </head>
-
-
 
 <body>
 
@@ -116,6 +113,9 @@ Si estás interesado en descargar recursos relacionados con el proyecto, visita 
       </a>
     </td>
   </tr>
+</table>
+<div style="max-width: 66%; margin: auto;">
+<table>
   <tr>
     <td>
       <a href="https://gratet.github.io/ciudades-leonardo/espacios-publicos-abiertos/" target="_blank">
@@ -129,7 +129,7 @@ Si estás interesado en descargar recursos relacionados con el proyecto, visita 
     </td>
   </tr>
 </table>
-
+</div>
 </body>
 
 {% include gallery %}
