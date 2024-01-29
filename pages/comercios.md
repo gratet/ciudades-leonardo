@@ -51,7 +51,7 @@ de Las Palmas de Gran Canaria y Murcia la mayor parte de la población no tiene 
 
 <center>
 <!-- Taula 5 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_5.html" width="100%" height="280" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_5.htm" width="100%" height="280" frameborder="0"></iframe>
 </center>
 
 El patrón es ligeramente distinto en términos de acceso a pie a otros tipos de tiendas cotidianas: en este caso, las 

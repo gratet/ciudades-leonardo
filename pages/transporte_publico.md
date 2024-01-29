@@ -37,7 +37,7 @@ Más allá de estos, existen también otras formas de transporte público, como 
 
 <center>
 <!-- Taula 6 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_6.html" width="100%" height="280" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_6.htm" width="100%" height="280" frameborder="0"></iframe>
 </center>
 
 Según los datos extraídos de los distintos operadores locales y regionales en base a sus datos GTFS, en todas las ciudades analizadas la mayor parte de 

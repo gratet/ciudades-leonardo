@@ -35,7 +35,7 @@ público abierto por cápita (8 m2).
 
 <center>
 <!-- Taula 7 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_7.html" width="100%" height="280" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_7.htm" width="100%" height="280" frameborder="0"></iframe>
 </center>
 
 No obstante, estos indicadores están sujetos a la definición de área urbana, y, por otro lado, no son completamente representativo del acceso real que la 
