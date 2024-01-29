@@ -20,7 +20,7 @@ header:
 
 ### Ciudades analizadas 
 
-</br>
+<br>
 
 Este estudio se centra en el cálculo de indicadores en las diez ciudades más pobladas de España. Para ello, en primer lugar, se identificaron los **diez municipios con mayor población según el Censo de Población y Viviendas de 2021**,
 elaborado por el Instituto Nacional de Estadística. En segundo lugar, y para definir la extensión espacial y el volumen demográfico de las áreas urbanas reales de cada una de las ciudades, se identificó el perímetro urbano según
@@ -29,7 +29,7 @@ la información del Global Human Settlement Layer, concretamente la información
 Como resultado, en este proyecto se analizan las áreas urbanas de **Barcelona, Bilbao, Las Palmas de Gran Canaria, Madrid, Málaga, Murcia, Palma, Sevilla, Valencia y Zaragoza**, tal y como se muestra en el siguiente mapa. 
 
 <figure>
-  <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/situacio_def.png" alt="Mapa 1" style="max-width: 900px; display: block; margin: 0 auto;">
+  <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/situacio_def.png" alt="Mapa 1" style="max-width: 100%; display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Mapa 1. Ciudades caso de estudio.</figcaption>
 </figure>
 

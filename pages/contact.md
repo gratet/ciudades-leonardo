@@ -17,7 +17,7 @@ header:
 <div class="small-12 large-4 columns">
 
 <h4>Investigador principal</h4>
-<a href="mailto: xavier.delclos@urv.cat?subject=[Ciudades Sostenibles] " title="xavier.delclos@urv.cat">Dr. Xavier Delcòs Alió</a><br>xavier.delclo@urv.cat <br> Investigador Postdoctoral Ramón y Cajal<br>
+<a href="mailto: xavier.delclos@urv.cat?subject=[Ciudades Sostenibles] " title="xavier.delclos@urv.cat">Dr. Xavier Delclòs Alió</a><br>xavier.delclos@urv.cat <br> Investigador Postdoctoral Ramón y Cajal<br>Grup de Recerca en Anàlisi Territorial i Estudis Turístics (GRATET)<br>
 
 
 
@@ -27,7 +27,7 @@ header:
 
 
 <h4>Dirección postal:</h4>
-<a href="https://www.geografia.urv.cat/ca/">Departament de Geografia</a><br>
+<a href="https://www.geografia.urv.cat/ca/">Departament de Geografia, Facultat de Turisme i Geografia</a><br>
 <a href="https://www.urv.cat/">Universitat Rovira i Virgili</a><br>
 C/ Joanot Martorell, 15 <br>
 43480 - Vila-seca (Tarragona) <br>

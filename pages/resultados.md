@@ -3,20 +3,49 @@ permalink: "/resultados/"
 layout: page-fullwidth
 breadcrumb: true
 #sidebar: right
-title: "Resultados"
-meta_title: "Resultados"
 subheadline: ""
-
-teaser: "Contributions to national and international conferences." 
-
-meta_teaser: "Contributions to national and international conferences."
-
+title: "Reultados"
+teaser: ""
 header:
     image_fullwidth: headers/cl_header_index.png
-    background-color: "#262930"
+    background-color: "#19294d"
     caption: "Barcelona (Xavier Delclòs)"
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Indicadores**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
 
-##hola
 
-posar contingut.
+## tags:
+
+
+
+# Gallery
+#
+-
+gallery:
+- image_url: https://gratet.github.io/ciudades-leonardo/files/informe_leonardo_preliminar_enero24.pdf
+caption: Great images by Unsplash.com
+- image_url: https://gratet.github.io/ciudades-leonardo/files/informe_leonardo_preliminar_enero24.pdf
+caption: Great images by Unsplash.com
+- image_url: https://gratet.github.io/ciudades-leonardo/files/informe_leonardo_preliminar_enero24.pdf
+caption: Great images by Unsplash.com
+#
+# Styling
+#
+image:
+thumb:
+#
+# Metainformation & Customization
+#
+meta_description:
+permalink:
+---
+
+{% include gallery %}
