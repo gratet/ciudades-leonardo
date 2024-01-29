@@ -44,20 +44,37 @@ thumb:
 #
 
 ---
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Ciudades Leonardo</title>
+</head>
+<body>
+
+    <section>
+        <p>En este proyecto, exploramos y analizamos diversos aspectos que contribuyen a la calidad de vida en las ciudades, inspirados en la visión de Leonardo da Vinci. A través de nuestra investigación y estudios, buscamos comprender y mejorar la caracterización urbana, los comercios cotidianos, el transporte público, los espacios públicos abiertos y la caminabilidad en entornos urbanos.</p>
+    </section>
+
+<section>
+    <h2>Explora nuestros resultados:</h2>
+    <p>Sumérgete en la riqueza de datos que hemos recopilado en el Proyecto Ciudades Sostenibles y saludables. 
+Desde la <a href="https://gratet.github.io/ciudades-leonardo/caracterizacion/">caracterización urbana</a> hasta la exploración de 
+<a href="https://gratet.github.io/ciudades-leonardo/comercios-cotidianos/">comercios cotidianos</a> y el análisis del 
+<a href="https://gratet.github.io/ciudades-leonardo/transporte-publico/">transporte público</a>, descubre cómo estas facetas contribuyen a la calidad de vida. Adéntrate en los 
+<a href="https://gratet.github.io/ciudades-leonardo/espacios-publicos-abiertos/">espacios públicos abiertos</a> que forman el tejido de nuestras ciudades y analiza la 
+<a href="https://gratet.github.io/ciudades-leonardo/caminabilidad/">caminabilidad</a> que define nuestras calles.</p>
+</section>
 
 
-  <h1>Ciudades sostenibles y saludables</h1>
-  <h2>Una aproximación open-source para el cálculo de indicadores sobre diseño urbano y de movilidad para las grandes ciudades españolas</h2> <br>
-  <p>
-¡Bienvenido a la página web del proyecto Ciudades Sostenibles y Saludables! Un proyecto financiado por la Fundación BBVA. En esta página, puedes consultar los principales resultados, así como 
-la metodología, y descargar los informes y los datos disponibles del proyecto.
-  </p>
-  <p>
-    Encuentra datos <a " href="https://www.movactiva.es/determinantes-de-la-movilidad-activa/caminabilidad">Densidades Urbanas</a>, <a style="color: burlywood;" 
-href="https://www.movactiva.es/determinantes-de-la-movilidad" </a> y análisis detallados sobre Densidades Urbanas, Ciclabilidad, Espacios Verdes, Vitalidad Urbana y la Ciudad de los 15 Minutos. 
-Somos tu fuente confiable de información para un estilo de vida más saludable y sostenible en entornos urbanos.
-    <p>
-  </p>
+    <section>
+        <p>Si estás interesado en descargar recursos relacionados con el proyecto, visita nuestra página de descargas <a href="https://gratet.github.io/ciudades-leonardo/project/descargas/">aquí</a>.</p>
+    </section>
+
+</body>
+</html>
+
+
 
 
 <html lang="es">
