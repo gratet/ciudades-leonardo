@@ -64,10 +64,13 @@ acceso a este tipo de comercio, seguidas de Sevilla (61,1%), Bilbao (60,1%), Zar
 (54,6) y Palma (51,1%). Del mismo modo que en el caso anterior, Las Palmas de Gran Canaria y Murcia no llegan al 50% de 
 la población con acceso próximo a esta tipología de tienda.
 
-
-<!-- Figura 4 -->
-<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_4.svg" height="230" alt="Figura 3" />
+<figure>
+<!-- Figura 3 -->
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_4.svg" width="700px" height="230" alt="Figura 3" /></center>
     <figcaption style="text-align: center;">Figura 4. Acceso a tiendas de alimentación y otros comercios cotidianos.</figcaption>
+</figure>
+
+
 
 ### Indicadores por ciudades
 

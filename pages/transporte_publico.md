@@ -54,9 +54,12 @@ a los 30 minutos e incluso inferior a los 20 minutos. En base a los datos GTFS d
 considerar la frecuencia de paso la accesibilidad en transporte público por parte de la población se reduce drásticamente (menos del 20 e incluso 15% de la 
 población con acceso a servicios de transporte público frecuente).
 
-<!-- Figura 4 -->
-<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_5.svg" height="230" alt="Figura 3" />
+
+<figure>
+<!-- Figura 5 -->
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_5.svg" width="700px" height="230" alt="Figura 3" /></center>
     <figcaption style="text-align: center;">Figura 5. Acceso a transporte público según nivel de frecuencia.</figcaption>
+</figure>
 
 1. Datos preliminares, pendientes de validación pormenorizada.
 2. En otras ciudades pueden existir otras formas de transporte colectivo, por ejemplo Teleférico de Madrid, pero no se han encontrado datos GTFS disponibles.

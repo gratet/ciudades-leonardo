@@ -57,9 +57,12 @@ de caminabilidad a nivel de las diez ciudades (por ejemplo, en Murcia este es el
 de población que reside en entornos con una caminabilidad superior al tercer cuartil de las diez ciudades (siendo claro el caso de Barcelona y Bilbao, 
 con más del 60% de la población en esta situación).
 
-<!-- Figura 4 -->
-<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_7.svg" height="230" alt="Figura 3" />
+<figure>
+<!-- Figura 5 -->
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_7.svg" width="800px" height="230" alt="Figura 3" /></center>
     <figcaption style="text-align: center;">Figura 7. Índice de accesibilidad general: porcentaje de población según el grado de acceso.</figcaption>
+</figure>
+
 
 ### Indicadores por ciudades
 

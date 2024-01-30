@@ -55,9 +55,11 @@ pobladas son también aquellas más compactas y con entramados de calles igualme
 los mayores niveles de densidad de intersecciones ponderada por población se encuentran en este caso en Sevilla (173,8 intersecciones por km2), 
 mientras que los valores más bajos, y por tanto la trama urbana menos intricada, se encuentra de nuevo en Murcia (con 141,7 intersecciones por km2).
 
+<figure>
 <!-- Figura 3 -->
-<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_3.svg" height="230" alt="Figura 3" />
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_3.svg" width="700px" height="230" alt="Figura 3" /></center>
     <figcaption style="text-align: center;">Figura 3. Histograma de densidades de población e intersecciones.</figcaption>
+</figure>
 
 ### Indicadores por ciudades
 

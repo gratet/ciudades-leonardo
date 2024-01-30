@@ -51,10 +51,12 @@ cuando se considera exclusivamente el acceso a grandes espacios abiertos. En est
 con acceso a grandes espacios, a la que le sigue este caso le sigue Madrid (68%) y Barcelona (64,9%). En este caso son Murcia y Málaga las ciudades en las 
 que existe un menor porcentaje de población con acceso a grandes espacios abiertos públicos (22,7% y 35,3%, respectivamente).
 
-
-<!-- Figura 4 -->
-<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_6.svg" height="230" alt="Figura 3" />
+<figure>
+<!-- Figura 5 -->
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_6.svg" width="700px" height="230" alt="Figura 3" /></center>
     <figcaption style="text-align: center;">Figura 6. Acceso a espacios públicos abiertos.</figcaption>
+</figure>
+
 
 ### Indicadores por ciudades
 
