@@ -31,13 +31,13 @@ Es necesario que los servicios de transporte colectivo cuenten con la máxima fr
    <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-03.png" alt="Figura 3" style="max-width: 100%; display: block; margin: 0 auto;">
 </figure>
 
-En las ciudades analizadas existe una considerable diversidad de opciones de transporte público (Tabla 6), según los datos GTFS disponibles para cada ciudad. 
+En las ciudades analizadas existe una considerable diversidad de opciones de transporte público (**Tabla 6**), según los datos GTFS disponibles para cada ciudad<sup>1</sup>. 
 Destacan, a nivel de cobertura de transporte colectivo, las ciudades de mayor rango demográfico (Madrid y Barcelona). A nivel de modos de transporte los más 
 comunes son el autobús urbano e interurbano (existente en todas las ciudades), seguido del tren, el tranvía y el metro. Mientras que todas las grandes ciudades 
 españolas cuentan con sistemas de autobús urbano y/o interurbano, y todas excepto Las Palmas de Gran Canaria cuentan con servicios ferroviarios, tres de ellas 
 no cuentan, como mínimo, una línea de metro (Las Palmas de Gran Canaria, Murcia y Zaragoza). Por lo que se refiere al tranvía, solo en los casos de Las Palmas, 
 Málaga y Palma no existe este tipo de servicio (a pesar de que algunas de estas ciudades cuentan en la actualidad con proyectos para su creación en el corto plazo). 
-Más allá de estos, existen también otras formas de transporte público, como es el caso de sistemas de teleférico o funicular, presentes en Barcelona y Bilbao .
+Más allá de estos, existen también otras formas de transporte público, como es el caso de sistemas de teleférico o funicular, presentes en Barcelona y Bilbao<sup>2</sup>.
 
 <center>
 <!-- Taula 6 -->
@@ -45,7 +45,7 @@ Más allá de estos, existen también otras formas de transporte público, como 
 </center>
 
 Según los datos extraídos de los distintos operadores locales y regionales en base a sus datos GTFS, en todas las ciudades analizadas la mayor parte de 
-población tiene acceso a algún tipo de servicio de transporte público (Tabla 6 y Figura 5), desde Murcia (63,8% de la población con acceso), hasta los máximos 
+población tiene acceso a algún tipo de servicio de transporte público (**Tabla 6 y Figura 5**), desde Murcia (63,8% de la población con acceso), hasta los máximos 
 en las ciudades de Barcelona, Bilbao, Madrid o Palma, en las que más del 90 e incluso 95% de la población tiene acceso a paradas de transporte público, mientras 
 que en el resto de ciudades es entre el 75 y el 80% de la población que dispone de acceso espacial a servicios de transporte colectivo. Más allá de la cobertura 
 espacial de las redes de transporte público, resulta de especial interés observar las diferencias una vez se considera la frecuencia de los distintos servicios. 

@@ -46,7 +46,7 @@ En cuanto a la provisión de otras tiendas de comercio cotidiano, se observan me
 por cada mil habitantes.
 
 No obstante, un indicador más útil para entender el acceso real es el del porcentaje de población en cada ciudad que tiene 
-acceso a este tipo de comercio, y que se presenta tanto en la Tabla 5 como de forma gráfica en la Figura 4. Se observa cómo, 
+acceso a este tipo de comercio, y que se presenta tanto en la **Tabla 5** como de forma gráfica en la **Figura 4**. Se observa cómo, 
 en términos de acceso a tiendas de alimentación, destacan Bilbao y Barcelona por encima del resto, con 75% de la población 
 con acceso a pie a menos de 500 metros a una tienda de estas características, seguidas de Palma (72,5%), Sevilla (70,3%), 
 Valencia (69,1%), Zaragoza (68,6), Madrid (65,6%) y Málaga (56,3%). Es también interesante observar cómo en las ciudades 

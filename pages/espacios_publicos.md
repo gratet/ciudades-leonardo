@@ -22,9 +22,9 @@ regulación térmica de las ciudades y en la preservación de la biodiversidad. 
 también la actividad física recreativa de los residentes urbanos, a la vez que juega un papel vital en su bienestar mental como espacio de interacción 
 social. En un contexto de crecimiento urbano, en la que la densificación va en aumento y los espacios abiertos privados tienden a disminuir, 
 la provisión de áreas públicas al aire libre se vuelve esencial para promover la salud de la población. Es por este motivo por el que, por ejemplo, 
-la Organización Mundial de la Salud recomienda que los residentes urbanos tengan acceso a, como mínimo, entre 0,5 y 1 hectárea de espacio verde púbico 
-a menos de 300 metros de su casa7, mientras que distintas ciudades europeas establecen umbrales mínimos de entre 6 y 9 m2 de área verde de tipo recreativo 
-por habitante8.
+la Organización Mundial de la Salud recomienda que los residentes urbanos tengan acceso a, **[como mínimo, entre 0,5 y 1 hectárea de espacio verde púbico
+a menos de 300 metros de su casa](https://www.who.int/europe/publications/i/item/9789289052498){:target="_blank"}**, mientras que **[distintas ciudades europeas establecen umbrales mínimos de entre 6 y 9 m2 de área verde de tipo recreativo
+por habitante](https://eionet.kormany.hu/download/9/14/e2000/who-benefits-from-nature-in-cities.pdf){:target="_blank"}**.
 
 <figure>
    <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-04.png" alt="Figura 4" style="max-width: 100%; display: block; margin: 0 auto;">
@@ -32,10 +32,10 @@ por habitante8.
 
 En el caso de las grandes ciudades españolas, el reto es de especial relevancia en comparación, por ejemplo, al resto de ciudades europeas, considerando 
 que dichas ciudades se caracterizan por una elevada compacidad de la forma urbana y elevados niveles de densidad construida. En el caso de las ciudades 
-analizadas, a nivel global y en términos absolutos, se observa en la Tabla 7 de qué modo destacan las ciudades de Barcelona y Madrid, también evidentemente 
-con relación con su extensión urbana. En términos relativos, las ciudades mejores provistas de espacio públicos abiertos son la ciudad de Bilbao, con 72 m2 
+analizadas, a nivel global y en términos absolutos, se observa en la **Tabla 7** de qué modo destacan las ciudades de Barcelona y Madrid, también evidentemente 
+con relación con su extensión urbana. En términos relativos, las ciudades mejores provistas de espacio públicos abiertos son la ciudad de Bilbao, con 72 m<sup>2</sup> 
 por cápita, seguido de Barcelona (45). En el otro extremo, destaca el caso de las Palmas de Gran Canaria como la ciudad con menor provisión de espacio 
-público abierto por cápita (8 m2).
+público abierto por cápita (8 m<sup>2</sup>).
 
 <center>
 <!-- Taula 7 -->
