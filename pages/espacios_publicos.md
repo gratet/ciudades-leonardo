@@ -26,6 +26,10 @@ la Organización Mundial de la Salud recomienda que los residentes urbanos tenga
 a menos de 300 metros de su casa7, mientras que distintas ciudades europeas establecen umbrales mínimos de entre 6 y 9 m2 de área verde de tipo recreativo 
 por habitante8.
 
+<figure>
+   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-04.png" alt="Figura 4" style="max-width: 100%; display: block; margin: 0 auto;">
+</figure>
+
 En el caso de las grandes ciudades españolas, el reto es de especial relevancia en comparación, por ejemplo, al resto de ciudades europeas, considerando 
 que dichas ciudades se caracterizan por una elevada compacidad de la forma urbana y elevados niveles de densidad construida. En el caso de las ciudades 
 analizadas, a nivel global y en términos absolutos, se observa en la Tabla 7 de qué modo destacan las ciudades de Barcelona y Madrid, también evidentemente 
@@ -48,5 +52,17 @@ con acceso a grandes espacios, a la que le sigue este caso le sigue Madrid (68%)
 que existe un menor porcentaje de población con acceso a grandes espacios abiertos públicos (22,7% y 35,3%, respectivamente).
 
 
-figura 6
+<!-- Figura 4 -->
+<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_6.svg" height="230" alt="Figura 3" />
+    <figcaption style="text-align: center;">Figura 6. Acceso a espacios públicos abiertos.</figcaption>
+
+### Indicadores por ciudades
+
+<center>
+<!-- imatges -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
+</center>
+
+
+
 mapa 5

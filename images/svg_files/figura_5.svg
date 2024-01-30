@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 482.05 269.23" style="enable-background:new 0 0 482.05 269.23;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{font-family:'Helvetica-Light';}
+	.st2{font-size:7.1349px;}
+	.st3{clip-path:url(#SVGID_4_);}
+	.st4{fill:#B6DDEC;}
+	.st5{fill:#84CCD8;}
+	.st6{fill:#9ED4E6;}
+	.st7{fill:#6AC3DA;}
+	.st8{font-size:8.4134px;}
+	.st9{font-size:4.3299px;}
+	.st10{clip-path:url(#SVGID_6_);}
+	.st11{fill:#020203;}
+	.st12{font-size:13.52px;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="-0.35" width="481.1" height="269.62"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<text transform="matrix(1 0 0 1 385.0215 4.9222)" class="st1 st2">Cualquier parada de OSM</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 442.7822 22.3001)" class="st1 st2">Frecuencia </text>
+<text transform="matrix(1 0 0 1 441.8193 30.8621)" class="st1 st2">&lt;30 minuto</text>
+<g>
+	<defs>
+		<rect id="SVGID_3_" y="-0.35" width="481.1" height="269.62"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st3">
+		<text transform="matrix(1 0 0 1 477.8594 30.8617)" class="st1 st2">s</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 357.8955 21.4852)" class="st1 st2">Acceso cualquier</text>
+<text transform="matrix(1 0 0 1 374.3555 30.0472)" class="st1 st2">parad</text>
+<text transform="matrix(1 0 0 1 393.3838 30.0472)" class="st1 st2">a</text>
+<text transform="matrix(1 0 0 1 388.6396 43.575)" class="st1 st2">Frecuencia &lt;20 minuto</text>
+<text transform="matrix(1 0 0 1 462.3643 43.575)" class="st1 st2">s</text>
+<polygon points="413.24,24.03 413.54,24.33 427.05,10.83 440.24,24.03 427.05,37.22 413.54,23.72 413.24,24.03 413.54,24.33 
+	413.24,24.03 412.93,24.33 427.05,38.45 441.47,24.03 427.05,9.61 412.63,24.03 412.93,24.33 "/>
+<polygon class="st4" points="45.33,72.97 2.31,114.73 45.33,151.79 84.74,114.73 "/>
+<polygon class="st4" points="141.82,73.51 100.06,114.73 141.82,153.6 181.95,114.73 "/>
+<polygon class="st4" points="238.65,74.6 197.25,114.73 238.65,153.24 278.06,114.73 "/>
+<polygon class="st4" points="335.39,103.98 306.83,114.64 335.39,123.86 345.51,114.64 "/>
+<polygon class="st4" points="435.22,81.56 395.45,114.64 435.22,145.92 467.4,114.64 "/>
+<polygon class="st4" points="0.43,223.93 38.94,246.89 66.05,223.93 38.94,187.05 "/>
+<polygon class="st4" points="141.82,183.62 100.96,223.93 141.82,230.26 148.68,223.93 "/>
+<polygon class="st4" points="235.3,195.19 201.14,223.93 235.3,242.37 255.19,223.93 "/>
+<polygon class="st4" points="335.26,191.39 299.47,223.93 335.26,252.5 366.54,223.93 "/>
+<rect x="-9.09" y="91.99" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -58.6167 43.1144)" class="st5" width="63.66" height="0.65"/>
+<rect x="22.41" y="105.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -90.4474 56.3009)" class="st5" width="0.65" height="63.66"/>
+<polyline class="st5" points="90.03,114.59 45.01,159.61 45.47,160.07 90.49,115.05 "/>
+<polyline class="st5" points="45.01,70.04 90.03,115.05 90.49,114.59 45.47,69.58 "/>
+<polyline class="st5" points="9.5,115.05 45.47,79.08 45.01,78.62 9.04,114.59 "/>
+<polyline class="st5" points="45.47,150.57 9.5,114.59 9.04,115.05 45.01,151.03 "/>
+<polyline class="st5" points="80.99,114.59 45.01,150.57 45.47,151.03 81.45,115.05 "/>
+<polyline class="st5" points="45.01,79.08 80.99,115.05 81.45,114.59 45.47,78.62 "/>
+<polyline class="st5" points="18.54,115.05 45.47,87.93 45.01,87.48 18.08,114.59 "/>
+<polyline class="st5" points="45.47,141.53 18.54,114.59 18.08,115.05 45.01,141.99 "/>
+<polyline class="st5" points="71.95,114.59 45.01,141.53 45.47,141.99 72.41,115.05 "/>
+<polyline class="st5" points="45.01,87.93 71.95,115.05 72.41,114.59 45.47,87.48 "/>
+<polyline class="st5" points="27.4,115.05 45.47,96.97 45.01,96.51 26.94,114.59 "/>
+<polyline class="st5" points="45.47,132.49 27.39,114.59 26.94,115.05 45.01,132.95 "/>
+<polyline class="st5" points="62.91,114.59 45.01,132.49 45.47,132.95 63.37,115.05 "/>
+<polyline class="st5" points="45.01,96.97 62.91,115.05 63.37,114.59 45.47,96.52 "/>
+<polyline class="st5" points="36.43,115.05 45.47,106.01 45.01,105.55 35.97,114.59 "/>
+<polyline class="st5" points="45.47,123.63 36.43,114.59 35.97,115.05 45.01,124.09 "/>
+<polyline class="st5" points="54.05,114.59 45.01,123.63 45.47,124.09 54.51,115.05 "/>
+<polyline class="st5" points="45.01,106.01 54.05,115.05 54.51,114.59 45.47,105.55 "/>
+<polyline class="st5" points="96.94,115.05 141.95,70.04 141.49,69.58 96.48,114.59 "/>
+<polyline class="st5" points="141.95,159.61 96.94,114.59 96.48,115.05 141.49,160.06 "/>
+<polyline class="st5" points="186.51,114.59 141.5,159.61 141.95,160.07 186.97,115.05 "/>
+<polyline class="st5" points="141.49,70.04 186.51,115.05 186.97,114.59 141.95,69.58 "/>
+<polyline class="st5" points="105.98,115.05 141.95,79.08 141.5,78.62 105.52,114.59 "/>
+<polyline class="st5" points="141.95,150.57 105.98,114.59 105.52,115.05 141.49,151.03 "/>
+<polyline class="st5" points="177.47,114.59 141.49,150.57 141.95,151.03 177.93,115.05 "/>
+<polyline class="st5" points="141.49,79.08 177.47,115.05 177.93,114.59 141.95,78.62 "/>
+<polyline class="st5" points="115.02,115.05 141.95,87.93 141.49,87.48 114.56,114.59 "/>
+<polyline class="st5" points="141.95,141.53 115.02,114.59 114.56,115.05 141.49,141.99 "/>
+<polyline class="st5" points="168.43,114.59 141.49,141.53 141.95,141.99 168.89,115.05 "/>
+<polyline class="st5" points="141.49,87.93 168.43,115.05 168.89,114.59 141.96,87.48 "/>
+<polyline class="st5" points="123.88,115.05 141.95,96.97 141.49,96.51 123.42,114.59 "/>
+<polyline class="st5" points="141.95,132.49 123.88,114.59 123.42,115.05 141.5,132.95 "/>
+<polyline class="st5" points="159.39,114.59 141.5,132.49 141.95,132.95 159.85,115.05 "/>
+<polyline class="st5" points="141.49,96.97 159.39,115.05 159.85,114.59 141.95,96.52 "/>
+<polyline class="st5" points="132.92,115.05 141.95,106.01 141.5,105.55 132.46,114.59 "/>
+<polyline class="st5" points="141.95,123.63 132.91,114.59 132.46,115.05 141.49,124.09 "/>
+<polyline class="st5" points="150.53,114.59 141.49,123.63 141.95,124.09 150.99,115.05 "/>
+<polyline class="st5" points="141.49,106.01 150.53,115.05 150.99,114.59 141.95,105.55 "/>
+<polyline class="st5" points="193.77,115.05 238.79,70.04 238.33,69.58 193.31,114.59 "/>
+<polyline class="st5" points="238.79,159.61 193.77,114.59 193.31,115.05 238.33,160.06 "/>
+<polyline class="st5" points="283.34,114.59 238.33,159.61 238.79,160.07 283.8,115.05 "/>
+<polyline class="st5" points="238.33,70.04 283.34,115.05 283.8,114.59 238.79,69.58 "/>
+<polyline class="st5" points="202.81,115.05 238.79,79.08 238.33,78.62 202.35,114.59 "/>
+<polyline class="st5" points="238.79,150.57 202.81,114.59 202.35,115.05 238.33,151.03 "/>
+<polyline class="st5" points="274.3,114.59 238.33,150.57 238.79,151.03 274.76,115.05 "/>
+<polyline class="st5" points="238.33,79.08 274.3,115.05 274.76,114.59 238.79,78.62 "/>
+<polyline class="st5" points="211.85,115.05 238.79,87.93 238.33,87.48 211.39,114.59 "/>
+<polyline class="st5" points="238.79,141.53 211.85,114.59 211.39,115.05 238.33,141.99 "/>
+<polyline class="st5" points="265.26,114.59 238.33,141.53 238.79,141.99 265.72,115.05 "/>
+<polyline class="st5" points="238.33,87.93 265.26,115.05 265.72,114.59 238.79,87.48 "/>
+<polyline class="st5" points="220.71,115.05 238.79,96.97 238.33,96.51 220.25,114.59 "/>
+<polyline class="st5" points="238.79,132.49 220.71,114.59 220.25,115.05 238.33,132.95 "/>
+<polyline class="st5" points="256.22,114.59 238.33,132.49 238.79,132.95 256.68,115.05 "/>
+<polyline class="st5" points="238.33,96.97 256.22,115.05 256.68,114.59 238.79,96.52 "/>
+<polyline class="st5" points="229.75,115.05 238.79,106.01 238.33,105.55 229.29,114.59 "/>
+<polyline class="st5" points="238.79,123.63 229.75,114.59 229.29,115.05 238.33,124.09 "/>
+<polyline class="st5" points="247.37,114.59 238.33,123.63 238.79,124.09 247.82,115.05 "/>
+<polyline class="st5" points="238.33,106.01 247.37,115.05 247.83,114.59 238.79,105.55 "/>
+<polyline class="st5" points="290.61,115.05 335.62,70.04 335.16,69.58 290.15,114.59 "/>
+<polyline class="st5" points="335.62,159.61 290.6,114.59 290.15,115.05 335.16,160.06 "/>
+<polyline class="st5" points="380.17,114.59 335.16,159.61 335.62,160.07 380.63,115.05 "/>
+<polyline class="st5" points="335.16,70.04 380.17,115.05 380.63,114.59 335.62,69.58 "/>
+<polyline class="st5" points="299.64,115.05 335.62,79.08 335.16,78.62 299.18,114.59 "/>
+<polyline class="st5" points="335.62,150.57 299.64,114.59 299.18,115.05 335.16,151.03 "/>
+<polyline class="st5" points="371.13,114.59 335.16,150.57 335.62,151.03 371.59,115.05 "/>
+<polyline class="st5" points="335.16,79.08 371.13,115.05 371.59,114.59 335.62,78.62 "/>
+<polyline class="st5" points="308.68,115.05 335.62,87.93 335.16,87.48 308.22,114.59 "/>
+<polyline class="st5" points="335.62,141.53 308.68,114.59 308.22,115.05 335.16,141.99 "/>
+<polyline class="st5" points="362.1,114.59 335.16,141.53 335.62,141.99 362.55,115.05 "/>
+<polyline class="st5" points="335.16,87.93 362.09,115.05 362.56,114.59 335.62,87.48 "/>
+<polyline class="st5" points="317.54,115.05 335.62,96.97 335.16,96.51 317.08,114.59 "/>
+<polyline class="st5" points="335.62,132.49 317.54,114.59 317.08,115.05 335.16,132.95 "/>
+<polyline class="st5" points="353.06,114.59 335.16,132.49 335.62,132.95 353.52,115.05 "/>
+<polyline class="st5" points="335.16,96.97 353.06,115.05 353.52,114.59 335.62,96.52 "/>
+<polyline class="st5" points="326.58,115.05 335.62,106.01 335.16,105.55 326.12,114.59 "/>
+<polyline class="st5" points="335.62,123.63 326.58,114.59 326.12,115.05 335.16,124.09 "/>
+<polyline class="st5" points="344.2,114.59 335.16,123.63 335.62,124.09 344.66,115.05 "/>
+<polyline class="st5" points="335.16,106.01 344.2,115.05 344.66,114.59 335.62,105.55 "/>
+<polyline class="st5" points="390.17,115.05 435.18,70.04 434.72,69.58 389.71,114.59 "/>
+<polyline class="st5" points="435.18,159.61 390.17,114.59 389.71,115.05 434.72,160.06 "/>
+<polyline class="st5" points="479.73,114.59 434.72,159.61 435.18,160.07 480.19,115.05 "/>
+<polyline class="st5" points="434.72,70.04 479.73,115.05 480.19,114.59 435.18,69.58 "/>
+<polyline class="st5" points="399.2,115.05 435.18,79.08 434.72,78.62 398.75,114.59 "/>
+<polyline class="st5" points="435.18,150.57 399.2,114.59 398.75,115.05 434.72,151.03 "/>
+<polyline class="st5" points="470.69,114.59 434.72,150.57 435.18,151.03 471.15,115.05 "/>
+<polyline class="st5" points="434.72,79.08 470.69,115.05 471.15,114.59 435.18,78.62 "/>
+<polyline class="st5" points="408.24,115.05 435.18,87.93 434.72,87.48 407.78,114.59 "/>
+<polyline class="st5" points="435.18,141.53 408.24,114.59 407.78,115.05 434.72,141.99 "/>
+<polyline class="st5" points="461.66,114.59 434.72,141.53 435.18,141.99 462.11,115.05 "/>
+<polyline class="st5" points="434.72,87.93 461.66,115.05 462.12,114.59 435.18,87.48 "/>
+<polyline class="st5" points="417.1,115.05 435.18,96.97 434.72,96.51 416.64,114.59 "/>
+<polyline class="st5" points="435.18,132.49 417.1,114.59 416.64,115.05 434.72,132.95 "/>
+<polyline class="st5" points="452.62,114.59 434.72,132.49 435.18,132.95 453.08,115.05 "/>
+<polyline class="st5" points="434.72,96.97 452.62,115.05 453.08,114.59 435.18,96.52 "/>
+<polyline class="st5" points="426.14,115.05 435.18,106.01 434.72,105.55 425.68,114.59 "/>
+<polyline class="st5" points="435.18,123.63 426.14,114.59 425.68,115.05 434.72,124.09 "/>
+<polyline class="st5" points="443.76,114.59 434.72,123.63 435.18,124.09 444.22,115.05 "/>
+<polyline class="st5" points="434.72,106.01 443.76,115.05 444.22,114.59 435.18,105.55 "/>
+<polyline class="st5" points="390.17,224.25 435.18,179.24 434.72,178.78 389.71,223.79 "/>
+<rect x="412.12" y="214.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -53.5223 363.8426)" class="st5" width="0.65" height="63.66"/>
+<rect x="425.63" y="246.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -40.339 395.6686)" class="st5" width="63.66" height="0.65"/>
+<polyline class="st5" points="434.72,179.24 479.73,224.25 480.19,223.79 435.18,178.78 "/>
+<polyline class="st5" points="399.2,224.25 435.18,188.28 434.72,187.82 398.75,223.79 "/>
+<rect x="416.64" y="216.57" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -49.0013 365.7199)" class="st5" width="0.65" height="50.88"/>
+<polyline class="st5" points="470.69,223.79 434.72,259.77 435.18,260.23 471.15,224.25 "/>
+<polyline class="st5" points="434.72,188.28 470.69,224.25 471.15,223.79 435.18,187.82 "/>
+<rect x="402.37" y="210.14" transform="matrix(0.7047 -0.7095 0.7095 0.7047 -24.8693 361.1717)" class="st5" width="38.22" height="0.65"/>
+<rect x="421.16" y="218.44" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -44.4841 367.5837)" class="st5" width="0.65" height="38.09"/>
+<polyline class="st5" points="461.66,223.79 434.72,250.73 435.18,251.19 462.11,224.25 "/>
+<rect x="448.09" y="191.35" transform="matrix(0.7095 -0.7047 0.7047 0.7095 -18.04 377.17)" class="st5" width="0.65" height="38.22"/>
+<rect x="413.13" y="214.66" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -27.2697 364.132)" class="st5" width="25.57" height="0.65"/>
+<rect x="425.59" y="220.25" transform="matrix(0.7036 -0.7106 0.7106 0.7036 -39.3004 371.73)" class="st5" width="0.65" height="25.44"/>
+<rect x="431.24" y="232.65" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -34.7205 382.1189)" class="st5" width="25.31" height="0.65"/>
+<rect x="443.57" y="202.26" transform="matrix(0.7107 -0.7035 0.7035 0.7107 -22.8103 374.5043)" class="st5" width="0.65" height="25.44"/>
+<rect x="424.04" y="219.18" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -29.1417 368.6517)" class="st5" width="12.78" height="0.65"/>
+<rect x="430.11" y="222.15" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -35.5333 371.2986)" class="st5" width="0.65" height="12.78"/>
+<rect x="433.08" y="228.22" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -32.886 377.6897)" class="st5" width="12.78" height="0.65"/>
+<rect x="439.14" y="213.11" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -26.4951 375.0416)" class="st5" width="0.65" height="12.78"/>
+<polyline class="st5" points="291.68,224.25 336.69,179.24 336.23,178.78 291.22,223.79 "/>
+<rect x="313.63" y="214.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -82.3664 294.2089)" class="st5" width="0.65" height="63.66"/>
+<rect x="327.14" y="246.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -69.1833 326.0307)" class="st5" width="63.66" height="0.65"/>
+<polyline class="st5" points="336.24,179.24 381.25,224.25 381.71,223.79 336.69,178.78 "/>
+<polyline class="st5" points="300.72,224.25 336.69,188.28 336.24,187.82 300.26,223.79 "/>
+<polyline class="st5" points="336.69,259.77 300.72,223.79 300.26,224.25 336.24,260.23 "/>
+<polyline class="st5" points="372.21,223.79 336.23,259.77 336.69,260.23 372.67,224.25 "/>
+<polyline class="st5" points="336.24,188.28 372.21,224.25 372.67,223.79 336.69,187.82 "/>
+<polyline class="st5" points="309.76,224.25 336.7,197.14 336.23,196.68 309.3,223.79 "/>
+<polyline class="st5" points="336.69,250.73 309.76,223.79 309.3,224.25 336.24,251.19 "/>
+<polyline class="st5" points="363.17,223.79 336.24,250.73 336.69,251.19 363.63,224.25 "/>
+<polyline class="st5" points="336.23,197.13 363.17,224.25 363.63,223.79 336.7,196.68 "/>
+<polyline class="st5" points="318.62,224.25 336.69,206.17 336.23,205.71 318.16,223.79 "/>
+<polyline class="st5" points="336.69,241.69 318.62,223.79 318.16,224.25 336.24,242.15 "/>
+<polyline class="st5" points="354.13,223.79 336.24,241.69 336.69,242.15 354.59,224.25 "/>
+<polyline class="st5" points="336.23,206.17 354.13,224.25 354.59,223.79 336.7,205.72 "/>
+<polyline class="st5" points="327.66,224.25 336.69,215.21 336.23,214.75 327.2,223.79 "/>
+<polyline class="st5" points="336.69,232.83 327.66,223.79 327.2,224.25 336.24,233.29 "/>
+<polyline class="st5" points="345.27,223.79 336.23,232.83 336.69,233.29 345.73,224.25 "/>
+<polyline class="st5" points="336.24,215.21 345.27,224.25 345.73,223.79 336.69,214.75 "/>
+<polyline class="st5" points="194.95,224.25 239.96,179.24 239.5,178.78 194.49,223.79 "/>
+<rect x="216.9" y="214.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -110.6985 225.8091)" class="st5" width="0.65" height="63.66"/>
+<rect x="230.41" y="246.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -97.5141 257.638)" class="st5" width="63.66" height="0.65"/>
+<polyline class="st5" points="239.5,179.24 284.52,224.25 284.98,223.79 239.96,178.78 "/>
+<polyline class="st5" points="203.99,224.25 239.96,188.28 239.5,187.82 203.53,223.79 "/>
+<polyline class="st5" points="239.96,259.77 203.99,223.79 203.53,224.25 239.5,260.23 "/>
+<polyline class="st5" points="275.48,223.79 239.5,259.77 239.96,260.23 275.94,224.25 "/>
+<polyline class="st5" points="239.5,188.28 275.48,224.25 275.94,223.79 239.96,187.82 "/>
+<polyline class="st5" points="213.03,224.25 239.96,197.14 239.5,196.68 212.57,223.79 "/>
+<polyline class="st5" points="239.96,250.73 213.03,223.79 212.57,224.25 239.5,251.19 "/>
+<polyline class="st5" points="266.44,223.79 239.5,250.73 239.96,251.19 266.9,224.25 "/>
+<polyline class="st5" points="239.5,197.13 266.44,224.25 266.9,223.79 239.96,196.68 "/>
+<polyline class="st5" points="221.89,224.25 239.96,206.17 239.5,205.71 221.43,223.79 "/>
+<polyline class="st5" points="239.96,241.69 221.88,223.79 221.43,224.25 239.5,242.15 "/>
+<polyline class="st5" points="257.4,223.79 239.5,241.69 239.96,242.15 257.86,224.25 "/>
+<polyline class="st5" points="239.5,206.17 257.4,224.25 257.86,223.79 239.96,205.72 "/>
+<polyline class="st5" points="230.92,224.25 239.96,215.21 239.5,214.75 230.47,223.79 "/>
+<polyline class="st5" points="239.96,232.83 230.92,223.79 230.46,224.25 239.5,233.29 "/>
+<polyline class="st5" points="248.54,223.79 239.5,232.83 239.96,233.29 249,224.25 "/>
+<polyline class="st5" points="239.5,215.21 248.54,224.25 249,223.79 239.96,214.75 "/>
+<polyline class="st5" points="96.94,224.25 141.95,179.24 141.49,178.78 96.48,223.79 "/>
+<rect x="118.89" y="214.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -139.4046 156.5064)" class="st5" width="0.65" height="63.66"/>
+<rect x="132.4" y="246.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -126.2199 188.336)" class="st5" width="63.66" height="0.65"/>
+<polyline class="st5" points="141.49,179.24 186.51,224.25 186.97,223.79 141.95,178.78 "/>
+<polyline class="st5" points="105.98,224.25 141.95,188.28 141.5,187.82 105.52,223.79 "/>
+<polyline class="st5" points="141.95,259.77 105.98,223.79 105.52,224.25 141.49,260.23 "/>
+<polyline class="st5" points="177.47,223.79 141.49,259.77 141.95,260.23 177.93,224.25 "/>
+<polyline class="st5" points="141.49,188.28 177.47,224.25 177.93,223.79 141.95,187.82 "/>
+<polyline class="st5" points="115.02,224.25 141.95,197.14 141.49,196.68 114.56,223.79 "/>
+<polyline class="st5" points="141.95,250.73 115.02,223.79 114.56,224.25 141.49,251.19 "/>
+<polyline class="st5" points="168.43,223.79 141.49,250.73 141.95,251.19 168.89,224.25 "/>
+<polyline class="st5" points="141.49,197.13 168.43,224.25 168.89,223.79 141.96,196.68 "/>
+<polyline class="st5" points="123.88,224.25 141.95,206.17 141.49,205.71 123.42,223.79 "/>
+<polyline class="st5" points="141.95,241.69 123.88,223.79 123.42,224.25 141.5,242.15 "/>
+<polyline class="st5" points="159.39,223.79 141.5,241.69 141.95,242.15 159.85,224.25 "/>
+<polyline class="st5" points="141.49,206.17 159.39,224.25 159.85,223.79 141.95,205.72 "/>
+<polyline class="st5" points="132.92,224.25 141.95,215.21 141.5,214.75 132.46,223.79 "/>
+<polyline class="st5" points="141.95,232.83 132.91,223.79 132.46,224.25 141.49,233.29 "/>
+<polyline class="st5" points="150.53,223.79 141.49,232.83 141.95,233.29 150.99,224.25 "/>
+<polyline class="st5" points="141.49,215.21 150.53,224.25 150.99,223.79 141.95,214.75 "/>
+<rect x="-9.09" y="201.19" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -135.8335 75.0992)" class="st5" width="63.66" height="0.65"/>
+<rect x="22.41" y="214.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -167.6633 88.2839)" class="st5" width="0.65" height="63.66"/>
+<rect x="35.92" y="246.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -154.4789 120.1127)" class="st5" width="63.66" height="0.65"/>
+<polyline class="st5" points="45.01,179.24 90.03,224.25 90.49,223.79 45.47,178.78 "/>
+<polyline class="st5" points="9.5,224.25 45.47,188.28 45.01,187.82 9.04,223.79 "/>
+<polyline class="st5" points="45.47,259.77 9.5,223.79 9.04,224.25 45.01,260.23 "/>
+<polyline class="st5" points="80.99,223.79 45.01,259.77 45.47,260.23 81.45,224.25 "/>
+<polyline class="st5" points="45.01,188.28 80.99,224.25 81.45,223.79 45.47,187.82 "/>
+<polyline class="st5" points="18.54,224.25 45.47,197.14 45.01,196.68 18.08,223.79 "/>
+<polyline class="st5" points="45.47,250.73 18.54,223.79 18.08,224.25 45.01,251.19 "/>
+<polyline class="st5" points="71.95,223.79 45.01,250.73 45.47,251.19 72.41,224.25 "/>
+<polyline class="st5" points="45.01,197.13 71.95,224.25 72.41,223.79 45.47,196.68 "/>
+<polyline class="st5" points="27.4,224.25 45.47,206.17 45.01,205.71 26.94,223.79 "/>
+<polyline class="st5" points="45.47,241.69 27.39,223.79 26.94,224.25 45.01,242.15 "/>
+<polyline class="st5" points="62.91,223.79 45.01,241.69 45.47,242.15 63.37,224.25 "/>
+<polyline class="st5" points="45.01,206.17 62.91,224.25 63.37,223.79 45.47,205.72 "/>
+<polyline class="st5" points="36.43,224.25 45.47,215.21 45.01,214.75 35.97,223.79 "/>
+<polyline class="st5" points="45.47,232.83 36.43,223.79 35.97,224.25 45.01,233.29 "/>
+<polyline class="st5" points="54.05,223.79 45.01,232.83 45.47,233.29 54.51,224.25 "/>
+<polyline class="st5" points="45.01,215.21 54.05,224.25 54.51,223.79 45.47,214.75 "/>
+<path class="st6" d="M438.8,195.49l-2.49,2.33l3.87,3.9L438.8,195.49z M435.85,198.27l-26.38,24.76l-0.99,0.99l11.35,11.35
+	l10.26,2.19l-13.44-13.31l0.23-0.23l-0.23-0.23l18.08-18.08l0.23,0.23l0.23-0.23l7.6,7.68l-2.33-10.49L435.85,198.27z
+	 M434.95,206.41l-17.62,17.62l13.93,13.79l6.05,1.29l9.15-9.15l-3.41-15.36L434.95,206.41z M434.95,214.98l0.23-0.23l9.04,9.04
+	l-0.23,0.23l0.23,0.23l-9.04,9.04l-0.23-0.23l-0.23,0.23l-9.04-9.04l0.23-0.23l-0.23-0.23l9.04-9.04L434.95,214.98z M407.96,224.43
+	l-4.19,3.93l4.56,4.56l10.32,2.2L407.96,224.43z M403.3,228.81l-2.64,2.48l6.51,1.39L403.3,228.81z M446.63,230.7l-8.56,8.56
+	l0.74,0.16l7.95-8.14L446.63,230.7z"/>
+<polygon class="st7" points="403.77,228.36 403.3,228.81 407.17,232.67 408.33,232.92 "/>
+<polygon class="st7" points="408.44,223.99 408.47,224.02 409.46,223.03 "/>
+<polygon class="st7" points="408.44,223.99 407.96,224.43 418.66,235.12 419.82,235.37 408.47,224.02 "/>
+<polygon class="st7" points="436.32,197.82 435.84,198.27 440.45,202.91 440.19,201.72 "/>
+<polygon class="st7" points="434.72,205.72 416.64,223.79 416.87,224.02 417.1,223.79 417.33,224.02 434.95,206.41 434.72,206.17 
+	434.95,205.95 "/>
+<polygon class="st7" points="417.1,223.79 416.87,224.02 416.64,224.25 430.09,237.56 431.26,237.81 417.33,224.02 "/>
+<polygon class="st7" points="446.46,229.95 437.31,239.1 438.07,239.26 446.63,230.7 "/>
+<polygon class="st7" points="435.18,205.72 434.95,205.95 434.72,206.17 434.95,206.41 443.05,214.59 442.78,213.4 "/>
+<rect x="428.88" y="217.96" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -31.014 373.1701)" class="st6" width="12.13" height="12.13"/>
+<polygon class="st7" points="434.72,214.75 425.68,223.79 425.91,224.02 426.14,223.79 426.37,224.02 434.95,215.44 434.72,215.21 
+	434.95,214.98 "/>
+<polygon class="st7" points="426.14,223.79 425.91,224.02 425.68,224.25 434.72,233.29 434.95,233.06 434.72,232.83 434.95,232.6 
+	426.37,224.02 "/>
+<polygon class="st7" points="443.99,224.02 443.76,224.25 443.53,224.02 434.95,232.6 434.72,232.83 434.95,233.06 435.18,233.29 
+	444.22,224.25 "/>
+<polygon class="st7" points="435.18,214.75 434.95,214.98 434.72,215.21 434.95,215.44 443.53,224.02 443.76,224.25 443.99,224.02 
+	444.22,223.79 "/>
+<text transform="matrix(1 0 0 1 225.2393 64.7782)" class="st1 st8">Madrid</text>
+<text transform="matrix(1 0 0 1 322.5322 64.7782)" class="st1 st8">Murcia</text>
+<text transform="matrix(1 0 0 1 422.7939 64.7782)" class="st1 st8">Sevilla</text>
+<text transform="matrix(1 0 0 1 31.2178 175.221)" class="st1 st8">Málaga</text>
+<text transform="matrix(1 0 0 1 130.0415 175.221)" class="st1 st8">Palma</text>
+<text transform="matrix(1 0 0 1 225.29 174.5731)" class="st1 st8">Valencia   </text>
+<text transform="matrix(1 0 0 1 318.4678 174.5731)" class="st1 st8">Zaragoza</text>
+<text transform="matrix(1 0 0 1 399.9521 174.5731)" class="st1 st8">Las Palmas de GC</text>
+<text transform="matrix(1 0 0 1 32.5894 72.1864)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 34.1528 80.8851)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 34.1528 89.8221)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 34.1528 98.993)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 34.1528 107.8128)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 129.458 72.1864)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 131.021 80.8851)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 131.021 89.8221)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 131.021 98.993)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 131.021 107.8128)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 226.3262 72.1864)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 227.8896 80.8851)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 227.8896 89.8221)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 227.8896 98.993)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 227.8896 107.8128)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 323.1953 72.1864)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 324.7578 80.8851)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 324.7578 89.8221)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 324.7578 98.993)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 324.7578 107.8128)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 423.0078 72.1864)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 424.5713 80.8851)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 424.5713 89.8221)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 424.5713 98.993)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 424.5713 107.8128)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 423.0078 181.4603)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 424.5713 190.159)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 424.5713 199.0956)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 424.5713 208.2664)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 424.5713 217.0868)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 325.1436 181.4598)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 326.707 190.159)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 326.707 199.0956)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 326.707 208.2664)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 326.707 217.0868)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 228.3096 181.4598)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 229.873 190.159)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 229.873 199.0956)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 229.873 208.2664)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 229.873 217.0868)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 130.4927 181.4598)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 132.0557 190.159)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 132.0557 199.0956)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 132.0557 208.2664)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 132.0557 217.0868)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 33.9839 181.4598)" class="st1 st9">100%</text>
+<text transform="matrix(1 0 0 1 35.5469 190.159)" class="st1 st9">80%</text>
+<text transform="matrix(1 0 0 1 35.5469 199.0956)" class="st1 st9">60%</text>
+<text transform="matrix(1 0 0 1 35.5469 208.2664)" class="st1 st9">40%</text>
+<text transform="matrix(1 0 0 1 35.5469 217.0868)" class="st1 st9">20%</text>
+<text transform="matrix(1 0 0 1 26.0679 67.367)" class="st1 st8">Barcelon</text>
+<text transform="matrix(1 0 0 1 59.7554 67.367)" class="st1 st8">a</text>
+<text transform="matrix(1 0 0 1 129.8052 65.5413)" class="st1 st8">Bilbao</text>
+<g>
+	<defs>
+		<rect id="SVGID_5_" y="-0.35" width="481.1" height="269.62"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st10">
+		<text transform="matrix(1 0 0 1 125.4561 13.7035)" class="st11 st1 st12">Porcentaje de población con acceso </text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 140.8828 29.9271)" class="st11 st1 st12">a paradas de transporte públic</text>
+<text transform="matrix(1 0 0 1 328.6895 29.9271)" class="st11 st1 st12">o</text>
+</svg>

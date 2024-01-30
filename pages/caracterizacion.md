@@ -26,15 +26,9 @@ y compacidad, y desarrollos más recientes, caracterizados por mayores niveles d
 con el despliegue de infraestructuras de transporte de alta capacidad.
 
 <figure>
-   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-01.png" alt="Figura 2" style="max-width: 300px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Figura 2. Malla ráster de resolución de 100m.</figcaption>
+   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-01.png" alt="Figura 3" style="max-width: 100%; display: block; margin: 0 auto;">
 </figure>
 
-
-<center>
-<!-- imatges -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="500px" frameborder="0"></iframe>
-</center>
 
 Dos indicadores que resultan de utilidad para el análisis de la morfología urbana son la densidad de población y la densidad de intersecciones. 
 En ciudades densamente pobladas, es común encontrar edificaciones más altas y un mayor aprovechamiento del espacio, lo que puede llevar a una 
@@ -61,6 +55,13 @@ pobladas son también aquellas más compactas y con entramados de calles igualme
 los mayores niveles de densidad de intersecciones ponderada por población se encuentran en este caso en Sevilla (173,8 intersecciones por km2), 
 mientras que los valores más bajos, y por tanto la trama urbana menos intricada, se encuentra de nuevo en Murcia (con 141,7 intersecciones por km2).
 
+<!-- Figura 3 -->
+<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_3.svg" height="230" alt="Figura 3" />
+    <figcaption style="text-align: center;">Figura 3. Histograma de densidades de población e intersecciones.</figcaption>
 
-Figura 3
-Mapa 2
+### Indicadores por ciudades
+
+<center>
+<!-- imatges -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.html" width="100%" height="1200px" frameborder="0"></iframe>
+</center>

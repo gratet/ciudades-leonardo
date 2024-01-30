@@ -32,7 +32,11 @@ acceso a comercios, la categoría "acceso a tiendas de alimentos" incluye superm
 establecimientos similares. Por otro lado, la categoría "otros comercios cotidianos" abarca tiendas 24 horas, quioscos, 
 estancos y otros establecimientos similares.
 
-En la Tabla 5 se muestran algunos datos generales del acceso a tiendas de alimentación y otras tiendas de comercio cotidiano 
+<figure>
+   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-02.png" alt="Figura 3" style="max-width: 100%; display: block; margin: 0 auto;">
+</figure>
+
+En la **Tabla 5** se muestran algunos datos generales del acceso a tiendas de alimentación y otras tiendas de comercio cotidiano 
 en las grandes ciudades españolas analizadas en este proyecto. Más allá de los valores absolutos, con Barcelona y Madrid en 
 cabeza, claramente relacionados con la dimensión de las ciudades, es interesante observar algunas diferencias a la provisión 
 de este tipo de comercios en relación con la población de cada ciudad. Por lo que se refiere a tiendas de alimentación, 
@@ -60,5 +64,17 @@ acceso a este tipo de comercio, seguidas de Sevilla (61,1%), Bilbao (60,1%), Zar
 (54,6) y Palma (51,1%). Del mismo modo que en el caso anterior, Las Palmas de Gran Canaria y Murcia no llegan al 50% de 
 la población con acceso próximo a esta tipología de tienda.
 
-figura 4
+
+<!-- Figura 4 -->
+<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_4.svg" height="230" alt="Figura 3" />
+    <figcaption style="text-align: center;">Figura 4. Acceso a tiendas de alimentación y otros comercios cotidianos.</figcaption>
+
+### Indicadores por ciudades
+
+<center>
+<!-- imatges -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.html" width="100%" height="1200px" frameborder="0"></iframe>
+</center>
+
+
 mapa 3

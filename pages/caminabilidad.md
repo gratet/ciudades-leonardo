@@ -29,6 +29,10 @@ trama urbana y del espacio público, como puede ser la densidad de interseccione
 este documento, en este proyecto la caminabilidad se define como la combinación de la densidad de población, la densidad de intersecciones, y un 
 indicador general de accesibilidad que engloba el acceso a tiendas de alimentación, a tiendas de barrio y a paradas de transporte público.
 
+<figure>
+   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-05.png" alt="Figura 5" style="max-width: 100%; display: block; margin: 0 auto;">
+</figure>
+
 Por lo que se refiere al índice de accesibilidad general, los resultados mostrados en la Tabla 8 y, por categorías, en la **Figura 7**, 
 indican que, a nivel global y de forma ponderada por población, las ciudades de Barcelona y Bilbao son las más accesibles en el contexto de las 
 diez grandes ciudades españolas. Le siguen Madrid y Sevilla, Zaragoza, Palma, Valencia, Málaga, Las Palmas de Gran Canaria y Murcia, en este orden. 
@@ -53,6 +57,16 @@ de caminabilidad a nivel de las diez ciudades (por ejemplo, en Murcia este es el
 de población que reside en entornos con una caminabilidad superior al tercer cuartil de las diez ciudades (siendo claro el caso de Barcelona y Bilbao, 
 con más del 60% de la población en esta situación).
 
+<!-- Figura 4 -->
+<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_7.svg" height="230" alt="Figura 3" />
+    <figcaption style="text-align: center;">Figura 7. Índice de accesibilidad general: porcentaje de población según el grado de acceso.</figcaption>
+
+### Indicadores por ciudades
+
+<center>
+<!-- imatges -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
+</center>
 
 figura 7
 mapa 6

@@ -27,6 +27,10 @@ a su cobertura espacial y a su frecuencia de paso, especialmente en las horas pu
 transporte público en una ciudad, lo que resulta en un grado de acceso u otro. No obstante, tener acceso a pie es una condición necesaria pero no suficiente. 
 Es necesario que los servicios de transporte colectivo cuenten con la máxima frecuencia de paso posible.
 
+<figure>
+   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-03.png" alt="Figura 3" style="max-width: 100%; display: block; margin: 0 auto;">
+</figure>
+
 En las ciudades analizadas existe una considerable diversidad de opciones de transporte público (Tabla 6), según los datos GTFS disponibles para cada ciudad. 
 Destacan, a nivel de cobertura de transporte colectivo, las ciudades de mayor rango demográfico (Madrid y Barcelona). A nivel de modos de transporte los más 
 comunes son el autobús urbano e interurbano (existente en todas las ciudades), seguido del tren, el tranvía y el metro. Mientras que todas las grandes ciudades 
@@ -50,7 +54,21 @@ a los 30 minutos e incluso inferior a los 20 minutos. En base a los datos GTFS d
 considerar la frecuencia de paso la accesibilidad en transporte público por parte de la población se reduce drásticamente (menos del 20 e incluso 15% de la 
 población con acceso a servicios de transporte público frecuente).
 
-
+<!-- Figura 4 -->
+<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_5.svg" height="230" alt="Figura 3" />
+    <figcaption style="text-align: center;">Figura 5. Acceso a transporte público según nivel de frecuencia.</figcaption>
 
 1. Datos preliminares, pendientes de validación pormenorizada.
 2. En otras ciudades pueden existir otras formas de transporte colectivo, por ejemplo Teleférico de Madrid, pero no se han encontrado datos GTFS disponibles.
+
+
+### Indicadores por ciudades
+
+<center>
+<!-- imatges -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
+</center>
+
+
+
+
