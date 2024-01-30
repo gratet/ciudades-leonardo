@@ -33,7 +33,7 @@ con el despliegue de infraestructuras de transporte de alta capacidad.
 
 <center>
 <!-- imatges -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.html" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="500px" frameborder="0"></iframe>
 </center>
 
 Dos indicadores que resultan de utilidad para el análisis de la morfología urbana son la densidad de población y la densidad de intersecciones. 
