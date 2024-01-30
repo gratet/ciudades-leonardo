@@ -63,5 +63,5 @@ mientras que los valores más bajos, y por tanto la trama urbana menos intricada
 
 <center>
 <!-- imatges -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.html" width="100%" height="1200px" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
 </center>
