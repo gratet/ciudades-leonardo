@@ -25,9 +25,15 @@ de entramados irregulares y compactos, correspondientes a los centros histórico
 y compacidad, y desarrollos más recientes, caracterizados por mayores niveles de fragmentación y dispersión urbana, y mayormente relacionados 
 con el despliegue de infraestructuras de transporte de alta capacidad.
 
+<figure>
+   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-01.png" alt="Figura 2" style="max-width: 300px; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center;">Figura 2. Malla ráster de resolución de 100m.</figcaption>
+</figure>
+
+
 <center>
-<!-- Taula 4 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="290" frameborder="0"></iframe>
+<!-- imatges -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.html" width="100%" height="500px" frameborder="0"></iframe>
 </center>
 
 Dos indicadores que resultan de utilidad para el análisis de la morfología urbana son la densidad de población y la densidad de intersecciones. 
