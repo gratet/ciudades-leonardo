@@ -28,39 +28,15 @@ homepage: true
 breadcrumb: true
 sidebar: right
 
-#
-# Gallery
-#
-gallery:
-- image_url: DSC_0001.JPG
-
-#
-# Styling
-#
-image:
-thumb:
-#
-# Metainformation & Customization
-#
-
 ---
 
-Bienvenido a la página web del proyecto **Ciudades Sostenibles y Saludables**, un proyecto realizado con la Beca Leonardo a Investigadores y Creadores Culturales 2022 de la 
-Fundación BBVA. La Fundación no se responsabiliza de las opiniones, comentarios y contenidos incluidos en el 
-proyecto, los cuales son total y absoluta responsabilidad de sus autores.
+Bienvenido a la página web del proyecto **Ciudades Sostenibles y Saludables**
 
+En esta página web encontraréis información relativa al planteamiento general del [**proyecto**](https://gratet.github.io/ciudades-leonardo/project/), 
+su [**metodología**](https://gratet.github.io/ciudades-leonardo/metodologia/), los [**principales resultados**](https://gratet.github.io/ciudades-leonardo/resultados/), 
+así como una página desde la que os podréis [**descargar material derivado del proyecto**](https://gratet.github.io/ciudades-leonardo/descargas/).
 
-<section>
-<p>Sum&eacute;rgete en los datos que hemos recopilado en el Proyecto Ciudades Sostenibles y Saludables. En esta web podras enontrar desde la 
-<a href="https://gratet.github.io/ciudades-leonardo/caracterizacion/">caracterizaci&oacute;n de la morfolog&iacute;a de las ciudades</a> hasta el acceso a 
-<a href="https://gratet.github.io/ciudades-leonardo/comercios-cotidianos/">comercios cotidianos</a>, al 
-<a href="https://gratet.github.io/ciudades-leonardo/transporte-publico/">transporte p&uacute;blico</a> o los 
-<a href="https://gratet.github.io/ciudades-leonardo/espacios-publicos-abiertos/">espacios p&uacute;blicos abiertos</a> de las ciudades analizadas. Tambi&eacute;n puedes consultar la 
-<a href="https://gratet.github.io/ciudades-leonardo/caminabilidad/">caminabilidad</a> y la accessibilidad general.</p>
-</section>
-
-Si estás interesado en descargar recursos relacionados con el proyecto, visita nuestra página de descargas <a href="https://gratet.github.io/ciudades-leonardo/project/descargas/">aquí</a>
-
+### Consulta los principales resultados
 
 <html lang="es">
 <head>
@@ -131,5 +107,3 @@ Si estás interesado en descargar recursos relacionados con el proyecto, visita 
 </table>
 </div>
 </body>
-
-{% include gallery %}

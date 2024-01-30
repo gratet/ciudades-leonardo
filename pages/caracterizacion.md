@@ -15,6 +15,7 @@ header:
     image_fullwidth: headers/cl_header_index.png
     background-color: "#262930"
     caption: "Barcelona (Xavier Delclòs)"
+
 ---
 
 La morfología de las ciudades está estrechamente relacionada al acceso cotidiano a bienes y servicios. Las ciudades del contexto español 
@@ -23,6 +24,11 @@ de la década de los años sesenta del siglo pasado. Como consecuencia, en gran 
 de entramados irregulares y compactos, correspondientes a los centros históricos, áreas de ensanche, aún con elevados niveles de densidad 
 y compacidad, y desarrollos más recientes, caracterizados por mayores niveles de fragmentación y dispersión urbana, y mayormente relacionados 
 con el despliegue de infraestructuras de transporte de alta capacidad.
+
+<center>
+<!-- Taula 4 -->
+<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="290" frameborder="0"></iframe>
+</center>
 
 Dos indicadores que resultan de utilidad para el análisis de la morfología urbana son la densidad de población y la densidad de intersecciones. 
 En ciudades densamente pobladas, es común encontrar edificaciones más altas y un mayor aprovechamiento del espacio, lo que puede llevar a una 
