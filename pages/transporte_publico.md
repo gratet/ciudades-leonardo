@@ -41,7 +41,7 @@ Más allá de estos, existen también otras formas de transporte público, como 
 
 <center>
 <!-- Taula 6 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_6.htm" width="100%" height="280" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_6.htm" width="100%" height="260" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 6. </strong> Acceso a estaciones o paradas de transporte público. </figcaption>
 </center>
 
@@ -59,7 +59,7 @@ población con acceso a servicios de transporte público frecuente).
 <figure>
 <!-- Figura 5 -->
 <center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_5.png" width="700px" height="230" alt="Figura 3" /></center>
-    <figcaption style="text-align: center"><strong> Figura 5. </strong> Acceso a transporte público según nivel de frecuencia. </figcaption>
+    <figcaption style="text-align: center"><strong> <br> Figura 5. </strong> Acceso a transporte público según nivel de frecuencia. </figcaption>
 </figure>
 
 <em>1. Datos preliminares, pendientes de validación pormenorizada.<br></em>

@@ -9,7 +9,7 @@ meta_title: "Descargas"
 
 #[<cite class='fa-solid fa-lg fa-file-pdf'></cite>]({{ site.baseurl }}/files/informe_leonardo_preliminar_enero24.pdf)
 
-teaser: "En esta sección podeis encontrar todos los descargables disponibles del proyecto " 
+teaser: " " 
 
 meta_teaser: "Metadata about..."
 

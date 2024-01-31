@@ -55,7 +55,7 @@ de Las Palmas de Gran Canaria y Murcia la mayor parte de la población no tiene 
 
 <center>
 <!-- Taula 5 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_5.htm" width="100%" height="280" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_5.htm" width="100%" height="255" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 5. </strong> Acceso a tiendas de alimentación y otros comercios cotidianos en las ciudades analizadas. </figcaption>
 </center>
 
@@ -67,8 +67,8 @@ la población con acceso próximo a esta tipología de tienda.
 
 <figure>
 <!-- Figura 3 -->
-<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_4.png" width="700px" height="230" alt="Figura 3" /></center>
-    <figcaption style="text-align: center"><strong> Figura 4. </strong> Acceso a tiendas de alimentación y otros comercios cotidianos. </figcaption>
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_4.png" width="700px" height="3060" alt="Figura 3" /></center>
+    <figcaption style="text-align: center"><strong> <br>Figura 4. </strong> Acceso a tiendas de alimentación y otros comercios cotidianos. </figcaption>
 </figure>
 
 

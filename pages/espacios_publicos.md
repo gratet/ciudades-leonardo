@@ -39,7 +39,7 @@ público abierto por cápita (8 m<sup>2</sup>).
 
 <center>
 <!-- Taula 7 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_7.htm" width="100%" height="280" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_7.htm" width="100%" height="260" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 7. </strong> Acceso a espacios públicos abiertos en las ciudades analizadas. </figcaption>
 </center>
 
@@ -55,6 +55,6 @@ que existe un menor porcentaje de población con acceso a grandes espacios abier
 <figure>
 <!-- Figura 5 -->
 <center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_6.svg" width="700px" height="230" alt="Figura 3" /></center>
-    <figcaption style="text-align: center"><strong> Figura 6. </strong> Acceso a espacios públicos abiertos. </figcaption>
+    <figcaption style="text-align: center"><strong><br> Figura 6. </strong> Acceso a espacios públicos abiertos. </figcaption>
 </figure>
 

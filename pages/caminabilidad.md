@@ -32,7 +32,7 @@ indicador general de accesibilidad que engloba el acceso a tiendas de alimentaci
 <figure>
 <!-- Figura 5 -->
 <center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_7.svg" width="800px" height="230" alt="Figura 3" /></center>
-    <figcaption style="text-align: center"><strong> Figura 7. </strong> Índice de accesibilidad general: porcentaje de población según el grado de acceso. </figcaption>
+    <figcaption style="text-align: center"><strong> <br>Figura 7. </strong> Índice de accesibilidad general: porcentaje de población según el grado de acceso. </figcaption>
 </figure>
 
 
@@ -45,7 +45,7 @@ ciudades más caminables a nivel global, seguidas de Sevilla y Madrid, en este c
 
 <center>
 <!-- Taula 8 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_8.htm" width="100%" height="400" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_8.htm" width="100%" height="310" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 8. </strong> Valores de accesibilidad general y caminabilidad en las ciudades analizadas. </figcaption>
 </center>
 

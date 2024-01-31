@@ -40,7 +40,7 @@ de movilidad activa.
 
 <center>
 <!-- Taula 4 -->
-    <iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_4.htm" width="100%" height="290" frameborder="0"></iframe>
+    <iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_4.htm" width="100%" height="260" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 4. </strong> Densidad de población e intersecciones en las ciudades analizadas. </figcaption>
 </center>
 
