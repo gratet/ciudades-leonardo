@@ -38,7 +38,7 @@ En esta página web encontraréis información relativa al planteamiento general
 su [**metodología**](https://gratet.github.io/ciudades-leonardo/metodologia/), los [**principales resultados**](https://gratet.github.io/ciudades-leonardo/resultados/), 
 así como una página desde la que os podréis [**descargar material derivado del proyecto**](https://gratet.github.io/ciudades-leonardo/descargas/).
 
-### Consulta los principales resultados
+
 
 <html lang="es">
 <head>

@@ -28,7 +28,7 @@ El proyecto, desarrollado desde finales de 2022 hasta enero de 2024, ha tenido c
 sistemas de movilidad sostenibles y saludables**, considerando que la creación de ciudades más saludables es una prioridad global de la Organización Mundial de la Salud, a la vez que clave para
 lograr los  **[Objetivos de Desarrollo Sostenible (ODS)](https://pubmed.ncbi.nlm.nih.gov/34257157/){:target="_blank"}**.
 
-Con este fin, el proyecto aplica un **[software basado en código y datos abiertos](https://github.com/global-healthy-liveable-cities/global-indicators){:target="_blank"}** (como OpenStreetMap o los datos GTFS o General Transit Feed Specification),
+Con este fin, el proyecto aplica un **[software basado en código y datos abiertos](https://doi.org/10.25439/rmt.24760260){:target="_blank"}** (como OpenStreetMap o los datos GTFS o General Transit Feed Specification),
 **[desarrollado por parte de un grupo internacional de investigadores, liderado por la Universisdad RMIT de Melbourne (Australia)](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00072-9/fulltext){:target="_blank"}**. 
 Con este fin, la aplicación de este software también ha tenido como objetivo secundario la evaluación de su funcionamiento y de la validez de los datos para el análisis de este tipo de indicadores.
 

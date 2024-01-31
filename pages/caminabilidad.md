@@ -7,9 +7,9 @@ title: "Accesibilidad general y caminabilidad"
 meta_title: "Resultados"
 subheadline: ""
 
-teaser: "Contributions to national and international conferences."
+teaser: ""
 
-meta_teaser: "Contributions to national and international conferences."
+meta_teaser: ""
 
 header:
     image_fullwidth: headers/cl_header_index.png
@@ -23,15 +23,18 @@ eficiente a nivel ambiental, más democrática (siendo la que cuenta con menores
 de actividad física. La caminabilidad se configura a distintas escalas, des de la disposición y características de la trama urbana hasta el 
 diseño concreto del espacio público. A pesar de que existen varias definiciones posibles de caminabilidad, a cada una de esas escalas, 
 habitualmente se operativiza y como la combinación de una serie de características urbanas relacionadas con los indicadores presentados en los 
-apartados anteriores. Concretamente, las definiciones tradicionales de caminabilidad sustentan que ésta varía en función de la densidad construida 
+apartados anteriores. Concretamente, las **[definiciones tradicionales de caminabilidad](https://pubmed.ncbi.nlm.nih.gov/19406732/){:target="_blank"}** sustentan que ésta varía en función de la densidad construida 
 y de población, del acceso a bienes y servicios, o de la disposición de los usos del suelo en el territorio, y de aspectos relativos al diseño de la 
-trama urbana y del espacio público, **[como puede ser la densidad de intersecciones](https://pubmed.ncbi.nlm.nih.gov/19406732/){:target="_blank"}**. Así, tal y como se ha mencionado en el apartado metodológico de 
+trama urbana y del espacio público, como puede ser la densidad de intersecciones. Así, tal y como se ha mencionado en el apartado metodológico de 
 este documento, en este proyecto la caminabilidad se define como la combinación de la densidad de población, la densidad de intersecciones, y un 
 indicador general de accesibilidad que engloba el acceso a tiendas de alimentación, a tiendas de barrio y a paradas de transporte público.
 
 <figure>
-   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-05.png" alt="Figura 5" style="max-width: 100%; display: block; margin: 0 auto;">
+<!-- Figura 5 -->
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_7.svg" width="800px" height="230" alt="Figura 3" /></center>
+    <figcaption style="text-align: center"><strong> Figura 7. </strong> Índice de accesibilidad general: porcentaje de población según el grado de acceso. </figcaption>
 </figure>
+
 
 Por lo que se refiere al índice de accesibilidad general, los resultados mostrados en la **Tabla 8** y, por categorías, en la **Figura 7**, 
 indican que, a nivel global y de forma ponderada por población, las ciudades de Barcelona y Bilbao son las más accesibles en el contexto de las 
@@ -43,6 +46,7 @@ ciudades más caminables a nivel global, seguidas de Sevilla y Madrid, en este c
 <center>
 <!-- Taula 8 -->
 <iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_8.htm" width="100%" height="400" frameborder="0"></iframe>
+    <figcaption style="text-align: center"><strong> Tabla 8. </strong> Valores de accesibilidad general y caminabilidad en las ciudades analizadas. </figcaption>
 </center>
 
 Como en casos anteriores, índices abstractos como el de accesibilidad general o incluso el de caminabilidad pueden ser de difícil interpretación 
@@ -58,15 +62,14 @@ de población que reside en entornos con una caminabilidad superior al tercer cu
 con más del 60% de la población en esta situación).
 
 <figure>
-<!-- Figura 5 -->
-<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_7.svg" width="800px" height="230" alt="Figura 3" /></center>
-    <figcaption style="text-align: center;">Figura 7. Índice de accesibilidad general: porcentaje de población según el grado de acceso.</figcaption>
+   <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-05.png" alt="Figura 5" style="max-width: 100%; display: block; margin: 0 auto;">
 </figure>
 
 
-### Indicadores por ciudades
-
+<!--
 <center>
-<!-- imatges -->
+<!-- imatges 
 <iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
 </center>
+
+-->

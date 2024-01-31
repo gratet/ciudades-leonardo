@@ -12,15 +12,6 @@ header:
     caption: "Barcelona (Xavier Delclòs)"
 ---
 
-Más del 55% de la población mundial reside en áreas urbanas, cifra que se proyecta a superar el 60% para 2030. Este crecimiento exige comprender profundamente las condiciones actuales y futuras de las 
-ciudades, especialmente en términos de salud y sostenibilidad. La creación de entornos urbanos saludables y sostenibles se ha convertido en una prioridad global alineada con los Objetivos de Desarrollo 
-Sostenible y la Agenda 2030. En este contexto, el diseño de políticas urbanas que promuevan la accesibilidad y la movilidad activa se presenta como una estrategia clave para mejorar la calidad de vida y 
-lograr objetivos de equidad en salud.
-
-Las ciudades compactas con diversidad de usos urbanos y provisión de espacios abiertos naturales son fundamentales para la movilidad activa y la salud de la población. En particular, un modelo basado en la
-movilidad activa y el uso democrático del espacio público se alinea con la necesidad de reducir la dependencia del automóvil y promover estilos de vida saludables. Sin embargo, el desafío radica en la 
-implementación de políticas urbanas efectivas que se adapten a la realidad de cada ciudad, considerando información detallada a nivel de distrito, barrio o incluso una mayor resolución espacial.
-
 Este proyecto busca cuantificar y evaluar la sostenibilidad y salud de las grandes ciudades españolas, centrándose en indicadores espaciales de alta resolución. Estos indicadores abarcan desde la forma
 urbana hasta el acceso a comercios cotidianos, transporte colectivo y espacios públicos abiertos. La colaboración internacional y el uso de datos y software de acceso abierto permiten una evaluación 
 detallada, con la aspiración de generar conocimiento accesible y replicable. Con estos esfuerzos, buscamos contribuir a la creación de ciudades que sean entornos sostenibles, saludables y equitativos 

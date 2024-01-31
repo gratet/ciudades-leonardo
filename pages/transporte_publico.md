@@ -42,6 +42,7 @@ Más allá de estos, existen también otras formas de transporte público, como 
 <center>
 <!-- Taula 6 -->
 <iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_6.htm" width="100%" height="280" frameborder="0"></iframe>
+    <figcaption style="text-align: center"><strong> Tabla 6. </strong> Acceso a estaciones o paradas de transporte público. </figcaption>
 </center>
 
 Según los datos extraídos de los distintos operadores locales y regionales en base a sus datos GTFS, en todas las ciudades analizadas la mayor parte de 
@@ -57,20 +58,20 @@ población con acceso a servicios de transporte público frecuente).
 
 <figure>
 <!-- Figura 5 -->
-<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_5.svg" width="700px" height="230" alt="Figura 3" /></center>
-    <figcaption style="text-align: center;">Figura 5. Acceso a transporte público según nivel de frecuencia.</figcaption>
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_5.png" width="700px" height="230" alt="Figura 3" /></center>
+    <figcaption style="text-align: center"><strong> Figura 5. </strong> Acceso a transporte público según nivel de frecuencia. </figcaption>
 </figure>
 
-1. Datos preliminares, pendientes de validación pormenorizada.
-2. En otras ciudades pueden existir otras formas de transporte colectivo, por ejemplo Teleférico de Madrid, pero no se han encontrado datos GTFS disponibles.
+<em>1. Datos preliminares, pendientes de validación pormenorizada.<br></em>
+<em>2. En otras ciudades pueden existir otras formas de transporte colectivo, por ejemplo Teleférico de Madrid, pero no se han encontrado datos GTFS disponibles.</em>
 
-
-### Indicadores por ciudades
-
+<!--
 <center>
-<!-- imatges -->
+<!-- imatges 
 <iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
 </center>
+
+-->
 
 
 

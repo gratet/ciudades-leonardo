@@ -40,6 +40,7 @@ público abierto por cápita (8 m<sup>2</sup>).
 <center>
 <!-- Taula 7 -->
 <iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_7.htm" width="100%" height="280" frameborder="0"></iframe>
+    <figcaption style="text-align: center"><strong> Tabla 7. </strong> Acceso a espacios públicos abiertos en las ciudades analizadas. </figcaption>
 </center>
 
 No obstante, estos indicadores están sujetos a la definición de área urbana, y, por otro lado, no son completamente representativo del acceso real que la 
@@ -54,17 +55,14 @@ que existe un menor porcentaje de población con acceso a grandes espacios abier
 <figure>
 <!-- Figura 5 -->
 <center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_6.svg" width="700px" height="230" alt="Figura 3" /></center>
-    <figcaption style="text-align: center;">Figura 6. Acceso a espacios públicos abiertos.</figcaption>
+    <figcaption style="text-align: center"><strong> Figura 6. </strong> Acceso a espacios públicos abiertos. </figcaption>
 </figure>
 
 
-### Indicadores por ciudades
-
+<!--
 <center>
-<!-- imatges -->
+<!-- imatges 
 <iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
 </center>
 
-
-
-mapa 5
+-->

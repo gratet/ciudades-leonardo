@@ -20,7 +20,6 @@ header:
 
 ### Ciudades analizadas 
 
-<br>
 
 Este estudio se centra en el cálculo de indicadores en las diez ciudades más pobladas de España. Para ello, en primer lugar, se identificaron los **diez municipios con mayor población según el Censo de Población y Viviendas de 2021**,
 elaborado por el Instituto Nacional de Estadística. En segundo lugar, y para definir la extensión espacial y el volumen demográfico de las áreas urbanas reales de cada una de las ciudades, se identificó el perímetro urbano según
@@ -30,7 +29,7 @@ Como resultado, en este proyecto se analizan las áreas urbanas de **Barcelona, 
 
 <figure>
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/situacio_def.png" alt="Mapa 1" style="max-width: 100%; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Mapa 1. Ciudades caso de estudio.</figcaption>
+    <figcaption style="text-align: center"><strong>Mapa 1.</strong>  Ciudades caso de estudio.</figcaption>
 </figure>
 
 Los datos relativos a la extensión urbana de cada ciudad analizada y su volumen demográfico se presentan en la **Tabla 1**. En conjunto, las ciudades analizadas cubren una extensión de **1.637,4 km<sup>2</sup>**, incluyendo un total de 166 municipios,
@@ -41,7 +40,8 @@ municipales analizadas son las Palmas de Gran Canaria y Zaragoza, y presentan ex
 
 <center>
 <!-- Taula 1 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_1.html" width="100%" height="280" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_1.htm" width="100%" height="280" frameborder="0"></iframe>
+    <figcaption style="text-align: center"><strong>Tabla 1.</strong>  Descripción de las ciudades analizadas.</figcaption>
 </center>
 
 ### Software y datos 
@@ -64,7 +64,8 @@ Esta capa de centros urbanos define las áreas urbanas a partir de celdas de 1 k
 
 <center>
 <!-- Taula 2 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_2.htm" width="100%" height="230" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_2.htm" width="100%" height="210" frameborder="0"></iframe>
+    <figcaption style="text-align: center"><strong>Tabla 2.</strong>  Datos y fuentes originales.</figcaption>
 </center>
 
 
@@ -97,8 +98,8 @@ La **Figura 1** ilustra el flujo simplificado de procesos utilizado para calcula
 
 <figure>
 <!-- Figura 1 -->
-<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_1-01.svg" height="230" alt="Figura 1" />
-    <figcaption style="text-align: center;">Figura 1. Malla ráster de resolución de 100m.</figcaption>
+<img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_1-01.png" height="230" alt="Figura 1" />
+    <figcaption style="text-align: center"><strong>Figura 1.</strong>  Malla ráster de resolución de 100m.</figcaption>
 </figure>
 
 Los indicadores se calculan a nivel de área urbana y a una resolución de 100 metros, utilizando una malla ráster que incorpora la estimación de la población ya mencionada. La **Figura 2** muestra una imagen de satélite de la ciudad de Barcelona, en la que se muestra
@@ -107,12 +108,13 @@ un ejemplo de la malla de 100 metros de resolución utilizada para el cálculo d
 
 <figure>
    <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/figura_2.png" alt="Figura 2" style="max-width: 300px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Figura 2. Malla ráster de resolución de 100m.</figcaption>
+    <figcaption style="text-align: center"><strong> Figura 2. </strong>  Malla ráster de resolución de 100m.</figcaption>
 </figure>
 
 <center>
 <!-- Taula 3 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_3.htm" width="100%" height="430" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_3.htm" width="100%" height="410" frameborder="0"></iframe>
+    <figcaption style="text-align: center"><strong> Tabla 3. </strong>  Datos e indicadores calculados por el software. </figcaption>
 </center>
 
 En la obtención de resultados, el software genera diferentes ficheros de salida. En los cuales encontramos ficheros csv y bases de datos espaciales en formato gpkg, ambos, con los indicadores calculados. Para más detalle tanto del cálculo de cada uno de los 

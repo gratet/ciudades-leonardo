@@ -40,7 +40,8 @@ de movilidad activa.
 
 <center>
 <!-- Taula 4 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_4.htm" width="100%" height="290" frameborder="0"></iframe>
+    <iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_4.htm" width="100%" height="290" frameborder="0"></iframe>
+    <figcaption style="text-align: center"><strong> Tabla 4. </strong> Densidad de población e intersecciones en las ciudades analizadas. </figcaption>
 </center>
 
 En la **Tabla 4** se presenta una descripción de los valores de densidad de población y de intersecciones en las diez ciudades analizadas, y en 
@@ -57,13 +58,14 @@ mientras que los valores más bajos, y por tanto la trama urbana menos intricada
 
 <figure>
 <!-- Figura 3 -->
-<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_3.svg" width="700px" height="230" alt="Figura 3" /></center>
-    <figcaption style="text-align: center;">Figura 3. Histograma de densidades de población e intersecciones.</figcaption>
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_3.svg" width="900px" height="230" alt="Figura 3" /></center>
+    <figcaption style="text-align: center"><strong> Figura 3. </strong> Histograma de densidades de población e intersecciones. </figcaption>
 </figure>
 
-### Indicadores por ciudades
 
+<!--
 <center>
-<!-- imatges -->
+<!-- imatges 
 <iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
 </center>
+-->
