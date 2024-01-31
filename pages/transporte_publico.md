@@ -65,14 +65,5 @@ población con acceso a servicios de transporte público frecuente).
 <em>1. Datos preliminares, pendientes de validación pormenorizada.<br></em>
 <em>2. En otras ciudades pueden existir otras formas de transporte colectivo, por ejemplo Teleférico de Madrid, pero no se han encontrado datos GTFS disponibles.</em>
 
-<!--
-<center>
-<!-- imatges 
-<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
-</center>
-
--->
-
-
 
 

@@ -58,11 +58,3 @@ que existe un menor porcentaje de población con acceso a grandes espacios abier
     <figcaption style="text-align: center"><strong> Figura 6. </strong> Acceso a espacios públicos abiertos. </figcaption>
 </figure>
 
-
-<!--
-<center>
-<!-- imatges 
-<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
-</center>
-
--->

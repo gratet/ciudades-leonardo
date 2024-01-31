@@ -65,7 +65,3 @@ header:
 
 
 
-
-### Resultados por ciudad
-
-

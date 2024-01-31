@@ -66,10 +66,3 @@ con más del 60% de la población en esta situación).
 </figure>
 
 
-<!--
-<center>
-<!-- imatges 
-<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
-</center>
-
--->

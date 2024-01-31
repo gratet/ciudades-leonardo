@@ -72,12 +72,3 @@ la población con acceso próximo a esta tipología de tienda.
 </figure>
 
 
-
-
-<!--
-<center>
-<!-- imatges 
-<iframe src="https://gratet.github.io/ciudades-leonardo/galerias/index.htm" width="100%" height="1200px" frameborder="0"></iframe>
-</center>
-
--->
