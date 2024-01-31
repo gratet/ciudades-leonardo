@@ -32,6 +32,8 @@ sidebar: right
 
 Bienvenido a la página web del proyecto **Ciudades Sostenibles y Saludables**
 
+Este proyecto tiene como objetivo cuantificar y evaluar en qué medida las grandes ciudades españolas cuentan con diseños urbanos y sistemas de movilidad sostenibles y saludables.
+
 En esta página web encontraréis información relativa al planteamiento general del [**proyecto**](https://gratet.github.io/ciudades-leonardo/project/), 
 su [**metodología**](https://gratet.github.io/ciudades-leonardo/metodologia/), los [**principales resultados**](https://gratet.github.io/ciudades-leonardo/resultados/), 
 así como una página desde la que os podréis [**descargar material derivado del proyecto**](https://gratet.github.io/ciudades-leonardo/descargas/).
@@ -75,17 +77,17 @@ así como una página desde la que os podréis [**descargar material derivado de
   <tr>
     <td>
       <a href="https://gratet.github.io/ciudades-leonardo/caracterizacion/">
-        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-mc.png" alt="Mapa 1">
+        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-mc.svg" alt="Mapa 1">
       </a>
     </td>
     <td>
       <a href="https://gratet.github.io/ciudades-leonardo/comercios-cotidianos/" target="_blank">
-        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-cc.png" alt="Mapa 2">
+        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-cc.svg" alt="Mapa 2">
       </a>
     </td>
     <td>
       <a href="https://gratet.github.io/ciudades-leonardo/transporte-publico/" target="_blank">
-        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-tp.png" alt="Mapa 3">
+        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-tp.svg" alt="Mapa 3">
       </a>
     </td>
   </tr>
@@ -95,12 +97,12 @@ así como una página desde la que os podréis [**descargar material derivado de
   <tr>
     <td>
       <a href="https://gratet.github.io/ciudades-leonardo/espacios-publicos-abiertos/" target="_blank">
-        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-aos.png" alt="Mapa 3">
+        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-aos.svg" alt="Mapa 3">
       </a>
     </td>
     <td>
       <a href="https://gratet.github.io/ciudades-leonardo/caminabilidad/" target="_blank">
-        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-ag.png" alt="Mapa 5">
+        <img class="styled-image" src="https://gratet.github.io/ciudades-leonardo/images/img_cos/index-ag.svg" alt="Mapa 5">
       </a>
     </td>
   </tr>
