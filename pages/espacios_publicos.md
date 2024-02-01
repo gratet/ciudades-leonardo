@@ -42,7 +42,7 @@ público abierto por cápita (8 m<sup>2</sup>).
 <iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_7.htm" width="100%" height="260" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 7. </strong> Acceso a espacios públicos abiertos en las ciudades analizadas. </figcaption>
 </center>
-
+<br>
 No obstante, estos indicadores están sujetos a la definición de área urbana, y, por otro lado, no son completamente representativo del acceso real que la 
 población a este tipo de espacio. Con este objetivo resulta más informativo el indicador del porcentaje de población con acceso a dichos espacios. En general, 
 en todas las ciudades la mayor parte de la población tiene acceso a algún espacio público abierto en sus ciudades (más del 65% de la población). En este 

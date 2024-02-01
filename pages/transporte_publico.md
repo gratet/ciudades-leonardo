@@ -44,6 +44,7 @@ Más allá de estos, existen también otras formas de transporte público, como 
 <iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_6.htm" width="100%" height="260" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 6. </strong> Acceso a estaciones o paradas de transporte público. </figcaption>
 </center>
+<br>
 
 Según los datos extraídos de los distintos operadores locales y regionales en base a sus datos GTFS, en todas las ciudades analizadas la mayor parte de 
 población tiene acceso a algún tipo de servicio de transporte público (**Tabla 6 y Figura 5**), desde Murcia (63,8% de la población con acceso), hasta los máximos 

@@ -30,13 +30,13 @@ sidebar: right
 
 ---
 
-Bienvenido a la página web del proyecto **Ciudades Sostenibles y Saludables**
+Bienvenido a la página web del proyecto **Ciudades Sostenibles y Saludables**.
 
 Este proyecto tiene como objetivo cuantificar y evaluar en qué medida las grandes ciudades españolas cuentan con diseños urbanos y sistemas de movilidad sostenibles y saludables.
 
 En esta página web encontraréis información relativa al planteamiento general del [**proyecto**](https://gratet.github.io/ciudades-leonardo/project/), 
 su [**metodología**](https://gratet.github.io/ciudades-leonardo/metodologia/), los [**principales resultados**](https://gratet.github.io/ciudades-leonardo/resultados/), 
-así como una página desde la que os podréis [**descargar material derivado del proyecto**](https://gratet.github.io/ciudades-leonardo/descargas/).
+así como una página desde la que os podréis [**descargar material derivado del proyecto**](https://gratet.github.io/ciudades-leonardo/project/descargas/).
 
 
 

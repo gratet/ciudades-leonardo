@@ -55,9 +55,10 @@ de Las Palmas de Gran Canaria y Murcia la mayor parte de la población no tiene 
 
 <center>
 <!-- Taula 5 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_5.htm" width="100%" height="255" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_5.htm" width="100%" height="260" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 5. </strong> Acceso a tiendas de alimentación y otros comercios cotidianos en las ciudades analizadas. </figcaption>
 </center>
+<br>
 
 El patrón es ligeramente distinto en términos de acceso a pie a otros tipos de tiendas cotidianas: en este caso, las 
 ciudades de mayor rango demográfico, Barcelona y Madrid, presentan un 66,2% y un 62% de la población respectivamente con 
@@ -65,6 +66,7 @@ acceso a este tipo de comercio, seguidas de Sevilla (61,1%), Bilbao (60,1%), Zar
 (54,6) y Palma (51,1%). Del mismo modo que en el caso anterior, Las Palmas de Gran Canaria y Murcia no llegan al 50% de 
 la población con acceso próximo a esta tipología de tienda.
 
+<br>
 <figure>
 <!-- Figura 3 -->
 <center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_4.png" width="700px" height="3060" alt="Figura 3" /></center>

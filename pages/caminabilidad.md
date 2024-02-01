@@ -30,8 +30,8 @@ este documento, en este proyecto la caminabilidad se define como la combinación
 indicador general de accesibilidad que engloba el acceso a tiendas de alimentación, a tiendas de barrio y a paradas de transporte público.
 
 <figure>
-<!-- Figura 5 -->
-<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_7.svg" width="800px" height="230" alt="Figura 3" /></center>
+<!-- Figura 7 -->
+<center><img src="https://gratet.github.io/ciudades-leonardo/images/svg_files/figura_7.png" width="800px" height="230" alt="Figura 3" /></center>
     <figcaption style="text-align: center"><strong> <br>Figura 7. </strong> Índice de accesibilidad general: porcentaje de población según el grado de acceso. </figcaption>
 </figure>
 
@@ -45,10 +45,10 @@ ciudades más caminables a nivel global, seguidas de Sevilla y Madrid, en este c
 
 <center>
 <!-- Taula 8 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_8.htm" width="100%" height="310" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_8.htm" width="100%" height="305" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong> Tabla 8. </strong> Valores de accesibilidad general y caminabilidad en las ciudades analizadas. </figcaption>
 </center>
-
+<br>
 Como en casos anteriores, índices abstractos como el de accesibilidad general o incluso el de caminabilidad pueden ser de difícil interpretación 
 sin un elemento comparativo o un valor de referencia. Es por este motivo que puede resultar de más utilidad identificar el porcentaje de población 
 que reside en distintos umbrales de caminabilidad, en relación a los valores medios en el conjunto de las diez ciudades analizadas. Así, en la
