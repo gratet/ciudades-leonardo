@@ -56,7 +56,7 @@ header:
 <body>
 
 <a href="{{ site.baseurl }}/files/informe_resultados_css_2024.pdf" target="_blank" class="custom-button">
-  <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informe_preliminar.png" alt="Informe Preliminar">
+  <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informe_preliminar.png" alt="Informe de resultados">
 </a>
 
 </body>
@@ -73,69 +73,68 @@ header:
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     /* Estilo normal del botón */
-    .custom-button {
-      display: inline-block;
-      overflow: hidden;
-      width: 220px;
-      height: 300px;
-      border: 2px solid #3498db; /* Color del borde del botón */
-      border-radius: 5px;
-      cursor: pointer;
-    }
-
-    .custom-button img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-
-    /* Estilo al pasar el ratón por encima del botón */
-    .custom-button:hover {
-      border-color: #2980b9; /* Cambia el color del borde al pasar el ratón */
-    }
+  .custom-button {
+    display: inline-block;
+    overflow: hidden;
+    width: 176px;
+    height: 240px;
+    border: 1.6px solid #3498db; /* Color del borde del botón */
+    border-radius: 4px;
+    cursor: pointer;
+    transition: border-color 0.3s ease; /* Transició suau del color del borde */
+  }
+  .custom-button img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* Estilo al pasar el ratón por encima del botón */
+  .custom-button:hover {
+    border-color: #2980b9; /* Cambia el color del borde al pasar el ratón */
+  }
   </style>
 </head>
 <body>
 
 <a href="{{ site.baseurl }}/files/ir_barcelona_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-bcn.jpg" alt="Informe Barcelona">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_bilbao_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-bil.jpg" alt="Informe Bilbao">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_laspalmas_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-laspalmas.jpg" alt="Informe Las Palmas de GC">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_madrid_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-mad.jpg" alt="Informe Madrid">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_malaga_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-mal.jpg" alt="Informe Málaga">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_murcia_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-mur.jpg" alt="Informe Murcia">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_palma_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-pal.jpg" alt="Informe Palma">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_sevilla_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-sev.jpg" alt="Informe Sevilla">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_valencia_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-val.jpg" alt="Informe Valencia">
-</a>
+</a> &nbsp;&nbsp;
 
 <a href="{{ site.baseurl }}/files/ir_zaragoza_css_enero24.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informes_ciudades-zgz.jpg" alt="Informe Zaragoza">
-</a>
+</a> &nbsp;&nbsp;
 
 </body>
 </html>
