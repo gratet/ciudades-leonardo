@@ -31,11 +31,11 @@ por habitante](https://eionet.kormany.hu/download/9/14/e2000/who-benefits-from-n
 </figure>
 
 En el caso de las grandes ciudades españolas, el reto es de especial relevancia en comparación, por ejemplo, al resto de ciudades europeas, considerando 
-que dichas ciudades se caracterizan por una elevada compacidad de la forma urbana y elevados niveles de densidad construida. En el caso de las ciudades 
+que dichas ciudades se caracterizan por una elevada compacidad de la forma urbana y elevados niveles de densidad construida. En el caso de las ciudades
 analizadas, a nivel global y en términos absolutos, se observa en la **Tabla 7** de qué modo destacan las ciudades de Barcelona y Madrid, también evidentemente 
-con relación con su extensión urbana. En términos relativos, las ciudades mejores provistas de espacio públicos abiertos son la ciudad de Bilbao, con 72 m<sup>2</sup> 
-por cápita, seguido de Barcelona (45). En el otro extremo, destaca el caso de las Palmas de Gran Canaria como la ciudad con menor provisión de espacio 
-público abierto por cápita (8 m<sup>2</sup>).
+con relación con su extensión urbana. En términos relativos, las ciudades mejor provistas de espacio públicos abiertos son la ciudad de Bilbao, con 72 m<sup>2</sup> 
+por cápita, seguido de Barcelona (45 m<sup>2</sup>). En el otro extremo, destaca el caso de Las Palmas de Gran Canaria como la ciudad con menor provisión de espacio
+público abierto por cápita (8,9 m<sup>2</sup>).
 
 <center>
 <!-- Taula 7 -->
@@ -43,14 +43,16 @@ público abierto por cápita (8 m<sup>2</sup>).
     <figcaption style="text-align: center"><strong> Tabla 7. </strong> Acceso a espacios públicos abiertos en las ciudades analizadas. </figcaption>
 </center>
 <br>
-No obstante, estos indicadores están sujetos a la definición de área urbana, y, por otro lado, no son completamente representativo del acceso real que la 
-población a este tipo de espacio. Con este objetivo resulta más informativo el indicador del porcentaje de población con acceso a dichos espacios. En general, 
-en todas las ciudades la mayor parte de la población tiene acceso a algún espacio público abierto en sus ciudades (más del 65% de la población). En este 
-sentido, destacan de nuevo las ciudades de Barcelona y Bilbao, en las que más de un 95% de la población tiene acceso a algún tipo de espacio público abierto. 
-Por la cola, de nuevo, se presentan los casos de Las Palmas de Gran Canaria y Murcia. No obstante, es interesante observar de qué modo esta proporción se reduce 
-cuando se considera exclusivamente el acceso a grandes espacios abiertos. En este caso es Bilbao la ciudad que lidera la tabla, con un 80,5% de la población 
-con acceso a grandes espacios, a la que le sigue este caso le sigue Madrid (68%) y Barcelona (64,9%). En este caso son Murcia y Málaga las ciudades en las 
-que existe un menor porcentaje de población con acceso a grandes espacios abiertos públicos (22,7% y 35,3%, respectivamente).
+
+No obstante, estos indicadores están sujetos a la definición de área urbana, y, por otro lado, no son completamente representativos del acceso real que tiene 
+la población a este tipo de espacio. Con este objetivo, resulta más informativo el indicador del porcentaje de población con acceso a dichos espacios. En general, 
+en todas las ciudades, la mayor parte de la población tiene acceso a algún espacio público abierto en sus ciudades (más del 65% de la población). En este sentido, 
+destacan de nuevo las ciudades de Barcelona y Bilbao, en las que más de un 95% de la población tiene acceso a algún tipo de espacio público abierto. Por el contrario, 
+en los últimos lugares se encuentran Las Palmas de Gran Canaria y Murcia.
+
+Sin embargo, es interesante observar cómo esta proporción se reduce cuando se considera exclusivamente el acceso a grandes espacios abiertos. En este caso, Bilbao 
+lidera la tabla, con un 80,5% de la población con acceso a grandes espacios, seguido de Madrid (68%) y Barcelona (64,9%). En contraste, Murcia y Málaga son las 
+ciudades en las que existe un menor porcentaje de población con acceso a grandes espacios abiertos públicos (22,7% y 35,3%, respectivamente).
 
 <figure>
 <!-- Figura 5 -->

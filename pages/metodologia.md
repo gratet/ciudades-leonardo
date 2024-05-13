@@ -40,7 +40,7 @@ municipales analizadas son las Palmas de Gran Canaria y Zaragoza, y presentan ex
 
 <center>
 <!-- Taula 1 -->
-<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_1.htm" width="100%" height="255" frameborder="0"></iframe>
+<iframe src="https://gratet.github.io/ciudades-leonardo/tablas/tabla_1.htm" width="100%" height="260" frameborder="0"></iframe>
     <figcaption style="text-align: center"><strong>Tabla 1.</strong>  Descripción de las ciudades analizadas.</figcaption>
 </center>
 

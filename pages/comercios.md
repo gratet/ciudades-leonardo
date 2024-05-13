@@ -36,22 +36,21 @@ estancos y otros establecimientos similares.
    <img src="https://gratet.github.io/ciudades-leonardo/images/indicadores/indicador-02.png" alt="Figura 3" style="max-width: 100%; display: block; margin: 0 auto;">
 </figure>
 
-En la **Tabla 5** se muestran algunos datos generales del acceso a tiendas de alimentación y otras tiendas de comercio cotidiano 
-en las grandes ciudades españolas analizadas en este proyecto. Más allá de los valores absolutos, con Barcelona y Madrid en 
-cabeza, claramente relacionados con la dimensión de las ciudades, es interesante observar algunas diferencias a la provisión 
-de este tipo de comercios en relación con la población de cada ciudad. Por lo que se refiere a tiendas de alimentación, 
-destacan el caso de Zaragoza (1,7 por cada 1.000 habitantes) y Bilbao (1,6) respecto al resto de ciudades. Con una menor 
-provisión por cápita se sitúan Murcia y Madrid, con tan sólo 0,6 tiendas de alimentación por cada 1,000 habitantes. 
-En cuanto a la provisión de otras tiendas de comercio cotidiano, se observan menores diferencias, con entre 0,3 y 0,8 tiendas 
-por cada mil habitantes.
 
-No obstante, un indicador más útil para entender el acceso real es el del porcentaje de población en cada ciudad que tiene 
-acceso a este tipo de comercio, y que se presenta tanto en la **Tabla 5** como de forma gráfica en la **Figura 4**. Se observa cómo, 
-en términos de acceso a tiendas de alimentación, destacan Bilbao y Barcelona por encima del resto, con 75% de la población 
-con acceso a pie a menos de 500 metros a una tienda de estas características, seguidas de Palma (72,5%), Sevilla (70,3%), 
-Valencia (69,1%), Zaragoza (68,6), Madrid (65,6%) y Málaga (56,3%). Es también interesante observar cómo en las ciudades 
-de Las Palmas de Gran Canaria y Murcia la mayor parte de la población no tiene acceso a pie a este tipo de tienda (45,7% y 
-39,9%, respectivamente).
+En la **Tabla 5** se muestran algunos datos generales del acceso a tiendas de alimentación y otras tiendas de comercio cotidiano en
+las grandes ciudades españolas analizadas en este proyecto. Más allá de los valores absolutos, con Barcelona y Madrid en cabeza, 
+claramente relacionados con la dimensión de las ciudades, es interesante observar algunas diferencias a la provisión de este tipo 
+de comercios en relación con la población de cada ciudad. Por lo que se refiere a tiendas de alimentación, destacan el caso de Zaragoza 
+(1,7 por cada 1.000 habitantes) y Bilbao (1,6) respecto al resto de ciudades. Con una menor provisión por cápita se sitúan Murcia y 
+Madrid, con tan sólo 0,6 tiendas de alimentación por cada 1,000 habitantes. En cuanto a la provisión de otras tiendas de comercio 
+cotidiano, se observan menores diferencias, con entre 0,3 y 0,8 tiendas por cada mil habitantes.
+
+No obstante, un indicador más útil para entender el acceso real es el del porcentaje de población en cada ciudad que tiene acceso 
+a este tipo de comercio, y que se presenta tanto en la **Tabla 5** como de forma gráfica en la **Figura 4**. Se observa cómo, en 
+érminos de acceso a tiendas de alimentación, destacan Bilbao y Barcelona por encima del resto, con el 75% de la población con acceso 
+a pie a menos de 500 metros a una tienda de estas características, seguidas de Palma (72,5%), Sevilla (70,3%), Valencia (69,1%), 
+Zaragoza (68,6), Madrid (65,6%) y Málaga (56,3%). Es también interesante observar cómo en las ciudades de Las Palmas de Gran Canaria y 
+Murcia la mayor parte de la población no tiene acceso a pie a este tipo de tienda (45,7% y 39,9%, respectivamente).
 
 <center>
 <!-- Taula 5 -->
@@ -60,11 +59,17 @@ de Las Palmas de Gran Canaria y Murcia la mayor parte de la población no tiene 
 </center>
 <br>
 
-El patrón es ligeramente distinto en términos de acceso a pie a otros tipos de tiendas cotidianas: en este caso, las 
-ciudades de mayor rango demográfico, Barcelona y Madrid, presentan un 66,2% y un 62% de la población respectivamente con 
-acceso a este tipo de comercio, seguidas de Sevilla (61,1%), Bilbao (60,1%), Zaragoza (58,9%), Valencia (55,7%), Málaga 
-(54,6) y Palma (51,1%). Del mismo modo que en el caso anterior, Las Palmas de Gran Canaria y Murcia no llegan al 50% de 
-la población con acceso próximo a esta tipología de tienda.
+El patrón es ligeramente distinto en términos de acceso a pie a otros tipos de tiendas cotidianas: en este caso, las ciudades de
+mayor rango demográfico, Barcelona y Madrid, presentan un 66,2% y un 62% de la población respectivamente con acceso a este tipo de
+comercio, seguidas de Sevilla (61,1%), Bilbao (60,1%), Zaragoza (58,9%), Valencia (55,7%), Málaga (54,6%) y Palma (51,1%). Del mismo
+modo que en el caso anterior, Las Palmas de Gran Canaria y Murcia no llegan al 50% de la población con acceso próximo a esta tipología
+de tienda.
+
+Más allá de estas cifras generales, la cartografía presentada al final de este apartado muestra la distribución espacial a tiendas
+de alimentación y tiendas de comercio cotidiano en las diez ciudades analizadas. En este caso, se muestran tres categorías diferenciadas:
+zonas de la ciudad con acceso a menos de 500m a pie a tiendas de alimentación, zonas con acceso a pie a otros comercios cotidianos y,
+finalmente, zonas con acceso directo a ambos tipos de comercio cotidiano.
+
 
 <br>
 <figure>
