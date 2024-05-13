@@ -55,7 +55,7 @@ header:
 </head>
 <body>
 
-<a href="{{ site.baseurl }}/files/informe_resultados_css_enero24.pdf" target="_blank" class="custom-button">
+<a href="{{ site.baseurl }}/files/informe_resultados_css_2024.pdf" target="_blank" class="custom-button">
   <img src="https://gratet.github.io/ciudades-leonardo/images/img_cos/informe_preliminar.png" alt="Informe Preliminar">
 </a>
 
